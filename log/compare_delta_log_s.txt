@@ -1,0 +1,266 @@
+Start Process>> CompanyId: 0C000006U3, ShareClassId: 0P000000PA, File:NRA\Fundamental\EarningRatios\Delta\Delta_EarningRatiosAOR.zip
+zip file not found: \\morningstar.com\shares\GeDataFeed\GeDataFeed\NRA\Fundamental\EarningRatios\Delta\Delta_EarningRatiosAOR_2018-03-24.zip
+set_data_0402 is none
+Process Done
+
+Start Process>> CompanyId: 0C000006U3, ShareClassId: 0P000000PA, File:NRA\Fundamental\EarningRatios\Delta\Delta_EarningRatiosRestate.zip
+zip file not found: \\morningstar.com\shares\GeDataFeed\GeDataFeed\NRA\Fundamental\EarningRatios\Delta\Delta_EarningRatiosRestate_2018-03-24.zip
+set_data_0402 is none
+Process Done
+
+Start Process>> CompanyId: 0C000006U3, ShareClassId: 0P000000PA, File:NRA\Fundamental\EarningReports\Delta\Delta_EarningReportsAOR.zip
+zip file not found: \\morningstar.com\shares\GeDataFeed\GeDataFeed\NRA\Fundamental\EarningReports\Delta\Delta_EarningReportsAOR_2018-03-24.zip
+set_data_0402 is none
+Process Done
+
+Start Process>> CompanyId: 0C000006U3, ShareClassId: 0P000000PA, File:NRA\Fundamental\EarningReports\Delta\Delta_EarningReportsRestate.zip
+zip file not found: \\morningstar.com\shares\GeDataFeed\GeDataFeed\NRA\Fundamental\EarningReports\Delta\Delta_EarningReportsRestate_2018-03-24.zip
+set_data_0402 is none
+Process Done
+
+Start Process>> CompanyId: 0C000006U3, ShareClassId: 0P00007NZM, File:UKI\Fundamental\EarningRatios\Delta\Delta_EarningRatiosAOR.zip
+zip file not found: \\morningstar.com\shares\GeDataFeed\GeDataFeed\UKI\Fundamental\EarningRatios\Delta\Delta_EarningRatiosAOR_2018-03-24.zip
+set_data_0402 is none
+Process Done
+
+Start Process>> CompanyId: 0C000006U3, ShareClassId: 0P00007NZM, File:UKI\Fundamental\EarningRatios\Delta\Delta_EarningRatiosRestate.zip
+zip file not found: \\morningstar.com\shares\GeDataFeed\GeDataFeed\UKI\Fundamental\EarningRatios\Delta\Delta_EarningRatiosRestate_2018-03-24.zip
+set_data_0402 is none
+Process Done
+
+Start Process>> CompanyId: 0C000006U3, ShareClassId: 0P00007NZM, File:UKI\Fundamental\EarningReports\Delta\Delta_EarningReportsAOR.zip
+zip file not found: \\morningstar.com\shares\GeDataFeed\GeDataFeed\UKI\Fundamental\EarningReports\Delta\Delta_EarningReportsAOR_2018-03-24.zip
+set_data_0402 is none
+Process Done
+
+Start Process>> CompanyId: 0C000006U3, ShareClassId: 0P00007NZM, File:UKI\Fundamental\EarningReports\Delta\Delta_EarningReportsRestate.zip
+zip file not found: \\morningstar.com\shares\GeDataFeed\GeDataFeed\UKI\Fundamental\EarningReports\Delta\Delta_EarningReportsRestate_2018-03-24.zip
+set_data_0402 is none
+Process Done
+
+Start Process>> CompanyId: 0C000006U3, ShareClassId: 0P00008335, File:NRA\Fundamental\EarningRatios\Delta\Delta_EarningRatiosAOR.zip
+zip file not found: \\morningstar.com\shares\GeDataFeed\GeDataFeed\NRA\Fundamental\EarningRatios\Delta\Delta_EarningRatiosAOR_2018-03-24.zip
+Can't find 0C000006U3|0P00008335 in z:\DEV\PT2.0_GEDF_180315\NRA\Fundamental\EarningRatios\Delta\Delta_EarningRatiosAOR_2018-03-24.zip
+Can't find 0C000006U3|0P00008335 in z:\NRA\Fundamental\EarningRatios\Delta\Delta_EarningRatiosAOR_2018-03-24.zip
+
+Process Done
+
+Start Process>> CompanyId: 0C000006U3, ShareClassId: 0P00008335, File:NRA\Fundamental\EarningRatios\Delta\Delta_EarningRatiosRestate.zip
+zip file not found: \\morningstar.com\shares\GeDataFeed\GeDataFeed\NRA\Fundamental\EarningRatios\Delta\Delta_EarningRatiosRestate_2018-03-24.zip
+Can't find 0C000006U3|0P00008335 in z:\DEV\PT2.0_GEDF_180315\NRA\Fundamental\EarningRatios\Delta\Delta_EarningRatiosRestate_2018-03-24.zip
+Can't find 0C000006U3|0P00008335 in z:\NRA\Fundamental\EarningRatios\Delta\Delta_EarningRatiosRestate_2018-03-24.zip
+
+Process Done
+
+Start Process>> CompanyId: 0C000006U3, ShareClassId: 0P00008335, File:NRA\Fundamental\EarningReports\Delta\Delta_EarningReportsAOR.zip
+zip file not found: \\morningstar.com\shares\GeDataFeed\GeDataFeed\NRA\Fundamental\EarningReports\Delta\Delta_EarningReportsAOR_2018-03-24.zip
+Can't find 0C000006U3|0P00008335 in z:\DEV\PT2.0_GEDF_180315\NRA\Fundamental\EarningReports\Delta\Delta_EarningReportsAOR_2018-03-24.zip
+Can't find 0C000006U3|0P00008335 in z:\NRA\Fundamental\EarningReports\Delta\Delta_EarningReportsAOR_2018-03-24.zip
+
+Process Done
+
+Start Process>> CompanyId: 0C000006U3, ShareClassId: 0P00008335, File:NRA\Fundamental\EarningReports\Delta\Delta_EarningReportsRestate.zip
+zip file not found: \\morningstar.com\shares\GeDataFeed\GeDataFeed\NRA\Fundamental\EarningReports\Delta\Delta_EarningReportsRestate_2018-03-24.zip
+Can't find 0C000006U3|0P00008335 in z:\DEV\PT2.0_GEDF_180315\NRA\Fundamental\EarningReports\Delta\Delta_EarningReportsRestate_2018-03-24.zip
+Can't find 0C000006U3|0P00008335 in z:\NRA\Fundamental\EarningReports\Delta\Delta_EarningReportsRestate_2018-03-24.zip
+
+Process Done
+
+Start Process>> CompanyId: 0C000006U3, ShareClassId: 0P00008336, File:NRA\Fundamental\EarningRatios\Delta\Delta_EarningRatiosAOR.zip
+zip file not found: \\morningstar.com\shares\GeDataFeed\GeDataFeed\NRA\Fundamental\EarningRatios\Delta\Delta_EarningRatiosAOR_2018-03-24.zip
+Can't find 0C000006U3|0P00008336 in z:\DEV\PT2.0_GEDF_180315\NRA\Fundamental\EarningRatios\Delta\Delta_EarningRatiosAOR_2018-03-24.zip
+Can't find 0C000006U3|0P00008336 in z:\NRA\Fundamental\EarningRatios\Delta\Delta_EarningRatiosAOR_2018-03-24.zip
+
+Process Done
+
+Start Process>> CompanyId: 0C000006U3, ShareClassId: 0P00008336, File:NRA\Fundamental\EarningRatios\Delta\Delta_EarningRatiosRestate.zip
+zip file not found: \\morningstar.com\shares\GeDataFeed\GeDataFeed\NRA\Fundamental\EarningRatios\Delta\Delta_EarningRatiosRestate_2018-03-24.zip
+Can't find 0C000006U3|0P00008336 in z:\DEV\PT2.0_GEDF_180315\NRA\Fundamental\EarningRatios\Delta\Delta_EarningRatiosRestate_2018-03-24.zip
+Can't find 0C000006U3|0P00008336 in z:\NRA\Fundamental\EarningRatios\Delta\Delta_EarningRatiosRestate_2018-03-24.zip
+
+Process Done
+
+Start Process>> CompanyId: 0C000006U3, ShareClassId: 0P00008336, File:NRA\Fundamental\EarningReports\Delta\Delta_EarningReportsAOR.zip
+zip file not found: \\morningstar.com\shares\GeDataFeed\GeDataFeed\NRA\Fundamental\EarningReports\Delta\Delta_EarningReportsAOR_2018-03-24.zip
+Can't find 0C000006U3|0P00008336 in z:\DEV\PT2.0_GEDF_180315\NRA\Fundamental\EarningReports\Delta\Delta_EarningReportsAOR_2018-03-24.zip
+Can't find 0C000006U3|0P00008336 in z:\NRA\Fundamental\EarningReports\Delta\Delta_EarningReportsAOR_2018-03-24.zip
+
+Process Done
+
+Start Process>> CompanyId: 0C000006U3, ShareClassId: 0P00008336, File:NRA\Fundamental\EarningReports\Delta\Delta_EarningReportsRestate.zip
+zip file not found: \\morningstar.com\shares\GeDataFeed\GeDataFeed\NRA\Fundamental\EarningReports\Delta\Delta_EarningReportsRestate_2018-03-24.zip
+Can't find 0C000006U3|0P00008336 in z:\DEV\PT2.0_GEDF_180315\NRA\Fundamental\EarningReports\Delta\Delta_EarningReportsRestate_2018-03-24.zip
+Can't find 0C000006U3|0P00008336 in z:\NRA\Fundamental\EarningReports\Delta\Delta_EarningReportsRestate_2018-03-24.zip
+
+Process Done
+
+Start Process>> CompanyId: 0C000006U3, ShareClassId: 0P00009V3I, File:NRA\Fundamental\EarningRatios\Delta\Delta_EarningRatiosAOR.zip
+zip file not found: \\morningstar.com\shares\GeDataFeed\GeDataFeed\NRA\Fundamental\EarningRatios\Delta\Delta_EarningRatiosAOR_2018-03-24.zip
+Can't find 0C000006U3|0P00009V3I in z:\DEV\PT2.0_GEDF_180315\NRA\Fundamental\EarningRatios\Delta\Delta_EarningRatiosAOR_2018-03-24.zip
+Can't find 0C000006U3|0P00009V3I in z:\NRA\Fundamental\EarningRatios\Delta\Delta_EarningRatiosAOR_2018-03-24.zip
+
+Process Done
+
+Start Process>> CompanyId: 0C000006U3, ShareClassId: 0P00009V3I, File:NRA\Fundamental\EarningRatios\Delta\Delta_EarningRatiosRestate.zip
+zip file not found: \\morningstar.com\shares\GeDataFeed\GeDataFeed\NRA\Fundamental\EarningRatios\Delta\Delta_EarningRatiosRestate_2018-03-24.zip
+Can't find 0C000006U3|0P00009V3I in z:\DEV\PT2.0_GEDF_180315\NRA\Fundamental\EarningRatios\Delta\Delta_EarningRatiosRestate_2018-03-24.zip
+Can't find 0C000006U3|0P00009V3I in z:\NRA\Fundamental\EarningRatios\Delta\Delta_EarningRatiosRestate_2018-03-24.zip
+
+Process Done
+
+Start Process>> CompanyId: 0C000006U3, ShareClassId: 0P00009V3I, File:NRA\Fundamental\EarningReports\Delta\Delta_EarningReportsAOR.zip
+zip file not found: \\morningstar.com\shares\GeDataFeed\GeDataFeed\NRA\Fundamental\EarningReports\Delta\Delta_EarningReportsAOR_2018-03-24.zip
+Can't find 0C000006U3|0P00009V3I in z:\DEV\PT2.0_GEDF_180315\NRA\Fundamental\EarningReports\Delta\Delta_EarningReportsAOR_2018-03-24.zip
+Can't find 0C000006U3|0P00009V3I in z:\NRA\Fundamental\EarningReports\Delta\Delta_EarningReportsAOR_2018-03-24.zip
+
+Process Done
+
+Start Process>> CompanyId: 0C000006U3, ShareClassId: 0P00009V3I, File:NRA\Fundamental\EarningReports\Delta\Delta_EarningReportsRestate.zip
+zip file not found: \\morningstar.com\shares\GeDataFeed\GeDataFeed\NRA\Fundamental\EarningReports\Delta\Delta_EarningReportsRestate_2018-03-24.zip
+Can't find 0C000006U3|0P00009V3I in z:\DEV\PT2.0_GEDF_180315\NRA\Fundamental\EarningReports\Delta\Delta_EarningReportsRestate_2018-03-24.zip
+Can't find 0C000006U3|0P00009V3I in z:\NRA\Fundamental\EarningReports\Delta\Delta_EarningReportsRestate_2018-03-24.zip
+
+Process Done
+
+Start Process>> CompanyId: 0C000006U3, ShareClassId: 0P0000A0XK, File:NRA\Fundamental\EarningRatios\Delta\Delta_EarningRatiosAOR.zip
+zip file not found: \\morningstar.com\shares\GeDataFeed\GeDataFeed\NRA\Fundamental\EarningRatios\Delta\Delta_EarningRatiosAOR_2018-03-24.zip
+Can't find 0C000006U3|0P0000A0XK in z:\DEV\PT2.0_GEDF_180315\NRA\Fundamental\EarningRatios\Delta\Delta_EarningRatiosAOR_2018-03-24.zip
+Can't find 0C000006U3|0P0000A0XK in z:\NRA\Fundamental\EarningRatios\Delta\Delta_EarningRatiosAOR_2018-03-24.zip
+
+Process Done
+
+Start Process>> CompanyId: 0C000006U3, ShareClassId: 0P0000A0XK, File:NRA\Fundamental\EarningRatios\Delta\Delta_EarningRatiosRestate.zip
+zip file not found: \\morningstar.com\shares\GeDataFeed\GeDataFeed\NRA\Fundamental\EarningRatios\Delta\Delta_EarningRatiosRestate_2018-03-24.zip
+Can't find 0C000006U3|0P0000A0XK in z:\DEV\PT2.0_GEDF_180315\NRA\Fundamental\EarningRatios\Delta\Delta_EarningRatiosRestate_2018-03-24.zip
+Can't find 0C000006U3|0P0000A0XK in z:\NRA\Fundamental\EarningRatios\Delta\Delta_EarningRatiosRestate_2018-03-24.zip
+
+Process Done
+
+Start Process>> CompanyId: 0C000006U3, ShareClassId: 0P0000A0XK, File:NRA\Fundamental\EarningReports\Delta\Delta_EarningReportsAOR.zip
+zip file not found: \\morningstar.com\shares\GeDataFeed\GeDataFeed\NRA\Fundamental\EarningReports\Delta\Delta_EarningReportsAOR_2018-03-24.zip
+Can't find 0C000006U3|0P0000A0XK in z:\DEV\PT2.0_GEDF_180315\NRA\Fundamental\EarningReports\Delta\Delta_EarningReportsAOR_2018-03-24.zip
+Can't find 0C000006U3|0P0000A0XK in z:\NRA\Fundamental\EarningReports\Delta\Delta_EarningReportsAOR_2018-03-24.zip
+
+Process Done
+
+Start Process>> CompanyId: 0C000006U3, ShareClassId: 0P0000A0XK, File:NRA\Fundamental\EarningReports\Delta\Delta_EarningReportsRestate.zip
+zip file not found: \\morningstar.com\shares\GeDataFeed\GeDataFeed\NRA\Fundamental\EarningReports\Delta\Delta_EarningReportsRestate_2018-03-24.zip
+Can't find 0C000006U3|0P0000A0XK in z:\DEV\PT2.0_GEDF_180315\NRA\Fundamental\EarningReports\Delta\Delta_EarningReportsRestate_2018-03-24.zip
+Can't find 0C000006U3|0P0000A0XK in z:\NRA\Fundamental\EarningReports\Delta\Delta_EarningReportsRestate_2018-03-24.zip
+
+Process Done
+
+Start Process>> CompanyId: 0C000006U3, ShareClassId: 0P0000A9LC, File:NRA\Fundamental\EarningRatios\Delta\Delta_EarningRatiosAOR.zip
+zip file not found: \\morningstar.com\shares\GeDataFeed\GeDataFeed\NRA\Fundamental\EarningRatios\Delta\Delta_EarningRatiosAOR_2018-03-24.zip
+Can't find 0C000006U3|0P0000A9LC in z:\DEV\PT2.0_GEDF_180315\NRA\Fundamental\EarningRatios\Delta\Delta_EarningRatiosAOR_2018-03-24.zip
+Can't find 0C000006U3|0P0000A9LC in z:\NRA\Fundamental\EarningRatios\Delta\Delta_EarningRatiosAOR_2018-03-24.zip
+
+Process Done
+
+Start Process>> CompanyId: 0C000006U3, ShareClassId: 0P0000A9LC, File:NRA\Fundamental\EarningRatios\Delta\Delta_EarningRatiosRestate.zip
+zip file not found: \\morningstar.com\shares\GeDataFeed\GeDataFeed\NRA\Fundamental\EarningRatios\Delta\Delta_EarningRatiosRestate_2018-03-24.zip
+Can't find 0C000006U3|0P0000A9LC in z:\DEV\PT2.0_GEDF_180315\NRA\Fundamental\EarningRatios\Delta\Delta_EarningRatiosRestate_2018-03-24.zip
+Can't find 0C000006U3|0P0000A9LC in z:\NRA\Fundamental\EarningRatios\Delta\Delta_EarningRatiosRestate_2018-03-24.zip
+
+Process Done
+
+Start Process>> CompanyId: 0C000006U3, ShareClassId: 0P0000A9LC, File:NRA\Fundamental\EarningReports\Delta\Delta_EarningReportsAOR.zip
+zip file not found: \\morningstar.com\shares\GeDataFeed\GeDataFeed\NRA\Fundamental\EarningReports\Delta\Delta_EarningReportsAOR_2018-03-24.zip
+Can't find 0C000006U3|0P0000A9LC in z:\DEV\PT2.0_GEDF_180315\NRA\Fundamental\EarningReports\Delta\Delta_EarningReportsAOR_2018-03-24.zip
+Can't find 0C000006U3|0P0000A9LC in z:\NRA\Fundamental\EarningReports\Delta\Delta_EarningReportsAOR_2018-03-24.zip
+
+Process Done
+
+Start Process>> CompanyId: 0C000006U3, ShareClassId: 0P0000A9LC, File:NRA\Fundamental\EarningReports\Delta\Delta_EarningReportsRestate.zip
+zip file not found: \\morningstar.com\shares\GeDataFeed\GeDataFeed\NRA\Fundamental\EarningReports\Delta\Delta_EarningReportsRestate_2018-03-24.zip
+Can't find 0C000006U3|0P0000A9LC in z:\DEV\PT2.0_GEDF_180315\NRA\Fundamental\EarningReports\Delta\Delta_EarningReportsRestate_2018-03-24.zip
+Can't find 0C000006U3|0P0000A9LC in z:\NRA\Fundamental\EarningReports\Delta\Delta_EarningReportsRestate_2018-03-24.zip
+
+Process Done
+
+Start Process>> CompanyId: 0C000006U3, ShareClassId: 0P0000AP5N, File:LTA\Fundamental\EarningRatios\Delta\Delta_EarningRatiosAOR.zip
+zip file not found: \\morningstar.com\shares\GeDataFeed\GeDataFeed\LTA\Fundamental\EarningRatios\Delta\Delta_EarningRatiosAOR_2018-03-24.zip
+set_data_0402 is none
+Process Done
+
+Start Process>> CompanyId: 0C000006U3, ShareClassId: 0P0000AP5N, File:LTA\Fundamental\EarningRatios\Delta\Delta_EarningRatiosRestate.zip
+zip file not found: \\morningstar.com\shares\GeDataFeed\GeDataFeed\LTA\Fundamental\EarningRatios\Delta\Delta_EarningRatiosRestate_2018-03-24.zip
+set_data_0402 is none
+Process Done
+
+Start Process>> CompanyId: 0C000006U3, ShareClassId: 0P0000AP5N, File:LTA\Fundamental\EarningReports\Delta\Delta_EarningReportsAOR.zip
+zip file not found: \\morningstar.com\shares\GeDataFeed\GeDataFeed\LTA\Fundamental\EarningReports\Delta\Delta_EarningReportsAOR_2018-03-24.zip
+set_data_0402 is none
+Process Done
+
+Start Process>> CompanyId: 0C000006U3, ShareClassId: 0P0000AP5N, File:LTA\Fundamental\EarningReports\Delta\Delta_EarningReportsRestate.zip
+zip file not found: \\morningstar.com\shares\GeDataFeed\GeDataFeed\LTA\Fundamental\EarningReports\Delta\Delta_EarningReportsRestate_2018-03-24.zip
+set_data_0402 is none
+Process Done
+
+Start Process>> CompanyId: 0C000006U3, ShareClassId: 0P0000B4S7, File:EUR\Fundamental\EarningRatios\Delta\Delta_EarningRatiosAOR.zip
+zip file not found: \\morningstar.com\shares\GeDataFeed\GeDataFeed\EUR\Fundamental\EarningRatios\Delta\Delta_EarningRatiosAOR_2018-03-24.zip
+set_data_0402 is none
+Process Done
+
+Start Process>> CompanyId: 0C000006U3, ShareClassId: 0P0000B4S7, File:EUR\Fundamental\EarningRatios\Delta\Delta_EarningRatiosRestate.zip
+zip file not found: \\morningstar.com\shares\GeDataFeed\GeDataFeed\EUR\Fundamental\EarningRatios\Delta\Delta_EarningRatiosRestate_2018-03-24.zip
+set_data_0402 is none
+Process Done
+
+Start Process>> CompanyId: 0C000006U3, ShareClassId: 0P0000B4S7, File:EUR\Fundamental\EarningReports\Delta\Delta_EarningReportsAOR.zip
+zip file not found: \\morningstar.com\shares\GeDataFeed\GeDataFeed\EUR\Fundamental\EarningReports\Delta\Delta_EarningReportsAOR_2018-03-24.zip
+set_data_0402 is none
+Process Done
+
+Start Process>> CompanyId: 0C000006U3, ShareClassId: 0P0000B4S7, File:EUR\Fundamental\EarningReports\Delta\Delta_EarningReportsRestate.zip
+zip file not found: \\morningstar.com\shares\GeDataFeed\GeDataFeed\EUR\Fundamental\EarningReports\Delta\Delta_EarningReportsRestate_2018-03-24.zip
+set_data_0402 is none
+Process Done
+
+Start Process>> CompanyId: 0C000006U3, ShareClassId: 0P0000BAGT, File:EUR\Fundamental\EarningRatios\Delta\Delta_EarningRatiosAOR.zip
+zip file not found: \\morningstar.com\shares\GeDataFeed\GeDataFeed\EUR\Fundamental\EarningRatios\Delta\Delta_EarningRatiosAOR_2018-03-24.zip
+set_data_0402 is none
+Process Done
+
+Start Process>> CompanyId: 0C000006U3, ShareClassId: 0P0000BAGT, File:EUR\Fundamental\EarningRatios\Delta\Delta_EarningRatiosRestate.zip
+zip file not found: \\morningstar.com\shares\GeDataFeed\GeDataFeed\EUR\Fundamental\EarningRatios\Delta\Delta_EarningRatiosRestate_2018-03-24.zip
+set_data_0402 is none
+Process Done
+
+Start Process>> CompanyId: 0C000006U3, ShareClassId: 0P0000BAGT, File:EUR\Fundamental\EarningReports\Delta\Delta_EarningReportsAOR.zip
+zip file not found: \\morningstar.com\shares\GeDataFeed\GeDataFeed\EUR\Fundamental\EarningReports\Delta\Delta_EarningReportsAOR_2018-03-24.zip
+set_data_0402 is none
+Process Done
+
+Start Process>> CompanyId: 0C000006U3, ShareClassId: 0P0000BAGT, File:EUR\Fundamental\EarningReports\Delta\Delta_EarningReportsRestate.zip
+zip file not found: \\morningstar.com\shares\GeDataFeed\GeDataFeed\EUR\Fundamental\EarningReports\Delta\Delta_EarningReportsRestate_2018-03-24.zip
+set_data_0402 is none
+Process Done
+
+Start Process>> CompanyId: 0C000006U3, ShareClassId: 0P0000BELN, File:EUR\Fundamental\EarningRatios\Delta\Delta_EarningRatiosAOR.zip
+zip file not found: \\morningstar.com\shares\GeDataFeed\GeDataFeed\EUR\Fundamental\EarningRatios\Delta\Delta_EarningRatiosAOR_2018-03-24.zip
+set_data_0402 is none
+Process Done
+
+Start Process>> CompanyId: 0C000006U3, ShareClassId: 0P0000BELN, File:EUR\Fundamental\EarningRatios\Delta\Delta_EarningRatiosRestate.zip
+zip file not found: \\morningstar.com\shares\GeDataFeed\GeDataFeed\EUR\Fundamental\EarningRatios\Delta\Delta_EarningRatiosRestate_2018-03-24.zip
+set_data_0402 is none
+Process Done
+
+Start Process>> CompanyId: 0C000006U3, ShareClassId: 0P0000BELN, File:EUR\Fundamental\EarningReports\Delta\Delta_EarningReportsAOR.zip
+zip file not found: \\morningstar.com\shares\GeDataFeed\GeDataFeed\EUR\Fundamental\EarningReports\Delta\Delta_EarningReportsAOR_2018-03-24.zip
+set_data_0402 is none
+Process Done
+
+Start Process>> CompanyId: 0C000006U3, ShareClassId: 0P0000BELN, File:EUR\Fundamental\EarningReports\Delta\Delta_EarningReportsRestate.zip
+zip file not found: \\morningstar.com\shares\GeDataFeed\GeDataFeed\EUR\Fundamental\EarningReports\Delta\Delta_EarningReportsRestate_2018-03-24.zip
+set_data_0402 is none
+Process Done
+
+Start Process>> CompanyId: 0C000006U3, ShareClassId: 0P0000BKCQ, File:EUR\Fundamental\EarningRatios\Delta\Delta_EarningRatiosAOR.zip
+zip file not found: \\morningstar.com\shares\GeDataFeed\GeDataFeed\EUR\Fundamental\EarningRatios\Delta\Delta_EarningRatiosAOR_2018-03-24.zip
+set_data_0402 is none
+Process Done
+
+Start Process>> CompanyId: 0C000006U3, ShareClassId: 0P0000BKCQ, File:EUR\Fundamental\EarningRatios\Delta\Delta_EarningRatiosRestate.zip

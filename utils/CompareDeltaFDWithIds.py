@@ -15,6 +15,8 @@ import codecs
 import os
 import zipfile
 
+import self as self
+
 
 class CompareFile:
 
@@ -66,10 +68,11 @@ class CompareFile:
                 data_0402 = self.get_data_from_zip(file=live_file_path, id=companyId)
 
                 if (not data_0324) and (not data_0402):  # 两个都为空
-                    self.write_log(data="Can't find %s in %s\r\nCan't find %s in %s\r\n"
+                    self.write_log(data="Both File Can't find {%s in %s} and {%s in %s}\r\n"
                                         % (companyId, dev_file_path, companyId, live_file_path))
-                    print("Can't find %s in %s\r\nCan't find %s in %s\r\n"
+                    print("Both File Can't find {%s in %s} and {%s in %s}\r\n"
                           % (companyId, dev_file_path, companyId, live_file_path))
+                    self.compare_file(result_path, data_0324, data_0402, 1)
                 else:
                     self.compare_file(result_path, data_0324, data_0402)
 
@@ -102,7 +105,7 @@ class CompareFile:
                 if (not data_0324) and (not data_0402):  # 两个都为空
                     self.write_log(data="Can't find %s|%s in %s\r\nCan't find %s|%s in %s\r\n"
                                         % (companyId, shareclassId, dev_file_path, companyId, shareclassId, live_file_path))
-                    print("Can't find %s|%s in %s\r\nCan't find %s\%s in %s\r\n"
+                    print("Can't find %s|%s in %s\r\nCan't find %s|%s in %s\r\n"
                           % (companyId, shareclassId, dev_file_path, companyId, shareclassId, live_file_path))
                 else:
                     self.compare_file(result_path, data_0324, data_0402)
@@ -126,7 +129,8 @@ class CompareFile:
 
     # 比较文件的内容,data_0324和data_0402是从压缩包中的文件读取出来的内容
     # 把结果存入 path路径下的两个文件
-    def compare_file(self, path, data_0324, data_0402):
+    # flag=0,没有不同的地方; flag=1表示两边的文件都找不到
+    def compare_file(self, path, data_0324, data_0402, flag=0):
         result_0324 = path + '\Data_Only_In_0324.dat'
         result_0402 = path + '\Data_Only_In_0402.dat'
         set_data_0324 = None
@@ -163,15 +167,17 @@ class CompareFile:
             result.add(line)
         return result
 
-    # 将不同写入文件
+    # 将比较的结果写入文件
     # data1, data2
     # path 存放结果的文件夹路径
     # 存放结果的文件名 data1_result_file, data2_result_file
-    @staticmethod
-    def write_file(data1, data2, path, data1_result_file, data2_result_file):
+    def write_file(self, data1, data2, path, data1_result_file, data2_result_file):
 
         # 同时为空的,表示没有不相同的.不生成文件
-        if not len(data1) and not len(data2) : return
+        if not len(data1) and not len(data2) :
+            print("No diff\r\n")
+            self.write_log("No diff\r\n")
+            return
 
         if not os.path.exists(path):
             os.makedirs(path)  # 创建级联目录

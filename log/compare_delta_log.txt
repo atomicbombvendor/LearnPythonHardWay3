@@ -1,0 +1,33 @@
+Start Process>> CompanyId: 0C000006U3, File:NRA\Fundamental\FinancialStatements\Delta\Delta_FinancialStatementsAOR
+set_data_0402 is none
+Process Done
+
+Start Process>> CompanyId: 0C000006U3, File:NRA\Fundamental\FinancialStatements\Delta\Delta_FinancialStatementsRestate
+set_data_0402 is none
+Process Done
+
+Start Process>> CompanyId: 0C000006U3, File:NRA\Fundamental\OperationRatios\Delta\Delta_OperationRatiosAOR
+set_data_0402 is none
+Process Done
+
+Start Process>> CompanyId: 0C000006U3, File:NRA\Fundamental\OperationRatios\Delta\Delta_OperationRatiosRestate
+set_data_0402 is none
+Process Done
+
+Start Process>> CompanyId: 0C000006UP, File:NRA\Fundamental\FinancialStatements\Delta\Delta_FinancialStatementsAOR
+set_data_0402 is none
+Process Done
+
+Start Process>> CompanyId: 0C000006UP, File:NRA\Fundamental\FinancialStatements\Delta\Delta_FinancialStatementsRestate
+set_data_0402 is none
+Process Done
+
+Start Process>> CompanyId: 0C000006UP, File:NRA\Fundamental\OperationRatios\Delta\Delta_OperationRatiosAOR
+set_data_0402 is none
+Process Done
+
+Start Process>> CompanyId: 0C000006UP, File:NRA\Fundamental\OperationRatios\Delta\Delta_OperationRatiosRestate
+set_data_0402 is none
+Process Done
+
+Start Process>> CompanyId: 0C000006UX, File:NRA\Fundamental\FinancialStatements\Delta\Delta_FinancialStatementsAOR
