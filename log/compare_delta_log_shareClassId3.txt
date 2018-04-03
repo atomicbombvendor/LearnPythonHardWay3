@@ -1,0 +1,6 @@
+Compare file that is generated at 03/24 with file generated at 04/02
+File's path is share folder\DEV\PT2.0-GEDF-20180324 which generated at 03/24
+File's path is share folder\ which generated at 04/02
+Share folder is \\morningstar.com\shares\GeDataFeed\GeDataFeed
+
+Start Process>> CompanyId: 0C000006U3, ShareClassId: 0P000000PA, File:NRA\Fundamental\EarningRatios\Delta\Delta_EarningRatio.zip

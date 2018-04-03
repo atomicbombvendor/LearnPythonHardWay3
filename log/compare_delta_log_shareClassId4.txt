@@ -1,0 +1,3106 @@
+Can't find 0C000006U3|0P0000J0GU in z:\DEV\PT2.0-GEDF-20180324\NRA_Monthly_EarningRatiosAOR_2018-2.zip
+Can't find 0C000006U3|0P0000J0GU in z:\NRA\Fundamental\EarningRatios\Delta\Delta_EarningRatiosAOR_2018-04-02.zip
+
+Compare file that is generated at 03/24 with file generated at 04/02
+Process Done
+
+File's path is share folder\DEV\PT2.0-GEDF-20180324 which generated at 03/24
+Start Process>> CompanyId: 0C000006U3, ShareClassId: 0P0000J0GU, File:NRA\Fundamental\EarningRatios\Delta\Delta_EarningRatiosRes.zip
+File's path is share folder\ which generated at 04/02
+Share folder is \\morningstar.com\shares\GeDataFeed\GeDataFeed
+
+Can't find 0C000006U3|0P0000J0GU in z:\DEV\PT2.0-GEDF-20180324\NRA_Monthly_EarningRatiosRestate_2018-2.zip
+Can't find 0C000006U3|0P0000J0GU in z:\NRA\Fundamental\EarningRatios\Delta\Delta_EarningRatiosRestate_2018-04-02.zip
+
+Process Done
+
+Start Process>> CompanyId: 0C000006U3, ShareClassId: 0P0000J0GU, File:NRA\Fundamental\EarningReports\Delta\Delta_EarningReport.zip
+Can't find 0C000006U3|0P0000J0GU in z:\DEV\PT2.0-GEDF-20180324\NRA_Monthly_EarningReportsAOR_2018-2.zip
+Can't find 0C000006U3|0P0000J0GU in z:\NRA\Fundamental\EarningReports\Delta\Delta_EarningReportsAOR_2018-04-02.zip
+
+Process Done
+
+Start Process>> CompanyId: 0C000006U3, ShareClassId: 0P0000J0GU, File:NRA\Fundamental\EarningReports\Delta\Delta_EarningReportsRes.zip
+Can't find 0C000006U3|0P0000J0GU in z:\DEV\PT2.0-GEDF-20180324\NRA_Monthly_EarningReportsRestate_2018-2.zip
+Can't find 0C000006U3|0P0000J0GU in z:\NRA\Fundamental\EarningReports\Delta\Delta_EarningReportsRestate_2018-04-02.zip
+
+Process Done
+
+Start Process>> CompanyId: 0C000006U3, ShareClassId: 0P0000J0GV, File:NRA\Fundamental\EarningRatios\Delta\Delta_EarningRatio.zip
+Start Process>> CompanyId: 0C000006U3, ShareClassId: 0P000000PA, File:NRA\Fundamental\EarningReports\Delta\Delta_EarningReport.zip
+Can't find 0C000006U3|0P0000J0GV in z:\DEV\PT2.0-GEDF-20180324\NRA_Monthly_EarningRatiosAOR_2018-2.zip
+Can't find 0C000006U3|0P0000J0GV in z:\NRA\Fundamental\EarningRatios\Delta\Delta_EarningRatiosAOR_2018-04-02.zip
+
+Process Done
+
+Start Process>> CompanyId: 0C000006U3, ShareClassId: 0P0000J0GV, File:NRA\Fundamental\EarningRatios\Delta\Delta_EarningRatiosRes.zip
+Can't find 0C000006U3|0P0000J0GV in z:\DEV\PT2.0-GEDF-20180324\NRA_Monthly_EarningRatiosRestate_2018-2.zip
+Can't find 0C000006U3|0P0000J0GV in z:\NRA\Fundamental\EarningRatios\Delta\Delta_EarningRatiosRestate_2018-04-02.zip
+
+Process Done
+
+Start Process>> CompanyId: 0C000006U3, ShareClassId: 0P0000J0GV, File:NRA\Fundamental\EarningReports\Delta\Delta_EarningReport.zip
+Can't find 0C000006U3|0P0000J0GV in z:\DEV\PT2.0-GEDF-20180324\NRA_Monthly_EarningReportsAOR_2018-2.zip
+Can't find 0C000006U3|0P0000J0GV in z:\NRA\Fundamental\EarningReports\Delta\Delta_EarningReportsAOR_2018-04-02.zip
+
+Process Done
+
+Start Process>> CompanyId: 0C000006U3, ShareClassId: 0P0000J0GV, File:NRA\Fundamental\EarningReports\Delta\Delta_EarningReportsRes.zip
+Can't find 0C000006U3|0P0000J0GV in z:\DEV\PT2.0-GEDF-20180324\NRA_Monthly_EarningReportsRestate_2018-2.zip
+Can't find 0C000006U3|0P0000J0GV in z:\NRA\Fundamental\EarningReports\Delta\Delta_EarningReportsRestate_2018-04-02.zip
+
+Process Done
+
+Start Process>> CompanyId: 0C000006U3, ShareClassId: 0P0000J0GX, File:NRA\Fundamental\EarningRatios\Delta\Delta_EarningRatio.zip
+Can't find 0C000006U3|0P0000J0GX in z:\DEV\PT2.0-GEDF-20180324\NRA_Monthly_EarningRatiosAOR_2018-2.zip
+Can't find 0C000006U3|0P0000J0GX in z:\NRA\Fundamental\EarningRatios\Delta\Delta_EarningRatiosAOR_2018-04-02.zip
+
+Process Done
+
+Start Process>> CompanyId: 0C000006U3, ShareClassId: 0P0000J0GX, File:NRA\Fundamental\EarningRatios\Delta\Delta_EarningRatiosRes.zip
+Can't find 0C000006U3|0P0000J0GX in z:\DEV\PT2.0-GEDF-20180324\NRA_Monthly_EarningRatiosRestate_2018-2.zip
+Can't find 0C000006U3|0P0000J0GX in z:\NRA\Fundamental\EarningRatios\Delta\Delta_EarningRatiosRestate_2018-04-02.zip
+
+Process Done
+
+Start Process>> CompanyId: 0C000006U3, ShareClassId: 0P0000J0GX, File:NRA\Fundamental\EarningReports\Delta\Delta_EarningReport.zip
+Can't find 0C000006U3|0P0000J0GX in z:\DEV\PT2.0-GEDF-20180324\NRA_Monthly_EarningReportsAOR_2018-2.zip
+Can't find 0C000006U3|0P0000J0GX in z:\NRA\Fundamental\EarningReports\Delta\Delta_EarningReportsAOR_2018-04-02.zip
+
+Process Done
+
+Start Process>> CompanyId: 0C000006U3, ShareClassId: 0P0000J0GX, File:NRA\Fundamental\EarningReports\Delta\Delta_EarningReportsRes.zip
+Can't find 0C000006U3|0P0000J0GX in z:\DEV\PT2.0-GEDF-20180324\NRA_Monthly_EarningReportsRestate_2018-2.zip
+Can't find 0C000006U3|0P0000J0GX in z:\NRA\Fundamental\EarningReports\Delta\Delta_EarningReportsRestate_2018-04-02.zip
+
+Process Done
+
+Start Process>> CompanyId: 0C000006U3, ShareClassId: 0P0000J0GZ, File:NRA\Fundamental\EarningRatios\Delta\Delta_EarningRatio.zip
+Can't find 0C000006U3|0P0000J0GZ in z:\DEV\PT2.0-GEDF-20180324\NRA_Monthly_EarningRatiosAOR_2018-2.zip
+Can't find 0C000006U3|0P0000J0GZ in z:\NRA\Fundamental\EarningRatios\Delta\Delta_EarningRatiosAOR_2018-04-02.zip
+
+Process Done
+
+Start Process>> CompanyId: 0C000006U3, ShareClassId: 0P0000J0GZ, File:NRA\Fundamental\EarningRatios\Delta\Delta_EarningRatiosRes.zip
+Can't find 0C000006U3|0P0000J0GZ in z:\DEV\PT2.0-GEDF-20180324\NRA_Monthly_EarningRatiosRestate_2018-2.zip
+Can't find 0C000006U3|0P0000J0GZ in z:\NRA\Fundamental\EarningRatios\Delta\Delta_EarningRatiosRestate_2018-04-02.zip
+
+Process Done
+
+Start Process>> CompanyId: 0C000006U3, ShareClassId: 0P0000J0GZ, File:NRA\Fundamental\EarningReports\Delta\Delta_EarningReport.zip
+Can't find 0C000006U3|0P0000J0GZ in z:\DEV\PT2.0-GEDF-20180324\NRA_Monthly_EarningReportsAOR_2018-2.zip
+Can't find 0C000006U3|0P0000J0GZ in z:\NRA\Fundamental\EarningReports\Delta\Delta_EarningReportsAOR_2018-04-02.zip
+
+Process Done
+
+Start Process>> CompanyId: 0C000006U3, ShareClassId: 0P0000J0GZ, File:NRA\Fundamental\EarningReports\Delta\Delta_EarningReportsRes.zip
+Can't find 0C000006U3|0P0000J0GZ in z:\DEV\PT2.0-GEDF-20180324\NRA_Monthly_EarningReportsRestate_2018-2.zip
+Can't find 0C000006U3|0P0000J0GZ in z:\NRA\Fundamental\EarningReports\Delta\Delta_EarningReportsRestate_2018-04-02.zip
+
+Process Done
+
+Start Process>> CompanyId: 0C000006U3, ShareClassId: 0P0000J0H0, File:NRA\Fundamental\EarningRatios\Delta\Delta_EarningRatio.zip
+Can't find 0C000006U3|0P0000J0H0 in z:\DEV\PT2.0-GEDF-20180324\NRA_Monthly_EarningRatiosAOR_2018-2.zip
+Can't find 0C000006U3|0P0000J0H0 in z:\NRA\Fundamental\EarningRatios\Delta\Delta_EarningRatiosAOR_2018-04-02.zip
+
+Process Done
+
+Start Process>> CompanyId: 0C000006U3, ShareClassId: 0P0000J0H0, File:NRA\Fundamental\EarningRatios\Delta\Delta_EarningRatiosRes.zip
+Can't find 0C000006U3|0P0000J0H0 in z:\DEV\PT2.0-GEDF-20180324\NRA_Monthly_EarningRatiosRestate_2018-2.zip
+Can't find 0C000006U3|0P0000J0H0 in z:\NRA\Fundamental\EarningRatios\Delta\Delta_EarningRatiosRestate_2018-04-02.zip
+
+Process Done
+
+Start Process>> CompanyId: 0C000006U3, ShareClassId: 0P0000J0H0, File:NRA\Fundamental\EarningReports\Delta\Delta_EarningReport.zip
+Can't find 0C000006U3|0P0000J0H0 in z:\DEV\PT2.0-GEDF-20180324\NRA_Monthly_EarningReportsAOR_2018-2.zip
+Can't find 0C000006U3|0P0000J0H0 in z:\NRA\Fundamental\EarningReports\Delta\Delta_EarningReportsAOR_2018-04-02.zip
+
+Process Done
+
+Start Process>> CompanyId: 0C000006U3, ShareClassId: 0P0000J0H0, File:NRA\Fundamental\EarningReports\Delta\Delta_EarningReportsRes.zip
+Can't find 0C000006U3|0P0000J0H0 in z:\DEV\PT2.0-GEDF-20180324\NRA_Monthly_EarningReportsRestate_2018-2.zip
+Can't find 0C000006U3|0P0000J0H0 in z:\NRA\Fundamental\EarningReports\Delta\Delta_EarningReportsRestate_2018-04-02.zip
+
+Process Done
+
+Start Process>> CompanyId: 0C000006U3, ShareClassId: 0P0000K5FI, File:NRA\Fundamental\EarningRatios\Delta\Delta_EarningRatio.zip
+Can't find 0C000006U3|0P0000K5FI in z:\DEV\PT2.0-GEDF-20180324\NRA_Monthly_EarningRatiosAOR_2018-2.zip
+Can't find 0C000006U3|0P0000K5FI in z:\NRA\Fundamental\EarningRatios\Delta\Delta_EarningRatiosAOR_2018-04-02.zip
+
+Process Done
+
+Start Process>> CompanyId: 0C000006U3, ShareClassId: 0P0000K5FI, File:NRA\Fundamental\EarningRatios\Delta\Delta_EarningRatiosRes.zip
+Can't find 0C000006U3|0P0000K5FI in z:\DEV\PT2.0-GEDF-20180324\NRA_Monthly_EarningRatiosRestate_2018-2.zip
+Can't find 0C000006U3|0P0000K5FI in z:\NRA\Fundamental\EarningRatios\Delta\Delta_EarningRatiosRestate_2018-04-02.zip
+
+Process Done
+
+Start Process>> CompanyId: 0C000006U3, ShareClassId: 0P0000K5FI, File:NRA\Fundamental\EarningReports\Delta\Delta_EarningReport.zip
+Can't find 0C000006U3|0P0000K5FI in z:\DEV\PT2.0-GEDF-20180324\NRA_Monthly_EarningReportsAOR_2018-2.zip
+Can't find 0C000006U3|0P0000K5FI in z:\NRA\Fundamental\EarningReports\Delta\Delta_EarningReportsAOR_2018-04-02.zip
+
+Process Done
+
+Start Process>> CompanyId: 0C000006U3, ShareClassId: 0P0000K5FI, File:NRA\Fundamental\EarningReports\Delta\Delta_EarningReportsRes.zip
+Can't find 0C000006U3|0P0000K5FI in z:\DEV\PT2.0-GEDF-20180324\NRA_Monthly_EarningReportsRestate_2018-2.zip
+Can't find 0C000006U3|0P0000K5FI in z:\NRA\Fundamental\EarningReports\Delta\Delta_EarningReportsRestate_2018-04-02.zip
+
+Process Done
+
+Start Process>> CompanyId: 0C000006U3, ShareClassId: 0P0000K5FJ, File:NRA\Fundamental\EarningRatios\Delta\Delta_EarningRatio.zip
+Can't find 0C000006U3|0P0000K5FJ in z:\DEV\PT2.0-GEDF-20180324\NRA_Monthly_EarningRatiosAOR_2018-2.zip
+Can't find 0C000006U3|0P0000K5FJ in z:\NRA\Fundamental\EarningRatios\Delta\Delta_EarningRatiosAOR_2018-04-02.zip
+
+Process Done
+
+Start Process>> CompanyId: 0C000006U3, ShareClassId: 0P0000K5FJ, File:NRA\Fundamental\EarningRatios\Delta\Delta_EarningRatiosRes.zip
+Can't find 0C000006U3|0P0000K5FJ in z:\DEV\PT2.0-GEDF-20180324\NRA_Monthly_EarningRatiosRestate_2018-2.zip
+Can't find 0C000006U3|0P0000K5FJ in z:\NRA\Fundamental\EarningRatios\Delta\Delta_EarningRatiosRestate_2018-04-02.zip
+
+Process Done
+
+Start Process>> CompanyId: 0C000006U3, ShareClassId: 0P0000K5FJ, File:NRA\Fundamental\EarningReports\Delta\Delta_EarningReport.zip
+Can't find 0C000006U3|0P0000K5FJ in z:\DEV\PT2.0-GEDF-20180324\NRA_Monthly_EarningReportsAOR_2018-2.zip
+Can't find 0C000006U3|0P0000K5FJ in z:\NRA\Fundamental\EarningReports\Delta\Delta_EarningReportsAOR_2018-04-02.zip
+
+Process Done
+
+Start Process>> CompanyId: 0C000006U3, ShareClassId: 0P0000K5FJ, File:NRA\Fundamental\EarningReports\Delta\Delta_EarningReportsRes.zip
+Can't find 0C000006U3|0P0000K5FJ in z:\DEV\PT2.0-GEDF-20180324\NRA_Monthly_EarningReportsRestate_2018-2.zip
+Can't find 0C000006U3|0P0000K5FJ in z:\NRA\Fundamental\EarningReports\Delta\Delta_EarningReportsRestate_2018-04-02.zip
+
+Process Done
+
+Start Process>> CompanyId: 0C000006U3, ShareClassId: 0P0000K6HW, File:NRA\Fundamental\EarningRatios\Delta\Delta_EarningRatio.zip
+Can't find 0C000006U3|0P0000K6HW in z:\DEV\PT2.0-GEDF-20180324\NRA_Monthly_EarningRatiosAOR_2018-2.zip
+Can't find 0C000006U3|0P0000K6HW in z:\NRA\Fundamental\EarningRatios\Delta\Delta_EarningRatiosAOR_2018-04-02.zip
+
+Process Done
+
+Start Process>> CompanyId: 0C000006U3, ShareClassId: 0P0000K6HW, File:NRA\Fundamental\EarningRatios\Delta\Delta_EarningRatiosRes.zip
+Can't find 0C000006U3|0P0000K6HW in z:\DEV\PT2.0-GEDF-20180324\NRA_Monthly_EarningRatiosRestate_2018-2.zip
+Can't find 0C000006U3|0P0000K6HW in z:\NRA\Fundamental\EarningRatios\Delta\Delta_EarningRatiosRestate_2018-04-02.zip
+
+Process Done
+
+Start Process>> CompanyId: 0C000006U3, ShareClassId: 0P0000K6HW, File:NRA\Fundamental\EarningReports\Delta\Delta_EarningReport.zip
+Can't find 0C000006U3|0P0000K6HW in z:\DEV\PT2.0-GEDF-20180324\NRA_Monthly_EarningReportsAOR_2018-2.zip
+Can't find 0C000006U3|0P0000K6HW in z:\NRA\Fundamental\EarningReports\Delta\Delta_EarningReportsAOR_2018-04-02.zip
+
+Process Done
+
+Start Process>> CompanyId: 0C000006U3, ShareClassId: 0P0000K6HW, File:NRA\Fundamental\EarningReports\Delta\Delta_EarningReportsRes.zip
+Can't find 0C000006U3|0P0000K6HW in z:\DEV\PT2.0-GEDF-20180324\NRA_Monthly_EarningReportsRestate_2018-2.zip
+Can't find 0C000006U3|0P0000K6HW in z:\NRA\Fundamental\EarningReports\Delta\Delta_EarningReportsRestate_2018-04-02.zip
+
+Process Done
+
+Start Process>> CompanyId: 0C000006U3, ShareClassId: 0P0000L1CR, File:NRA\Fundamental\EarningRatios\Delta\Delta_EarningRatio.zip
+Can't find 0C000006U3|0P0000L1CR in z:\DEV\PT2.0-GEDF-20180324\NRA_Monthly_EarningRatiosAOR_2018-2.zip
+Can't find 0C000006U3|0P0000L1CR in z:\NRA\Fundamental\EarningRatios\Delta\Delta_EarningRatiosAOR_2018-04-02.zip
+
+Process Done
+
+Start Process>> CompanyId: 0C000006U3, ShareClassId: 0P0000L1CR, File:NRA\Fundamental\EarningRatios\Delta\Delta_EarningRatiosRes.zip
+Can't find 0C000006U3|0P0000L1CR in z:\DEV\PT2.0-GEDF-20180324\NRA_Monthly_EarningRatiosRestate_2018-2.zip
+Can't find 0C000006U3|0P0000L1CR in z:\NRA\Fundamental\EarningRatios\Delta\Delta_EarningRatiosRestate_2018-04-02.zip
+
+Process Done
+
+Start Process>> CompanyId: 0C000006U3, ShareClassId: 0P0000L1CR, File:NRA\Fundamental\EarningReports\Delta\Delta_EarningReport.zip
+Can't find 0C000006U3|0P0000L1CR in z:\DEV\PT2.0-GEDF-20180324\NRA_Monthly_EarningReportsAOR_2018-2.zip
+Can't find 0C000006U3|0P0000L1CR in z:\NRA\Fundamental\EarningReports\Delta\Delta_EarningReportsAOR_2018-04-02.zip
+
+Process Done
+
+Start Process>> CompanyId: 0C000006U3, ShareClassId: 0P0000L1CR, File:NRA\Fundamental\EarningReports\Delta\Delta_EarningReportsRes.zip
+Can't find 0C000006U3|0P0000L1CR in z:\DEV\PT2.0-GEDF-20180324\NRA_Monthly_EarningReportsRestate_2018-2.zip
+Can't find 0C000006U3|0P0000L1CR in z:\NRA\Fundamental\EarningReports\Delta\Delta_EarningReportsRestate_2018-04-02.zip
+
+Process Done
+
+Start Process>> CompanyId: 0C000006U3, ShareClassId: 0P0000LYPW, File:NRA\Fundamental\EarningRatios\Delta\Delta_EarningRatio.zip
+Can't find 0C000006U3|0P0000LYPW in z:\DEV\PT2.0-GEDF-20180324\NRA_Monthly_EarningRatiosAOR_2018-2.zip
+Can't find 0C000006U3|0P0000LYPW in z:\NRA\Fundamental\EarningRatios\Delta\Delta_EarningRatiosAOR_2018-04-02.zip
+
+Process Done
+
+Start Process>> CompanyId: 0C000006U3, ShareClassId: 0P0000LYPW, File:NRA\Fundamental\EarningRatios\Delta\Delta_EarningRatiosRes.zip
+Can't find 0C000006U3|0P0000LYPW in z:\DEV\PT2.0-GEDF-20180324\NRA_Monthly_EarningRatiosRestate_2018-2.zip
+Can't find 0C000006U3|0P0000LYPW in z:\NRA\Fundamental\EarningRatios\Delta\Delta_EarningRatiosRestate_2018-04-02.zip
+
+Process Done
+
+Start Process>> CompanyId: 0C000006U3, ShareClassId: 0P0000LYPW, File:NRA\Fundamental\EarningReports\Delta\Delta_EarningReport.zip
+Can't find 0C000006U3|0P0000LYPW in z:\DEV\PT2.0-GEDF-20180324\NRA_Monthly_EarningReportsAOR_2018-2.zip
+Can't find 0C000006U3|0P0000LYPW in z:\NRA\Fundamental\EarningReports\Delta\Delta_EarningReportsAOR_2018-04-02.zip
+
+Process Done
+
+Start Process>> CompanyId: 0C000006U3, ShareClassId: 0P0000LYPW, File:NRA\Fundamental\EarningReports\Delta\Delta_EarningReportsRes.zip
+Can't find 0C000006U3|0P0000LYPW in z:\DEV\PT2.0-GEDF-20180324\NRA_Monthly_EarningReportsRestate_2018-2.zip
+Can't find 0C000006U3|0P0000LYPW in z:\NRA\Fundamental\EarningReports\Delta\Delta_EarningReportsRestate_2018-04-02.zip
+
+Process Done
+
+Start Process>> CompanyId: 0C000006U3, ShareClassId: 0P0000LYR8, File:NRA\Fundamental\EarningRatios\Delta\Delta_EarningRatio.zip
+Can't find 0C000006U3|0P0000LYR8 in z:\DEV\PT2.0-GEDF-20180324\NRA_Monthly_EarningRatiosAOR_2018-2.zip
+Can't find 0C000006U3|0P0000LYR8 in z:\NRA\Fundamental\EarningRatios\Delta\Delta_EarningRatiosAOR_2018-04-02.zip
+
+Process Done
+
+Start Process>> CompanyId: 0C000006U3, ShareClassId: 0P0000LYR8, File:NRA\Fundamental\EarningRatios\Delta\Delta_EarningRatiosRes.zip
+Can't find 0C000006U3|0P0000LYR8 in z:\DEV\PT2.0-GEDF-20180324\NRA_Monthly_EarningRatiosRestate_2018-2.zip
+Can't find 0C000006U3|0P0000LYR8 in z:\NRA\Fundamental\EarningRatios\Delta\Delta_EarningRatiosRestate_2018-04-02.zip
+
+Process Done
+
+Start Process>> CompanyId: 0C000006U3, ShareClassId: 0P0000LYR8, File:NRA\Fundamental\EarningReports\Delta\Delta_EarningReport.zip
+Can't find 0C000006U3|0P0000LYR8 in z:\DEV\PT2.0-GEDF-20180324\NRA_Monthly_EarningReportsAOR_2018-2.zip
+Can't find 0C000006U3|0P0000LYR8 in z:\NRA\Fundamental\EarningReports\Delta\Delta_EarningReportsAOR_2018-04-02.zip
+
+Process Done
+
+Start Process>> CompanyId: 0C000006U3, ShareClassId: 0P0000LYR8, File:NRA\Fundamental\EarningReports\Delta\Delta_EarningReportsRes.zip
+Can't find 0C000006U3|0P0000LYR8 in z:\DEV\PT2.0-GEDF-20180324\NRA_Monthly_EarningReportsRestate_2018-2.zip
+Can't find 0C000006U3|0P0000LYR8 in z:\NRA\Fundamental\EarningReports\Delta\Delta_EarningReportsRestate_2018-04-02.zip
+
+Process Done
+
+Start Process>> CompanyId: 0C000006U3, ShareClassId: 0P0000LYRA, File:NRA\Fundamental\EarningRatios\Delta\Delta_EarningRatio.zip
+Can't find 0C000006U3|0P0000LYRA in z:\DEV\PT2.0-GEDF-20180324\NRA_Monthly_EarningRatiosAOR_2018-2.zip
+Can't find 0C000006U3|0P0000LYRA in z:\NRA\Fundamental\EarningRatios\Delta\Delta_EarningRatiosAOR_2018-04-02.zip
+
+Process Done
+
+Start Process>> CompanyId: 0C000006U3, ShareClassId: 0P0000LYRA, File:NRA\Fundamental\EarningRatios\Delta\Delta_EarningRatiosRes.zip
+Can't find 0C000006U3|0P0000LYRA in z:\DEV\PT2.0-GEDF-20180324\NRA_Monthly_EarningRatiosRestate_2018-2.zip
+Can't find 0C000006U3|0P0000LYRA in z:\NRA\Fundamental\EarningRatios\Delta\Delta_EarningRatiosRestate_2018-04-02.zip
+
+Process Done
+
+Start Process>> CompanyId: 0C000006U3, ShareClassId: 0P0000LYRA, File:NRA\Fundamental\EarningReports\Delta\Delta_EarningReport.zip
+Can't find 0C000006U3|0P0000LYRA in z:\DEV\PT2.0-GEDF-20180324\NRA_Monthly_EarningReportsAOR_2018-2.zip
+Can't find 0C000006U3|0P0000LYRA in z:\NRA\Fundamental\EarningReports\Delta\Delta_EarningReportsAOR_2018-04-02.zip
+
+Process Done
+
+Start Process>> CompanyId: 0C000006U3, ShareClassId: 0P0000LYRA, File:NRA\Fundamental\EarningReports\Delta\Delta_EarningReportsRes.zip
+Can't find 0C000006U3|0P0000LYRA in z:\DEV\PT2.0-GEDF-20180324\NRA_Monthly_EarningReportsRestate_2018-2.zip
+Can't find 0C000006U3|0P0000LYRA in z:\NRA\Fundamental\EarningReports\Delta\Delta_EarningReportsRestate_2018-04-02.zip
+
+Process Done
+
+Start Process>> CompanyId: 0C000006U3, ShareClassId: 0P0000LYRL, File:NRA\Fundamental\EarningRatios\Delta\Delta_EarningRatio.zip
+Can't find 0C000006U3|0P0000LYRL in z:\DEV\PT2.0-GEDF-20180324\NRA_Monthly_EarningRatiosAOR_2018-2.zip
+Can't find 0C000006U3|0P0000LYRL in z:\NRA\Fundamental\EarningRatios\Delta\Delta_EarningRatiosAOR_2018-04-02.zip
+
+Process Done
+
+Start Process>> CompanyId: 0C000006U3, ShareClassId: 0P0000LYRL, File:NRA\Fundamental\EarningRatios\Delta\Delta_EarningRatiosRes.zip
+Can't find 0C000006U3|0P0000LYRL in z:\DEV\PT2.0-GEDF-20180324\NRA_Monthly_EarningRatiosRestate_2018-2.zip
+Can't find 0C000006U3|0P0000LYRL in z:\NRA\Fundamental\EarningRatios\Delta\Delta_EarningRatiosRestate_2018-04-02.zip
+
+Process Done
+
+Start Process>> CompanyId: 0C000006U3, ShareClassId: 0P0000LYRL, File:NRA\Fundamental\EarningReports\Delta\Delta_EarningReport.zip
+Can't find 0C000006U3|0P0000LYRL in z:\DEV\PT2.0-GEDF-20180324\NRA_Monthly_EarningReportsAOR_2018-2.zip
+Can't find 0C000006U3|0P0000LYRL in z:\NRA\Fundamental\EarningReports\Delta\Delta_EarningReportsAOR_2018-04-02.zip
+
+Process Done
+
+Start Process>> CompanyId: 0C000006U3, ShareClassId: 0P0000LYRL, File:NRA\Fundamental\EarningReports\Delta\Delta_EarningReportsRes.zip
+Can't find 0C000006U3|0P0000LYRL in z:\DEV\PT2.0-GEDF-20180324\NRA_Monthly_EarningReportsRestate_2018-2.zip
+Can't find 0C000006U3|0P0000LYRL in z:\NRA\Fundamental\EarningReports\Delta\Delta_EarningReportsRestate_2018-04-02.zip
+
+Process Done
+
+Start Process>> CompanyId: 0C000006U3, ShareClassId: 0P0000LYRQ, File:NRA\Fundamental\EarningRatios\Delta\Delta_EarningRatio.zip
+Can't find 0C000006U3|0P0000LYRQ in z:\DEV\PT2.0-GEDF-20180324\NRA_Monthly_EarningRatiosAOR_2018-2.zip
+Can't find 0C000006U3|0P0000LYRQ in z:\NRA\Fundamental\EarningRatios\Delta\Delta_EarningRatiosAOR_2018-04-02.zip
+
+Process Done
+
+Start Process>> CompanyId: 0C000006U3, ShareClassId: 0P0000LYRQ, File:NRA\Fundamental\EarningRatios\Delta\Delta_EarningRatiosRes.zip
+Can't find 0C000006U3|0P0000LYRQ in z:\DEV\PT2.0-GEDF-20180324\NRA_Monthly_EarningRatiosRestate_2018-2.zip
+Can't find 0C000006U3|0P0000LYRQ in z:\NRA\Fundamental\EarningRatios\Delta\Delta_EarningRatiosRestate_2018-04-02.zip
+
+Process Done
+
+Start Process>> CompanyId: 0C000006U3, ShareClassId: 0P0000LYRQ, File:NRA\Fundamental\EarningReports\Delta\Delta_EarningReport.zip
+Can't find 0C000006U3|0P0000LYRQ in z:\DEV\PT2.0-GEDF-20180324\NRA_Monthly_EarningReportsAOR_2018-2.zip
+Can't find 0C000006U3|0P0000LYRQ in z:\NRA\Fundamental\EarningReports\Delta\Delta_EarningReportsAOR_2018-04-02.zip
+
+Process Done
+
+Start Process>> CompanyId: 0C000006U3, ShareClassId: 0P0000LYRQ, File:NRA\Fundamental\EarningReports\Delta\Delta_EarningReportsRes.zip
+Can't find 0C000006U3|0P0000LYRQ in z:\DEV\PT2.0-GEDF-20180324\NRA_Monthly_EarningReportsRestate_2018-2.zip
+Can't find 0C000006U3|0P0000LYRQ in z:\NRA\Fundamental\EarningReports\Delta\Delta_EarningReportsRestate_2018-04-02.zip
+
+Process Done
+
+Start Process>> CompanyId: 0C000006U3, ShareClassId: 0P0000LZL3, File:NRA\Fundamental\EarningRatios\Delta\Delta_EarningRatio.zip
+Can't find 0C000006U3|0P0000LZL3 in z:\DEV\PT2.0-GEDF-20180324\NRA_Monthly_EarningRatiosAOR_2018-2.zip
+Can't find 0C000006U3|0P0000LZL3 in z:\NRA\Fundamental\EarningRatios\Delta\Delta_EarningRatiosAOR_2018-04-02.zip
+
+Process Done
+
+Start Process>> CompanyId: 0C000006U3, ShareClassId: 0P0000LZL3, File:NRA\Fundamental\EarningRatios\Delta\Delta_EarningRatiosRes.zip
+Can't find 0C000006U3|0P0000LZL3 in z:\DEV\PT2.0-GEDF-20180324\NRA_Monthly_EarningRatiosRestate_2018-2.zip
+Can't find 0C000006U3|0P0000LZL3 in z:\NRA\Fundamental\EarningRatios\Delta\Delta_EarningRatiosRestate_2018-04-02.zip
+
+Process Done
+
+Start Process>> CompanyId: 0C000006U3, ShareClassId: 0P0000LZL3, File:NRA\Fundamental\EarningReports\Delta\Delta_EarningReport.zip
+Can't find 0C000006U3|0P0000LZL3 in z:\DEV\PT2.0-GEDF-20180324\NRA_Monthly_EarningReportsAOR_2018-2.zip
+Can't find 0C000006U3|0P0000LZL3 in z:\NRA\Fundamental\EarningReports\Delta\Delta_EarningReportsAOR_2018-04-02.zip
+
+Process Done
+
+Start Process>> CompanyId: 0C000006U3, ShareClassId: 0P0000LZL3, File:NRA\Fundamental\EarningReports\Delta\Delta_EarningReportsRes.zip
+Can't find 0C000006U3|0P0000LZL3 in z:\DEV\PT2.0-GEDF-20180324\NRA_Monthly_EarningReportsRestate_2018-2.zip
+Can't find 0C000006U3|0P0000LZL3 in z:\NRA\Fundamental\EarningReports\Delta\Delta_EarningReportsRestate_2018-04-02.zip
+
+Process Done
+
+Start Process>> CompanyId: 0C000006U3, ShareClassId: 0P0000M0DK, File:NRA\Fundamental\EarningRatios\Delta\Delta_EarningRatio.zip
+No diff
+Can't find 0C000006U3|0P0000M0DK in z:\DEV\PT2.0-GEDF-20180324\NRA_Monthly_EarningRatiosAOR_2018-2.zip
+Can't find 0C000006U3|0P0000M0DK in z:\NRA\Fundamental\EarningRatios\Delta\Delta_EarningRatiosAOR_2018-04-02.zip
+
+Process Done
+
+Start Process>> CompanyId: 0C000006U3, ShareClassId: 0P0000M0DK, File:NRA\Fundamental\EarningRatios\Delta\Delta_EarningRatiosRes.zip
+Process Done
+
+Can't find 0C000006U3|0P0000M0DK in z:\DEV\PT2.0-GEDF-20180324\NRA_Monthly_EarningRatiosRestate_2018-2.zip
+Can't find 0C000006U3|0P0000M0DK in z:\NRA\Fundamental\EarningRatios\Delta\Delta_EarningRatiosRestate_2018-04-02.zip
+
+Process Done
+
+Start Process>> CompanyId: 0C000006U3, ShareClassId: 0P0000M0DK, File:NRA\Fundamental\EarningReports\Delta\Delta_EarningReport.zip
+Start Process>> CompanyId: 0C000006U3, ShareClassId: 0P000000PA, File:NRA\Fundamental\EarningReports\Delta\Delta_EarningReportsRes.zip
+Can't find 0C000006U3|0P0000M0DK in z:\DEV\PT2.0-GEDF-20180324\NRA_Monthly_EarningReportsAOR_2018-2.zip
+Can't find 0C000006U3|0P0000M0DK in z:\NRA\Fundamental\EarningReports\Delta\Delta_EarningReportsAOR_2018-04-02.zip
+
+Process Done
+
+Start Process>> CompanyId: 0C000006U3, ShareClassId: 0P0000M0DK, File:NRA\Fundamental\EarningReports\Delta\Delta_EarningReportsRes.zip
+Can't find 0C000006U3|0P0000M0DK in z:\DEV\PT2.0-GEDF-20180324\NRA_Monthly_EarningReportsRestate_2018-2.zip
+Can't find 0C000006U3|0P0000M0DK in z:\NRA\Fundamental\EarningReports\Delta\Delta_EarningReportsRestate_2018-04-02.zip
+
+Process Done
+
+Start Process>> CompanyId: 0C000006U3, ShareClassId: 0P0000M0DO, File:NRA\Fundamental\EarningRatios\Delta\Delta_EarningRatio.zip
+Can't find 0C000006U3|0P0000M0DO in z:\DEV\PT2.0-GEDF-20180324\NRA_Monthly_EarningRatiosAOR_2018-2.zip
+Can't find 0C000006U3|0P0000M0DO in z:\NRA\Fundamental\EarningRatios\Delta\Delta_EarningRatiosAOR_2018-04-02.zip
+
+Process Done
+
+Start Process>> CompanyId: 0C000006U3, ShareClassId: 0P0000M0DO, File:NRA\Fundamental\EarningRatios\Delta\Delta_EarningRatiosRes.zip
+Can't find 0C000006U3|0P0000M0DO in z:\DEV\PT2.0-GEDF-20180324\NRA_Monthly_EarningRatiosRestate_2018-2.zip
+Can't find 0C000006U3|0P0000M0DO in z:\NRA\Fundamental\EarningRatios\Delta\Delta_EarningRatiosRestate_2018-04-02.zip
+
+Process Done
+
+Start Process>> CompanyId: 0C000006U3, ShareClassId: 0P0000M0DO, File:NRA\Fundamental\EarningReports\Delta\Delta_EarningReport.zip
+Can't find 0C000006U3|0P0000M0DO in z:\DEV\PT2.0-GEDF-20180324\NRA_Monthly_EarningReportsAOR_2018-2.zip
+Can't find 0C000006U3|0P0000M0DO in z:\NRA\Fundamental\EarningReports\Delta\Delta_EarningReportsAOR_2018-04-02.zip
+
+Process Done
+
+Start Process>> CompanyId: 0C000006U3, ShareClassId: 0P0000M0DO, File:NRA\Fundamental\EarningReports\Delta\Delta_EarningReportsRes.zip
+Can't find 0C000006U3|0P0000M0DO in z:\DEV\PT2.0-GEDF-20180324\NRA_Monthly_EarningReportsRestate_2018-2.zip
+Can't find 0C000006U3|0P0000M0DO in z:\NRA\Fundamental\EarningReports\Delta\Delta_EarningReportsRestate_2018-04-02.zip
+
+Process Done
+
+Start Process>> CompanyId: 0C000006U3, ShareClassId: 0P0000M0DQ, File:NRA\Fundamental\EarningRatios\Delta\Delta_EarningRatio.zip
+Can't find 0C000006U3|0P0000M0DQ in z:\DEV\PT2.0-GEDF-20180324\NRA_Monthly_EarningRatiosAOR_2018-2.zip
+Can't find 0C000006U3|0P0000M0DQ in z:\NRA\Fundamental\EarningRatios\Delta\Delta_EarningRatiosAOR_2018-04-02.zip
+
+Process Done
+
+Start Process>> CompanyId: 0C000006U3, ShareClassId: 0P0000M0DQ, File:NRA\Fundamental\EarningRatios\Delta\Delta_EarningRatiosRes.zip
+Can't find 0C000006U3|0P0000M0DQ in z:\DEV\PT2.0-GEDF-20180324\NRA_Monthly_EarningRatiosRestate_2018-2.zip
+Can't find 0C000006U3|0P0000M0DQ in z:\NRA\Fundamental\EarningRatios\Delta\Delta_EarningRatiosRestate_2018-04-02.zip
+
+Process Done
+
+Start Process>> CompanyId: 0C000006U3, ShareClassId: 0P0000M0DQ, File:NRA\Fundamental\EarningReports\Delta\Delta_EarningReport.zip
+Can't find 0C000006U3|0P0000M0DQ in z:\DEV\PT2.0-GEDF-20180324\NRA_Monthly_EarningReportsAOR_2018-2.zip
+Can't find 0C000006U3|0P0000M0DQ in z:\NRA\Fundamental\EarningReports\Delta\Delta_EarningReportsAOR_2018-04-02.zip
+
+Process Done
+
+Start Process>> CompanyId: 0C000006U3, ShareClassId: 0P0000M0DQ, File:NRA\Fundamental\EarningReports\Delta\Delta_EarningReportsRes.zip
+Can't find 0C000006U3|0P0000M0DQ in z:\DEV\PT2.0-GEDF-20180324\NRA_Monthly_EarningReportsRestate_2018-2.zip
+Can't find 0C000006U3|0P0000M0DQ in z:\NRA\Fundamental\EarningReports\Delta\Delta_EarningReportsRestate_2018-04-02.zip
+
+Process Done
+
+Start Process>> CompanyId: 0C000006U3, ShareClassId: 0P0000M0DS, File:NRA\Fundamental\EarningRatios\Delta\Delta_EarningRatio.zip
+Can't find 0C000006U3|0P0000M0DS in z:\DEV\PT2.0-GEDF-20180324\NRA_Monthly_EarningRatiosAOR_2018-2.zip
+Can't find 0C000006U3|0P0000M0DS in z:\NRA\Fundamental\EarningRatios\Delta\Delta_EarningRatiosAOR_2018-04-02.zip
+
+Process Done
+
+Start Process>> CompanyId: 0C000006U3, ShareClassId: 0P0000M0DS, File:NRA\Fundamental\EarningRatios\Delta\Delta_EarningRatiosRes.zip
+Can't find 0C000006U3|0P0000M0DS in z:\DEV\PT2.0-GEDF-20180324\NRA_Monthly_EarningRatiosRestate_2018-2.zip
+Can't find 0C000006U3|0P0000M0DS in z:\NRA\Fundamental\EarningRatios\Delta\Delta_EarningRatiosRestate_2018-04-02.zip
+
+Process Done
+
+Start Process>> CompanyId: 0C000006U3, ShareClassId: 0P0000M0DS, File:NRA\Fundamental\EarningReports\Delta\Delta_EarningReport.zip
+Can't find 0C000006U3|0P0000M0DS in z:\DEV\PT2.0-GEDF-20180324\NRA_Monthly_EarningReportsAOR_2018-2.zip
+Can't find 0C000006U3|0P0000M0DS in z:\NRA\Fundamental\EarningReports\Delta\Delta_EarningReportsAOR_2018-04-02.zip
+
+Process Done
+
+Start Process>> CompanyId: 0C000006U3, ShareClassId: 0P0000M0DS, File:NRA\Fundamental\EarningReports\Delta\Delta_EarningReportsRes.zip
+Can't find 0C000006U3|0P0000M0DS in z:\DEV\PT2.0-GEDF-20180324\NRA_Monthly_EarningReportsRestate_2018-2.zip
+Can't find 0C000006U3|0P0000M0DS in z:\NRA\Fundamental\EarningReports\Delta\Delta_EarningReportsRestate_2018-04-02.zip
+
+Process Done
+
+Start Process>> CompanyId: 0C000006U3, ShareClassId: 0P0000M0DU, File:NRA\Fundamental\EarningRatios\Delta\Delta_EarningRatio.zip
+Can't find 0C000006U3|0P0000M0DU in z:\DEV\PT2.0-GEDF-20180324\NRA_Monthly_EarningRatiosAOR_2018-2.zip
+Can't find 0C000006U3|0P0000M0DU in z:\NRA\Fundamental\EarningRatios\Delta\Delta_EarningRatiosAOR_2018-04-02.zip
+
+Process Done
+
+Start Process>> CompanyId: 0C000006U3, ShareClassId: 0P0000M0DU, File:NRA\Fundamental\EarningRatios\Delta\Delta_EarningRatiosRes.zip
+Can't find 0C000006U3|0P0000M0DU in z:\DEV\PT2.0-GEDF-20180324\NRA_Monthly_EarningRatiosRestate_2018-2.zip
+Can't find 0C000006U3|0P0000M0DU in z:\NRA\Fundamental\EarningRatios\Delta\Delta_EarningRatiosRestate_2018-04-02.zip
+
+Process Done
+
+Start Process>> CompanyId: 0C000006U3, ShareClassId: 0P0000M0DU, File:NRA\Fundamental\EarningReports\Delta\Delta_EarningReport.zip
+Can't find 0C000006U3|0P0000M0DU in z:\DEV\PT2.0-GEDF-20180324\NRA_Monthly_EarningReportsAOR_2018-2.zip
+Can't find 0C000006U3|0P0000M0DU in z:\NRA\Fundamental\EarningReports\Delta\Delta_EarningReportsAOR_2018-04-02.zip
+
+Process Done
+
+Start Process>> CompanyId: 0C000006U3, ShareClassId: 0P0000M0DU, File:NRA\Fundamental\EarningReports\Delta\Delta_EarningReportsRes.zip
+Can't find 0C000006U3|0P0000M0DU in z:\DEV\PT2.0-GEDF-20180324\NRA_Monthly_EarningReportsRestate_2018-2.zip
+Can't find 0C000006U3|0P0000M0DU in z:\NRA\Fundamental\EarningReports\Delta\Delta_EarningReportsRestate_2018-04-02.zip
+
+Process Done
+
+Start Process>> CompanyId: 0C000006U3, ShareClassId: 0P0000M0DW, File:NRA\Fundamental\EarningRatios\Delta\Delta_EarningRatio.zip
+Can't find 0C000006U3|0P0000M0DW in z:\DEV\PT2.0-GEDF-20180324\NRA_Monthly_EarningRatiosAOR_2018-2.zip
+Can't find 0C000006U3|0P0000M0DW in z:\NRA\Fundamental\EarningRatios\Delta\Delta_EarningRatiosAOR_2018-04-02.zip
+
+Process Done
+
+Start Process>> CompanyId: 0C000006U3, ShareClassId: 0P0000M0DW, File:NRA\Fundamental\EarningRatios\Delta\Delta_EarningRatiosRes.zip
+Can't find 0C000006U3|0P0000M0DW in z:\DEV\PT2.0-GEDF-20180324\NRA_Monthly_EarningRatiosRestate_2018-2.zip
+Can't find 0C000006U3|0P0000M0DW in z:\NRA\Fundamental\EarningRatios\Delta\Delta_EarningRatiosRestate_2018-04-02.zip
+
+Process Done
+
+Start Process>> CompanyId: 0C000006U3, ShareClassId: 0P0000M0DW, File:NRA\Fundamental\EarningReports\Delta\Delta_EarningReport.zip
+Can't find 0C000006U3|0P0000M0DW in z:\DEV\PT2.0-GEDF-20180324\NRA_Monthly_EarningReportsAOR_2018-2.zip
+Can't find 0C000006U3|0P0000M0DW in z:\NRA\Fundamental\EarningReports\Delta\Delta_EarningReportsAOR_2018-04-02.zip
+
+Process Done
+
+Start Process>> CompanyId: 0C000006U3, ShareClassId: 0P0000M0DW, File:NRA\Fundamental\EarningReports\Delta\Delta_EarningReportsRes.zip
+Can't find 0C000006U3|0P0000M0DW in z:\DEV\PT2.0-GEDF-20180324\NRA_Monthly_EarningReportsRestate_2018-2.zip
+Can't find 0C000006U3|0P0000M0DW in z:\NRA\Fundamental\EarningReports\Delta\Delta_EarningReportsRestate_2018-04-02.zip
+
+Process Done
+
+Start Process>> CompanyId: 0C000006U3, ShareClassId: 0P0000M0DY, File:NRA\Fundamental\EarningRatios\Delta\Delta_EarningRatio.zip
+Can't find 0C000006U3|0P0000M0DY in z:\DEV\PT2.0-GEDF-20180324\NRA_Monthly_EarningRatiosAOR_2018-2.zip
+Can't find 0C000006U3|0P0000M0DY in z:\NRA\Fundamental\EarningRatios\Delta\Delta_EarningRatiosAOR_2018-04-02.zip
+
+Process Done
+
+Start Process>> CompanyId: 0C000006U3, ShareClassId: 0P0000M0DY, File:NRA\Fundamental\EarningRatios\Delta\Delta_EarningRatiosRes.zip
+Can't find 0C000006U3|0P0000M0DY in z:\DEV\PT2.0-GEDF-20180324\NRA_Monthly_EarningRatiosRestate_2018-2.zip
+Can't find 0C000006U3|0P0000M0DY in z:\NRA\Fundamental\EarningRatios\Delta\Delta_EarningRatiosRestate_2018-04-02.zip
+
+Process Done
+
+Start Process>> CompanyId: 0C000006U3, ShareClassId: 0P0000M0DY, File:NRA\Fundamental\EarningReports\Delta\Delta_EarningReport.zip
+Can't find 0C000006U3|0P0000M0DY in z:\DEV\PT2.0-GEDF-20180324\NRA_Monthly_EarningReportsAOR_2018-2.zip
+Can't find 0C000006U3|0P0000M0DY in z:\NRA\Fundamental\EarningReports\Delta\Delta_EarningReportsAOR_2018-04-02.zip
+
+Process Done
+
+Start Process>> CompanyId: 0C000006U3, ShareClassId: 0P0000M0DY, File:NRA\Fundamental\EarningReports\Delta\Delta_EarningReportsRes.zip
+Can't find 0C000006U3|0P0000M0DY in z:\DEV\PT2.0-GEDF-20180324\NRA_Monthly_EarningReportsRestate_2018-2.zip
+Can't find 0C000006U3|0P0000M0DY in z:\NRA\Fundamental\EarningReports\Delta\Delta_EarningReportsRestate_2018-04-02.zip
+
+Process Done
+
+Start Process>> CompanyId: 0C000006U3, ShareClassId: 0P0000M0E0, File:NRA\Fundamental\EarningRatios\Delta\Delta_EarningRatio.zip
+Can't find 0C000006U3|0P0000M0E0 in z:\DEV\PT2.0-GEDF-20180324\NRA_Monthly_EarningRatiosAOR_2018-2.zip
+Can't find 0C000006U3|0P0000M0E0 in z:\NRA\Fundamental\EarningRatios\Delta\Delta_EarningRatiosAOR_2018-04-02.zip
+
+Process Done
+
+Start Process>> CompanyId: 0C000006U3, ShareClassId: 0P0000M0E0, File:NRA\Fundamental\EarningRatios\Delta\Delta_EarningRatiosRes.zip
+Can't find 0C000006U3|0P0000M0E0 in z:\DEV\PT2.0-GEDF-20180324\NRA_Monthly_EarningRatiosRestate_2018-2.zip
+Can't find 0C000006U3|0P0000M0E0 in z:\NRA\Fundamental\EarningRatios\Delta\Delta_EarningRatiosRestate_2018-04-02.zip
+
+Process Done
+
+Start Process>> CompanyId: 0C000006U3, ShareClassId: 0P0000M0E0, File:NRA\Fundamental\EarningReports\Delta\Delta_EarningReport.zip
+Can't find 0C000006U3|0P0000M0E0 in z:\DEV\PT2.0-GEDF-20180324\NRA_Monthly_EarningReportsAOR_2018-2.zip
+Can't find 0C000006U3|0P0000M0E0 in z:\NRA\Fundamental\EarningReports\Delta\Delta_EarningReportsAOR_2018-04-02.zip
+
+Process Done
+
+Start Process>> CompanyId: 0C000006U3, ShareClassId: 0P0000M0E0, File:NRA\Fundamental\EarningReports\Delta\Delta_EarningReportsRes.zip
+Can't find 0C000006U3|0P0000M0E0 in z:\DEV\PT2.0-GEDF-20180324\NRA_Monthly_EarningReportsRestate_2018-2.zip
+Can't find 0C000006U3|0P0000M0E0 in z:\NRA\Fundamental\EarningReports\Delta\Delta_EarningReportsRestate_2018-04-02.zip
+
+Process Done
+
+Start Process>> CompanyId: 0C000006U3, ShareClassId: 0P0000M0E2, File:NRA\Fundamental\EarningRatios\Delta\Delta_EarningRatio.zip
+Can't find 0C000006U3|0P0000M0E2 in z:\DEV\PT2.0-GEDF-20180324\NRA_Monthly_EarningRatiosAOR_2018-2.zip
+Can't find 0C000006U3|0P0000M0E2 in z:\NRA\Fundamental\EarningRatios\Delta\Delta_EarningRatiosAOR_2018-04-02.zip
+
+Process Done
+
+Start Process>> CompanyId: 0C000006U3, ShareClassId: 0P0000M0E2, File:NRA\Fundamental\EarningRatios\Delta\Delta_EarningRatiosRes.zip
+Can't find 0C000006U3|0P0000M0E2 in z:\DEV\PT2.0-GEDF-20180324\NRA_Monthly_EarningRatiosRestate_2018-2.zip
+Can't find 0C000006U3|0P0000M0E2 in z:\NRA\Fundamental\EarningRatios\Delta\Delta_EarningRatiosRestate_2018-04-02.zip
+
+Process Done
+
+Start Process>> CompanyId: 0C000006U3, ShareClassId: 0P0000M0E2, File:NRA\Fundamental\EarningReports\Delta\Delta_EarningReport.zip
+Can't find 0C000006U3|0P0000M0E2 in z:\DEV\PT2.0-GEDF-20180324\NRA_Monthly_EarningReportsAOR_2018-2.zip
+Can't find 0C000006U3|0P0000M0E2 in z:\NRA\Fundamental\EarningReports\Delta\Delta_EarningReportsAOR_2018-04-02.zip
+
+Process Done
+
+Start Process>> CompanyId: 0C000006U3, ShareClassId: 0P0000M0E2, File:NRA\Fundamental\EarningReports\Delta\Delta_EarningReportsRes.zip
+Can't find 0C000006U3|0P0000M0E2 in z:\DEV\PT2.0-GEDF-20180324\NRA_Monthly_EarningReportsRestate_2018-2.zip
+Can't find 0C000006U3|0P0000M0E2 in z:\NRA\Fundamental\EarningReports\Delta\Delta_EarningReportsRestate_2018-04-02.zip
+
+Process Done
+
+Start Process>> CompanyId: 0C000006U3, ShareClassId: 0P0000M0E4, File:NRA\Fundamental\EarningRatios\Delta\Delta_EarningRatio.zip
+Can't find 0C000006U3|0P0000M0E4 in z:\DEV\PT2.0-GEDF-20180324\NRA_Monthly_EarningRatiosAOR_2018-2.zip
+Can't find 0C000006U3|0P0000M0E4 in z:\NRA\Fundamental\EarningRatios\Delta\Delta_EarningRatiosAOR_2018-04-02.zip
+
+Process Done
+
+Start Process>> CompanyId: 0C000006U3, ShareClassId: 0P0000M0E4, File:NRA\Fundamental\EarningRatios\Delta\Delta_EarningRatiosRes.zip
+Can't find 0C000006U3|0P0000M0E4 in z:\DEV\PT2.0-GEDF-20180324\NRA_Monthly_EarningRatiosRestate_2018-2.zip
+Can't find 0C000006U3|0P0000M0E4 in z:\NRA\Fundamental\EarningRatios\Delta\Delta_EarningRatiosRestate_2018-04-02.zip
+
+Process Done
+
+Start Process>> CompanyId: 0C000006U3, ShareClassId: 0P0000M0E4, File:NRA\Fundamental\EarningReports\Delta\Delta_EarningReport.zip
+Can't find 0C000006U3|0P0000M0E4 in z:\DEV\PT2.0-GEDF-20180324\NRA_Monthly_EarningReportsAOR_2018-2.zip
+Can't find 0C000006U3|0P0000M0E4 in z:\NRA\Fundamental\EarningReports\Delta\Delta_EarningReportsAOR_2018-04-02.zip
+
+Process Done
+
+Start Process>> CompanyId: 0C000006U3, ShareClassId: 0P0000M0E4, File:NRA\Fundamental\EarningReports\Delta\Delta_EarningReportsRes.zip
+Can't find 0C000006U3|0P0000M0E4 in z:\DEV\PT2.0-GEDF-20180324\NRA_Monthly_EarningReportsRestate_2018-2.zip
+Can't find 0C000006U3|0P0000M0E4 in z:\NRA\Fundamental\EarningReports\Delta\Delta_EarningReportsRestate_2018-04-02.zip
+
+Process Done
+
+Start Process>> CompanyId: 0C000006U3, ShareClassId: 0P0000M0E7, File:NRA\Fundamental\EarningRatios\Delta\Delta_EarningRatio.zip
+Can't find 0C000006U3|0P0000M0E7 in z:\DEV\PT2.0-GEDF-20180324\NRA_Monthly_EarningRatiosAOR_2018-2.zip
+Can't find 0C000006U3|0P0000M0E7 in z:\NRA\Fundamental\EarningRatios\Delta\Delta_EarningRatiosAOR_2018-04-02.zip
+
+Process Done
+
+Start Process>> CompanyId: 0C000006U3, ShareClassId: 0P0000M0E7, File:NRA\Fundamental\EarningRatios\Delta\Delta_EarningRatiosRes.zip
+Can't find 0C000006U3|0P0000M0E7 in z:\DEV\PT2.0-GEDF-20180324\NRA_Monthly_EarningRatiosRestate_2018-2.zip
+Can't find 0C000006U3|0P0000M0E7 in z:\NRA\Fundamental\EarningRatios\Delta\Delta_EarningRatiosRestate_2018-04-02.zip
+
+Process Done
+
+Start Process>> CompanyId: 0C000006U3, ShareClassId: 0P0000M0E7, File:NRA\Fundamental\EarningReports\Delta\Delta_EarningReport.zip
+Can't find 0C000006U3|0P0000M0E7 in z:\DEV\PT2.0-GEDF-20180324\NRA_Monthly_EarningReportsAOR_2018-2.zip
+Can't find 0C000006U3|0P0000M0E7 in z:\NRA\Fundamental\EarningReports\Delta\Delta_EarningReportsAOR_2018-04-02.zip
+
+Process Done
+
+Start Process>> CompanyId: 0C000006U3, ShareClassId: 0P0000M0E7, File:NRA\Fundamental\EarningReports\Delta\Delta_EarningReportsRes.zip
+Can't find 0C000006U3|0P0000M0E7 in z:\DEV\PT2.0-GEDF-20180324\NRA_Monthly_EarningReportsRestate_2018-2.zip
+Can't find 0C000006U3|0P0000M0E7 in z:\NRA\Fundamental\EarningReports\Delta\Delta_EarningReportsRestate_2018-04-02.zip
+
+Process Done
+
+Start Process>> CompanyId: 0C000006U3, ShareClassId: 0P0000M0E9, File:NRA\Fundamental\EarningRatios\Delta\Delta_EarningRatio.zip
+Can't find 0C000006U3|0P0000M0E9 in z:\DEV\PT2.0-GEDF-20180324\NRA_Monthly_EarningRatiosAOR_2018-2.zip
+Can't find 0C000006U3|0P0000M0E9 in z:\NRA\Fundamental\EarningRatios\Delta\Delta_EarningRatiosAOR_2018-04-02.zip
+
+Process Done
+
+Start Process>> CompanyId: 0C000006U3, ShareClassId: 0P0000M0E9, File:NRA\Fundamental\EarningRatios\Delta\Delta_EarningRatiosRes.zip
+Can't find 0C000006U3|0P0000M0E9 in z:\DEV\PT2.0-GEDF-20180324\NRA_Monthly_EarningRatiosRestate_2018-2.zip
+Can't find 0C000006U3|0P0000M0E9 in z:\NRA\Fundamental\EarningRatios\Delta\Delta_EarningRatiosRestate_2018-04-02.zip
+
+Process Done
+
+Start Process>> CompanyId: 0C000006U3, ShareClassId: 0P0000M0E9, File:NRA\Fundamental\EarningReports\Delta\Delta_EarningReport.zip
+Can't find 0C000006U3|0P0000M0E9 in z:\DEV\PT2.0-GEDF-20180324\NRA_Monthly_EarningReportsAOR_2018-2.zip
+Can't find 0C000006U3|0P0000M0E9 in z:\NRA\Fundamental\EarningReports\Delta\Delta_EarningReportsAOR_2018-04-02.zip
+
+Process Done
+
+Start Process>> CompanyId: 0C000006U3, ShareClassId: 0P0000M0E9, File:NRA\Fundamental\EarningReports\Delta\Delta_EarningReportsRes.zip
+Can't find 0C000006U3|0P0000M0E9 in z:\DEV\PT2.0-GEDF-20180324\NRA_Monthly_EarningReportsRestate_2018-2.zip
+Can't find 0C000006U3|0P0000M0E9 in z:\NRA\Fundamental\EarningReports\Delta\Delta_EarningReportsRestate_2018-04-02.zip
+
+Process Done
+
+Start Process>> CompanyId: 0C000006U3, ShareClassId: 0P0000M0EB, File:NRA\Fundamental\EarningRatios\Delta\Delta_EarningRatio.zip
+Can't find 0C000006U3|0P0000M0EB in z:\DEV\PT2.0-GEDF-20180324\NRA_Monthly_EarningRatiosAOR_2018-2.zip
+Can't find 0C000006U3|0P0000M0EB in z:\NRA\Fundamental\EarningRatios\Delta\Delta_EarningRatiosAOR_2018-04-02.zip
+
+Process Done
+
+Start Process>> CompanyId: 0C000006U3, ShareClassId: 0P0000M0EB, File:NRA\Fundamental\EarningRatios\Delta\Delta_EarningRatiosRes.zip
+Can't find 0C000006U3|0P0000M0EB in z:\DEV\PT2.0-GEDF-20180324\NRA_Monthly_EarningRatiosRestate_2018-2.zip
+Can't find 0C000006U3|0P0000M0EB in z:\NRA\Fundamental\EarningRatios\Delta\Delta_EarningRatiosRestate_2018-04-02.zip
+
+Process Done
+
+Start Process>> CompanyId: 0C000006U3, ShareClassId: 0P0000M0EB, File:NRA\Fundamental\EarningReports\Delta\Delta_EarningReport.zip
+Can't find 0C000006U3|0P0000M0EB in z:\DEV\PT2.0-GEDF-20180324\NRA_Monthly_EarningReportsAOR_2018-2.zip
+Can't find 0C000006U3|0P0000M0EB in z:\NRA\Fundamental\EarningReports\Delta\Delta_EarningReportsAOR_2018-04-02.zip
+
+Process Done
+
+Start Process>> CompanyId: 0C000006U3, ShareClassId: 0P0000M0EB, File:NRA\Fundamental\EarningReports\Delta\Delta_EarningReportsRes.zip
+Can't find 0C000006U3|0P0000M0EB in z:\DEV\PT2.0-GEDF-20180324\NRA_Monthly_EarningReportsRestate_2018-2.zip
+Can't find 0C000006U3|0P0000M0EB in z:\NRA\Fundamental\EarningReports\Delta\Delta_EarningReportsRestate_2018-04-02.zip
+
+Process Done
+
+Start Process>> CompanyId: 0C000006U3, ShareClassId: 0P0000M0ED, File:NRA\Fundamental\EarningRatios\Delta\Delta_EarningRatio.zip
+Can't find 0C000006U3|0P0000M0ED in z:\DEV\PT2.0-GEDF-20180324\NRA_Monthly_EarningRatiosAOR_2018-2.zip
+Can't find 0C000006U3|0P0000M0ED in z:\NRA\Fundamental\EarningRatios\Delta\Delta_EarningRatiosAOR_2018-04-02.zip
+
+Process Done
+
+Start Process>> CompanyId: 0C000006U3, ShareClassId: 0P0000M0ED, File:NRA\Fundamental\EarningRatios\Delta\Delta_EarningRatiosRes.zip
+Can't find 0C000006U3|0P0000M0ED in z:\DEV\PT2.0-GEDF-20180324\NRA_Monthly_EarningRatiosRestate_2018-2.zip
+Can't find 0C000006U3|0P0000M0ED in z:\NRA\Fundamental\EarningRatios\Delta\Delta_EarningRatiosRestate_2018-04-02.zip
+
+Process Done
+
+Start Process>> CompanyId: 0C000006U3, ShareClassId: 0P0000M0ED, File:NRA\Fundamental\EarningReports\Delta\Delta_EarningReport.zip
+Can't find 0C000006U3|0P0000M0ED in z:\DEV\PT2.0-GEDF-20180324\NRA_Monthly_EarningReportsAOR_2018-2.zip
+Can't find 0C000006U3|0P0000M0ED in z:\NRA\Fundamental\EarningReports\Delta\Delta_EarningReportsAOR_2018-04-02.zip
+
+Process Done
+
+Start Process>> CompanyId: 0C000006U3, ShareClassId: 0P0000M0ED, File:NRA\Fundamental\EarningReports\Delta\Delta_EarningReportsRes.zip
+Can't find 0C000006U3|0P0000M0ED in z:\DEV\PT2.0-GEDF-20180324\NRA_Monthly_EarningReportsRestate_2018-2.zip
+Can't find 0C000006U3|0P0000M0ED in z:\NRA\Fundamental\EarningReports\Delta\Delta_EarningReportsRestate_2018-04-02.zip
+
+Process Done
+
+Start Process>> CompanyId: 0C000006U3, ShareClassId: 0P0000M0EF, File:NRA\Fundamental\EarningRatios\Delta\Delta_EarningRatio.zip
+Can't find 0C000006U3|0P0000M0EF in z:\DEV\PT2.0-GEDF-20180324\NRA_Monthly_EarningRatiosAOR_2018-2.zip
+Can't find 0C000006U3|0P0000M0EF in z:\NRA\Fundamental\EarningRatios\Delta\Delta_EarningRatiosAOR_2018-04-02.zip
+
+Process Done
+
+Start Process>> CompanyId: 0C000006U3, ShareClassId: 0P0000M0EF, File:NRA\Fundamental\EarningRatios\Delta\Delta_EarningRatiosRes.zip
+Can't find 0C000006U3|0P0000M0EF in z:\DEV\PT2.0-GEDF-20180324\NRA_Monthly_EarningRatiosRestate_2018-2.zip
+Can't find 0C000006U3|0P0000M0EF in z:\NRA\Fundamental\EarningRatios\Delta\Delta_EarningRatiosRestate_2018-04-02.zip
+
+Process Done
+
+Start Process>> CompanyId: 0C000006U3, ShareClassId: 0P0000M0EF, File:NRA\Fundamental\EarningReports\Delta\Delta_EarningReport.zip
+Can't find 0C000006U3|0P0000M0EF in z:\DEV\PT2.0-GEDF-20180324\NRA_Monthly_EarningReportsAOR_2018-2.zip
+Can't find 0C000006U3|0P0000M0EF in z:\NRA\Fundamental\EarningReports\Delta\Delta_EarningReportsAOR_2018-04-02.zip
+
+Process Done
+
+Start Process>> CompanyId: 0C000006U3, ShareClassId: 0P0000M0EF, File:NRA\Fundamental\EarningReports\Delta\Delta_EarningReportsRes.zip
+Can't find 0C000006U3|0P0000M0EF in z:\DEV\PT2.0-GEDF-20180324\NRA_Monthly_EarningReportsRestate_2018-2.zip
+Can't find 0C000006U3|0P0000M0EF in z:\NRA\Fundamental\EarningReports\Delta\Delta_EarningReportsRestate_2018-04-02.zip
+
+Process Done
+
+Start Process>> CompanyId: 0C000006U3, ShareClassId: 0P0000M0EH, File:NRA\Fundamental\EarningRatios\Delta\Delta_EarningRatio.zip
+Can't find 0C000006U3|0P0000M0EH in z:\DEV\PT2.0-GEDF-20180324\NRA_Monthly_EarningRatiosAOR_2018-2.zip
+Can't find 0C000006U3|0P0000M0EH in z:\NRA\Fundamental\EarningRatios\Delta\Delta_EarningRatiosAOR_2018-04-02.zip
+
+Process Done
+
+Start Process>> CompanyId: 0C000006U3, ShareClassId: 0P0000M0EH, File:NRA\Fundamental\EarningRatios\Delta\Delta_EarningRatiosRes.zip
+Can't find 0C000006U3|0P0000M0EH in z:\DEV\PT2.0-GEDF-20180324\NRA_Monthly_EarningRatiosRestate_2018-2.zip
+Can't find 0C000006U3|0P0000M0EH in z:\NRA\Fundamental\EarningRatios\Delta\Delta_EarningRatiosRestate_2018-04-02.zip
+
+Process Done
+
+Start Process>> CompanyId: 0C000006U3, ShareClassId: 0P0000M0EH, File:NRA\Fundamental\EarningReports\Delta\Delta_EarningReport.zip
+Can't find 0C000006U3|0P0000M0EH in z:\DEV\PT2.0-GEDF-20180324\NRA_Monthly_EarningReportsAOR_2018-2.zip
+Can't find 0C000006U3|0P0000M0EH in z:\NRA\Fundamental\EarningReports\Delta\Delta_EarningReportsAOR_2018-04-02.zip
+
+Process Done
+
+Start Process>> CompanyId: 0C000006U3, ShareClassId: 0P0000M0EH, File:NRA\Fundamental\EarningReports\Delta\Delta_EarningReportsRes.zip
+Can't find 0C000006U3|0P0000M0EH in z:\DEV\PT2.0-GEDF-20180324\NRA_Monthly_EarningReportsRestate_2018-2.zip
+Can't find 0C000006U3|0P0000M0EH in z:\NRA\Fundamental\EarningReports\Delta\Delta_EarningReportsRestate_2018-04-02.zip
+
+Process Done
+
+Start Process>> CompanyId: 0C000006U3, ShareClassId: 0P0000M0EJ, File:NRA\Fundamental\EarningRatios\Delta\Delta_EarningRatio.zip
+Can't find 0C000006U3|0P0000M0EJ in z:\DEV\PT2.0-GEDF-20180324\NRA_Monthly_EarningRatiosAOR_2018-2.zip
+Can't find 0C000006U3|0P0000M0EJ in z:\NRA\Fundamental\EarningRatios\Delta\Delta_EarningRatiosAOR_2018-04-02.zip
+
+Process Done
+
+Start Process>> CompanyId: 0C000006U3, ShareClassId: 0P0000M0EJ, File:NRA\Fundamental\EarningRatios\Delta\Delta_EarningRatiosRes.zip
+Can't find 0C000006U3|0P0000M0EJ in z:\DEV\PT2.0-GEDF-20180324\NRA_Monthly_EarningRatiosRestate_2018-2.zip
+Can't find 0C000006U3|0P0000M0EJ in z:\NRA\Fundamental\EarningRatios\Delta\Delta_EarningRatiosRestate_2018-04-02.zip
+
+Process Done
+
+Start Process>> CompanyId: 0C000006U3, ShareClassId: 0P0000M0EJ, File:NRA\Fundamental\EarningReports\Delta\Delta_EarningReport.zip
+Can't find 0C000006U3|0P0000M0EJ in z:\DEV\PT2.0-GEDF-20180324\NRA_Monthly_EarningReportsAOR_2018-2.zip
+Can't find 0C000006U3|0P0000M0EJ in z:\NRA\Fundamental\EarningReports\Delta\Delta_EarningReportsAOR_2018-04-02.zip
+
+Process Done
+
+Start Process>> CompanyId: 0C000006U3, ShareClassId: 0P0000M0EJ, File:NRA\Fundamental\EarningReports\Delta\Delta_EarningReportsRes.zip
+Can't find 0C000006U3|0P0000M0EJ in z:\DEV\PT2.0-GEDF-20180324\NRA_Monthly_EarningReportsRestate_2018-2.zip
+Can't find 0C000006U3|0P0000M0EJ in z:\NRA\Fundamental\EarningReports\Delta\Delta_EarningReportsRestate_2018-04-02.zip
+
+Process Done
+
+Start Process>> CompanyId: 0C000006U3, ShareClassId: 0P0000M0EL, File:NRA\Fundamental\EarningRatios\Delta\Delta_EarningRatio.zip
+Can't find 0C000006U3|0P0000M0EL in z:\DEV\PT2.0-GEDF-20180324\NRA_Monthly_EarningRatiosAOR_2018-2.zip
+Can't find 0C000006U3|0P0000M0EL in z:\NRA\Fundamental\EarningRatios\Delta\Delta_EarningRatiosAOR_2018-04-02.zip
+
+Process Done
+
+Start Process>> CompanyId: 0C000006U3, ShareClassId: 0P0000M0EL, File:NRA\Fundamental\EarningRatios\Delta\Delta_EarningRatiosRes.zip
+Can't find 0C000006U3|0P0000M0EL in z:\DEV\PT2.0-GEDF-20180324\NRA_Monthly_EarningRatiosRestate_2018-2.zip
+Can't find 0C000006U3|0P0000M0EL in z:\NRA\Fundamental\EarningRatios\Delta\Delta_EarningRatiosRestate_2018-04-02.zip
+
+Process Done
+
+Start Process>> CompanyId: 0C000006U3, ShareClassId: 0P0000M0EL, File:NRA\Fundamental\EarningReports\Delta\Delta_EarningReport.zip
+Can't find 0C000006U3|0P0000M0EL in z:\DEV\PT2.0-GEDF-20180324\NRA_Monthly_EarningReportsAOR_2018-2.zip
+Can't find 0C000006U3|0P0000M0EL in z:\NRA\Fundamental\EarningReports\Delta\Delta_EarningReportsAOR_2018-04-02.zip
+
+Process Done
+
+Start Process>> CompanyId: 0C000006U3, ShareClassId: 0P0000M0EL, File:NRA\Fundamental\EarningReports\Delta\Delta_EarningReportsRes.zip
+Can't find 0C000006U3|0P0000M0EL in z:\DEV\PT2.0-GEDF-20180324\NRA_Monthly_EarningReportsRestate_2018-2.zip
+Can't find 0C000006U3|0P0000M0EL in z:\NRA\Fundamental\EarningReports\Delta\Delta_EarningReportsRestate_2018-04-02.zip
+
+Process Done
+
+Start Process>> CompanyId: 0C000006U3, ShareClassId: 0P0000M28D, File:NRA\Fundamental\EarningRatios\Delta\Delta_EarningRatio.zip
+Can't find 0C000006U3|0P0000M28D in z:\DEV\PT2.0-GEDF-20180324\NRA_Monthly_EarningRatiosAOR_2018-2.zip
+Can't find 0C000006U3|0P0000M28D in z:\NRA\Fundamental\EarningRatios\Delta\Delta_EarningRatiosAOR_2018-04-02.zip
+
+Process Done
+
+Start Process>> CompanyId: 0C000006U3, ShareClassId: 0P0000M28D, File:NRA\Fundamental\EarningRatios\Delta\Delta_EarningRatiosRes.zip
+Can't find 0C000006U3|0P0000M28D in z:\DEV\PT2.0-GEDF-20180324\NRA_Monthly_EarningRatiosRestate_2018-2.zip
+Can't find 0C000006U3|0P0000M28D in z:\NRA\Fundamental\EarningRatios\Delta\Delta_EarningRatiosRestate_2018-04-02.zip
+
+Process Done
+
+Start Process>> CompanyId: 0C000006U3, ShareClassId: 0P0000M28D, File:NRA\Fundamental\EarningReports\Delta\Delta_EarningReport.zip
+Can't find 0C000006U3|0P0000M28D in z:\DEV\PT2.0-GEDF-20180324\NRA_Monthly_EarningReportsAOR_2018-2.zip
+Can't find 0C000006U3|0P0000M28D in z:\NRA\Fundamental\EarningReports\Delta\Delta_EarningReportsAOR_2018-04-02.zip
+
+Process Done
+
+Start Process>> CompanyId: 0C000006U3, ShareClassId: 0P0000M28D, File:NRA\Fundamental\EarningReports\Delta\Delta_EarningReportsRes.zip
+Can't find 0C000006U3|0P0000M28D in z:\DEV\PT2.0-GEDF-20180324\NRA_Monthly_EarningReportsRestate_2018-2.zip
+Can't find 0C000006U3|0P0000M28D in z:\NRA\Fundamental\EarningReports\Delta\Delta_EarningReportsRestate_2018-04-02.zip
+
+Process Done
+
+Start Process>> CompanyId: 0C000006U3, ShareClassId: 0P0000M28L, File:NRA\Fundamental\EarningRatios\Delta\Delta_EarningRatio.zip
+Can't find 0C000006U3|0P0000M28L in z:\DEV\PT2.0-GEDF-20180324\NRA_Monthly_EarningRatiosAOR_2018-2.zip
+Can't find 0C000006U3|0P0000M28L in z:\NRA\Fundamental\EarningRatios\Delta\Delta_EarningRatiosAOR_2018-04-02.zip
+
+Process Done
+
+Start Process>> CompanyId: 0C000006U3, ShareClassId: 0P0000M28L, File:NRA\Fundamental\EarningRatios\Delta\Delta_EarningRatiosRes.zip
+Can't find 0C000006U3|0P0000M28L in z:\DEV\PT2.0-GEDF-20180324\NRA_Monthly_EarningRatiosRestate_2018-2.zip
+Can't find 0C000006U3|0P0000M28L in z:\NRA\Fundamental\EarningRatios\Delta\Delta_EarningRatiosRestate_2018-04-02.zip
+
+Process Done
+
+Start Process>> CompanyId: 0C000006U3, ShareClassId: 0P0000M28L, File:NRA\Fundamental\EarningReports\Delta\Delta_EarningReport.zip
+Can't find 0C000006U3|0P0000M28L in z:\DEV\PT2.0-GEDF-20180324\NRA_Monthly_EarningReportsAOR_2018-2.zip
+Can't find 0C000006U3|0P0000M28L in z:\NRA\Fundamental\EarningReports\Delta\Delta_EarningReportsAOR_2018-04-02.zip
+
+Process Done
+
+Start Process>> CompanyId: 0C000006U3, ShareClassId: 0P0000M28L, File:NRA\Fundamental\EarningReports\Delta\Delta_EarningReportsRes.zip
+Can't find 0C000006U3|0P0000M28L in z:\DEV\PT2.0-GEDF-20180324\NRA_Monthly_EarningReportsRestate_2018-2.zip
+Can't find 0C000006U3|0P0000M28L in z:\NRA\Fundamental\EarningReports\Delta\Delta_EarningReportsRestate_2018-04-02.zip
+
+Process Done
+
+Start Process>> CompanyId: 0C000006U3, ShareClassId: 0P0000M28R, File:NRA\Fundamental\EarningRatios\Delta\Delta_EarningRatio.zip
+Can't find 0C000006U3|0P0000M28R in z:\DEV\PT2.0-GEDF-20180324\NRA_Monthly_EarningRatiosAOR_2018-2.zip
+Can't find 0C000006U3|0P0000M28R in z:\NRA\Fundamental\EarningRatios\Delta\Delta_EarningRatiosAOR_2018-04-02.zip
+
+Process Done
+
+Start Process>> CompanyId: 0C000006U3, ShareClassId: 0P0000M28R, File:NRA\Fundamental\EarningRatios\Delta\Delta_EarningRatiosRes.zip
+Can't find 0C000006U3|0P0000M28R in z:\DEV\PT2.0-GEDF-20180324\NRA_Monthly_EarningRatiosRestate_2018-2.zip
+Can't find 0C000006U3|0P0000M28R in z:\NRA\Fundamental\EarningRatios\Delta\Delta_EarningRatiosRestate_2018-04-02.zip
+
+Process Done
+
+Start Process>> CompanyId: 0C000006U3, ShareClassId: 0P0000M28R, File:NRA\Fundamental\EarningReports\Delta\Delta_EarningReport.zip
+Can't find 0C000006U3|0P0000M28R in z:\DEV\PT2.0-GEDF-20180324\NRA_Monthly_EarningReportsAOR_2018-2.zip
+Can't find 0C000006U3|0P0000M28R in z:\NRA\Fundamental\EarningReports\Delta\Delta_EarningReportsAOR_2018-04-02.zip
+
+Process Done
+
+Start Process>> CompanyId: 0C000006U3, ShareClassId: 0P0000M28R, File:NRA\Fundamental\EarningReports\Delta\Delta_EarningReportsRes.zip
+Can't find 0C000006U3|0P0000M28R in z:\DEV\PT2.0-GEDF-20180324\NRA_Monthly_EarningReportsRestate_2018-2.zip
+Can't find 0C000006U3|0P0000M28R in z:\NRA\Fundamental\EarningReports\Delta\Delta_EarningReportsRestate_2018-04-02.zip
+
+Process Done
+
+Start Process>> CompanyId: 0C000006U3, ShareClassId: 0P0000M28V, File:NRA\Fundamental\EarningRatios\Delta\Delta_EarningRatio.zip
+Can't find 0C000006U3|0P0000M28V in z:\DEV\PT2.0-GEDF-20180324\NRA_Monthly_EarningRatiosAOR_2018-2.zip
+Can't find 0C000006U3|0P0000M28V in z:\NRA\Fundamental\EarningRatios\Delta\Delta_EarningRatiosAOR_2018-04-02.zip
+
+Process Done
+
+Start Process>> CompanyId: 0C000006U3, ShareClassId: 0P0000M28V, File:NRA\Fundamental\EarningRatios\Delta\Delta_EarningRatiosRes.zip
+Can't find 0C000006U3|0P0000M28V in z:\DEV\PT2.0-GEDF-20180324\NRA_Monthly_EarningRatiosRestate_2018-2.zip
+Can't find 0C000006U3|0P0000M28V in z:\NRA\Fundamental\EarningRatios\Delta\Delta_EarningRatiosRestate_2018-04-02.zip
+
+Process Done
+
+Start Process>> CompanyId: 0C000006U3, ShareClassId: 0P0000M28V, File:NRA\Fundamental\EarningReports\Delta\Delta_EarningReport.zip
+Can't find 0C000006U3|0P0000M28V in z:\DEV\PT2.0-GEDF-20180324\NRA_Monthly_EarningReportsAOR_2018-2.zip
+Can't find 0C000006U3|0P0000M28V in z:\NRA\Fundamental\EarningReports\Delta\Delta_EarningReportsAOR_2018-04-02.zip
+
+Process Done
+
+Start Process>> CompanyId: 0C000006U3, ShareClassId: 0P0000M28V, File:NRA\Fundamental\EarningReports\Delta\Delta_EarningReportsRes.zip
+Can't find 0C000006U3|0P0000M28V in z:\DEV\PT2.0-GEDF-20180324\NRA_Monthly_EarningReportsRestate_2018-2.zip
+Can't find 0C000006U3|0P0000M28V in z:\NRA\Fundamental\EarningReports\Delta\Delta_EarningReportsRestate_2018-04-02.zip
+
+Process Done
+
+Start Process>> CompanyId: 0C000006U3, ShareClassId: 0P0000M28Z, File:NRA\Fundamental\EarningRatios\Delta\Delta_EarningRatio.zip
+Can't find 0C000006U3|0P0000M28Z in z:\DEV\PT2.0-GEDF-20180324\NRA_Monthly_EarningRatiosAOR_2018-2.zip
+Can't find 0C000006U3|0P0000M28Z in z:\NRA\Fundamental\EarningRatios\Delta\Delta_EarningRatiosAOR_2018-04-02.zip
+
+Process Done
+
+Start Process>> CompanyId: 0C000006U3, ShareClassId: 0P0000M28Z, File:NRA\Fundamental\EarningRatios\Delta\Delta_EarningRatiosRes.zip
+Can't find 0C000006U3|0P0000M28Z in z:\DEV\PT2.0-GEDF-20180324\NRA_Monthly_EarningRatiosRestate_2018-2.zip
+Can't find 0C000006U3|0P0000M28Z in z:\NRA\Fundamental\EarningRatios\Delta\Delta_EarningRatiosRestate_2018-04-02.zip
+
+Process Done
+
+Start Process>> CompanyId: 0C000006U3, ShareClassId: 0P0000M28Z, File:NRA\Fundamental\EarningReports\Delta\Delta_EarningReport.zip
+Can't find 0C000006U3|0P0000M28Z in z:\DEV\PT2.0-GEDF-20180324\NRA_Monthly_EarningReportsAOR_2018-2.zip
+Can't find 0C000006U3|0P0000M28Z in z:\NRA\Fundamental\EarningReports\Delta\Delta_EarningReportsAOR_2018-04-02.zip
+
+Process Done
+
+Start Process>> CompanyId: 0C000006U3, ShareClassId: 0P0000M28Z, File:NRA\Fundamental\EarningReports\Delta\Delta_EarningReportsRes.zip
+Can't find 0C000006U3|0P0000M28Z in z:\DEV\PT2.0-GEDF-20180324\NRA_Monthly_EarningReportsRestate_2018-2.zip
+Can't find 0C000006U3|0P0000M28Z in z:\NRA\Fundamental\EarningReports\Delta\Delta_EarningReportsRestate_2018-04-02.zip
+
+Process Done
+
+Start Process>> CompanyId: 0C000006U3, ShareClassId: 0P0000M291, File:NRA\Fundamental\EarningRatios\Delta\Delta_EarningRatio.zip
+Can't find 0C000006U3|0P0000M291 in z:\DEV\PT2.0-GEDF-20180324\NRA_Monthly_EarningRatiosAOR_2018-2.zip
+Can't find 0C000006U3|0P0000M291 in z:\NRA\Fundamental\EarningRatios\Delta\Delta_EarningRatiosAOR_2018-04-02.zip
+
+Process Done
+
+Start Process>> CompanyId: 0C000006U3, ShareClassId: 0P0000M291, File:NRA\Fundamental\EarningRatios\Delta\Delta_EarningRatiosRes.zip
+Can't find 0C000006U3|0P0000M291 in z:\DEV\PT2.0-GEDF-20180324\NRA_Monthly_EarningRatiosRestate_2018-2.zip
+Can't find 0C000006U3|0P0000M291 in z:\NRA\Fundamental\EarningRatios\Delta\Delta_EarningRatiosRestate_2018-04-02.zip
+
+Process Done
+
+Start Process>> CompanyId: 0C000006U3, ShareClassId: 0P0000M291, File:NRA\Fundamental\EarningReports\Delta\Delta_EarningReport.zip
+Can't find 0C000006U3|0P0000M291 in z:\DEV\PT2.0-GEDF-20180324\NRA_Monthly_EarningReportsAOR_2018-2.zip
+Can't find 0C000006U3|0P0000M291 in z:\NRA\Fundamental\EarningReports\Delta\Delta_EarningReportsAOR_2018-04-02.zip
+
+Process Done
+
+Start Process>> CompanyId: 0C000006U3, ShareClassId: 0P0000M291, File:NRA\Fundamental\EarningReports\Delta\Delta_EarningReportsRes.zip
+Can't find 0C000006U3|0P0000M291 in z:\DEV\PT2.0-GEDF-20180324\NRA_Monthly_EarningReportsRestate_2018-2.zip
+Can't find 0C000006U3|0P0000M291 in z:\NRA\Fundamental\EarningReports\Delta\Delta_EarningReportsRestate_2018-04-02.zip
+
+Process Done
+
+Start Process>> CompanyId: 0C000006U3, ShareClassId: 0P0000M293, File:NRA\Fundamental\EarningRatios\Delta\Delta_EarningRatio.zip
+Can't find 0C000006U3|0P0000M293 in z:\DEV\PT2.0-GEDF-20180324\NRA_Monthly_EarningRatiosAOR_2018-2.zip
+Can't find 0C000006U3|0P0000M293 in z:\NRA\Fundamental\EarningRatios\Delta\Delta_EarningRatiosAOR_2018-04-02.zip
+
+Process Done
+
+Start Process>> CompanyId: 0C000006U3, ShareClassId: 0P0000M293, File:NRA\Fundamental\EarningRatios\Delta\Delta_EarningRatiosRes.zip
+Can't find 0C000006U3|0P0000M293 in z:\DEV\PT2.0-GEDF-20180324\NRA_Monthly_EarningRatiosRestate_2018-2.zip
+Can't find 0C000006U3|0P0000M293 in z:\NRA\Fundamental\EarningRatios\Delta\Delta_EarningRatiosRestate_2018-04-02.zip
+
+Process Done
+
+Start Process>> CompanyId: 0C000006U3, ShareClassId: 0P0000M293, File:NRA\Fundamental\EarningReports\Delta\Delta_EarningReport.zip
+Can't find 0C000006U3|0P0000M293 in z:\DEV\PT2.0-GEDF-20180324\NRA_Monthly_EarningReportsAOR_2018-2.zip
+Can't find 0C000006U3|0P0000M293 in z:\NRA\Fundamental\EarningReports\Delta\Delta_EarningReportsAOR_2018-04-02.zip
+
+Process Done
+
+Start Process>> CompanyId: 0C000006U3, ShareClassId: 0P0000M293, File:NRA\Fundamental\EarningReports\Delta\Delta_EarningReportsRes.zip
+Can't find 0C000006U3|0P0000M293 in z:\DEV\PT2.0-GEDF-20180324\NRA_Monthly_EarningReportsRestate_2018-2.zip
+Can't find 0C000006U3|0P0000M293 in z:\NRA\Fundamental\EarningReports\Delta\Delta_EarningReportsRestate_2018-04-02.zip
+
+Process Done
+
+Start Process>> CompanyId: 0C000006U3, ShareClassId: 0P0000M295, File:NRA\Fundamental\EarningRatios\Delta\Delta_EarningRatio.zip
+Can't find 0C000006U3|0P0000M295 in z:\DEV\PT2.0-GEDF-20180324\NRA_Monthly_EarningRatiosAOR_2018-2.zip
+Can't find 0C000006U3|0P0000M295 in z:\NRA\Fundamental\EarningRatios\Delta\Delta_EarningRatiosAOR_2018-04-02.zip
+
+Process Done
+
+Start Process>> CompanyId: 0C000006U3, ShareClassId: 0P0000M295, File:NRA\Fundamental\EarningRatios\Delta\Delta_EarningRatiosRes.zip
+Can't find 0C000006U3|0P0000M295 in z:\DEV\PT2.0-GEDF-20180324\NRA_Monthly_EarningRatiosRestate_2018-2.zip
+Can't find 0C000006U3|0P0000M295 in z:\NRA\Fundamental\EarningRatios\Delta\Delta_EarningRatiosRestate_2018-04-02.zip
+
+Process Done
+
+Start Process>> CompanyId: 0C000006U3, ShareClassId: 0P0000M295, File:NRA\Fundamental\EarningReports\Delta\Delta_EarningReport.zip
+Can't find 0C000006U3|0P0000M295 in z:\DEV\PT2.0-GEDF-20180324\NRA_Monthly_EarningReportsAOR_2018-2.zip
+Can't find 0C000006U3|0P0000M295 in z:\NRA\Fundamental\EarningReports\Delta\Delta_EarningReportsAOR_2018-04-02.zip
+
+Process Done
+
+Start Process>> CompanyId: 0C000006U3, ShareClassId: 0P0000M295, File:NRA\Fundamental\EarningReports\Delta\Delta_EarningReportsRes.zip
+Can't find 0C000006U3|0P0000M295 in z:\DEV\PT2.0-GEDF-20180324\NRA_Monthly_EarningReportsRestate_2018-2.zip
+Can't find 0C000006U3|0P0000M295 in z:\NRA\Fundamental\EarningReports\Delta\Delta_EarningReportsRestate_2018-04-02.zip
+
+Process Done
+
+Start Process>> CompanyId: 0C000006U3, ShareClassId: 0P0000M297, File:NRA\Fundamental\EarningRatios\Delta\Delta_EarningRatio.zip
+Can't find 0C000006U3|0P0000M297 in z:\DEV\PT2.0-GEDF-20180324\NRA_Monthly_EarningRatiosAOR_2018-2.zip
+Can't find 0C000006U3|0P0000M297 in z:\NRA\Fundamental\EarningRatios\Delta\Delta_EarningRatiosAOR_2018-04-02.zip
+
+Process Done
+
+Start Process>> CompanyId: 0C000006U3, ShareClassId: 0P0000M297, File:NRA\Fundamental\EarningRatios\Delta\Delta_EarningRatiosRes.zip
+Can't find 0C000006U3|0P0000M297 in z:\DEV\PT2.0-GEDF-20180324\NRA_Monthly_EarningRatiosRestate_2018-2.zip
+Can't find 0C000006U3|0P0000M297 in z:\NRA\Fundamental\EarningRatios\Delta\Delta_EarningRatiosRestate_2018-04-02.zip
+
+Process Done
+
+Start Process>> CompanyId: 0C000006U3, ShareClassId: 0P0000M297, File:NRA\Fundamental\EarningReports\Delta\Delta_EarningReport.zip
+Can't find 0C000006U3|0P0000M297 in z:\DEV\PT2.0-GEDF-20180324\NRA_Monthly_EarningReportsAOR_2018-2.zip
+Can't find 0C000006U3|0P0000M297 in z:\NRA\Fundamental\EarningReports\Delta\Delta_EarningReportsAOR_2018-04-02.zip
+
+Process Done
+
+Start Process>> CompanyId: 0C000006U3, ShareClassId: 0P0000M297, File:NRA\Fundamental\EarningReports\Delta\Delta_EarningReportsRes.zip
+Can't find 0C000006U3|0P0000M297 in z:\DEV\PT2.0-GEDF-20180324\NRA_Monthly_EarningReportsRestate_2018-2.zip
+Can't find 0C000006U3|0P0000M297 in z:\NRA\Fundamental\EarningReports\Delta\Delta_EarningReportsRestate_2018-04-02.zip
+
+Process Done
+
+Start Process>> CompanyId: 0C000006U3, ShareClassId: 0P0000M299, File:NRA\Fundamental\EarningRatios\Delta\Delta_EarningRatio.zip
+Can't find 0C000006U3|0P0000M299 in z:\DEV\PT2.0-GEDF-20180324\NRA_Monthly_EarningRatiosAOR_2018-2.zip
+Can't find 0C000006U3|0P0000M299 in z:\NRA\Fundamental\EarningRatios\Delta\Delta_EarningRatiosAOR_2018-04-02.zip
+
+Process Done
+
+Start Process>> CompanyId: 0C000006U3, ShareClassId: 0P0000M299, File:NRA\Fundamental\EarningRatios\Delta\Delta_EarningRatiosRes.zip
+Can't find 0C000006U3|0P0000M299 in z:\DEV\PT2.0-GEDF-20180324\NRA_Monthly_EarningRatiosRestate_2018-2.zip
+Can't find 0C000006U3|0P0000M299 in z:\NRA\Fundamental\EarningRatios\Delta\Delta_EarningRatiosRestate_2018-04-02.zip
+
+Process Done
+
+Start Process>> CompanyId: 0C000006U3, ShareClassId: 0P0000M299, File:NRA\Fundamental\EarningReports\Delta\Delta_EarningReport.zip
+Can't find 0C000006U3|0P0000M299 in z:\DEV\PT2.0-GEDF-20180324\NRA_Monthly_EarningReportsAOR_2018-2.zip
+Can't find 0C000006U3|0P0000M299 in z:\NRA\Fundamental\EarningReports\Delta\Delta_EarningReportsAOR_2018-04-02.zip
+
+Process Done
+
+Start Process>> CompanyId: 0C000006U3, ShareClassId: 0P0000M299, File:NRA\Fundamental\EarningReports\Delta\Delta_EarningReportsRes.zip
+Can't find 0C000006U3|0P0000M299 in z:\DEV\PT2.0-GEDF-20180324\NRA_Monthly_EarningReportsRestate_2018-2.zip
+Can't find 0C000006U3|0P0000M299 in z:\NRA\Fundamental\EarningReports\Delta\Delta_EarningReportsRestate_2018-04-02.zip
+
+Process Done
+
+Start Process>> CompanyId: 0C000006U3, ShareClassId: 0P0000M29B, File:NRA\Fundamental\EarningRatios\Delta\Delta_EarningRatio.zip
+Can't find 0C000006U3|0P0000M29B in z:\DEV\PT2.0-GEDF-20180324\NRA_Monthly_EarningRatiosAOR_2018-2.zip
+Can't find 0C000006U3|0P0000M29B in z:\NRA\Fundamental\EarningRatios\Delta\Delta_EarningRatiosAOR_2018-04-02.zip
+
+Process Done
+
+Start Process>> CompanyId: 0C000006U3, ShareClassId: 0P0000M29B, File:NRA\Fundamental\EarningRatios\Delta\Delta_EarningRatiosRes.zip
+Can't find 0C000006U3|0P0000M29B in z:\DEV\PT2.0-GEDF-20180324\NRA_Monthly_EarningRatiosRestate_2018-2.zip
+Can't find 0C000006U3|0P0000M29B in z:\NRA\Fundamental\EarningRatios\Delta\Delta_EarningRatiosRestate_2018-04-02.zip
+
+Process Done
+
+Start Process>> CompanyId: 0C000006U3, ShareClassId: 0P0000M29B, File:NRA\Fundamental\EarningReports\Delta\Delta_EarningReport.zip
+Can't find 0C000006U3|0P0000M29B in z:\DEV\PT2.0-GEDF-20180324\NRA_Monthly_EarningReportsAOR_2018-2.zip
+Can't find 0C000006U3|0P0000M29B in z:\NRA\Fundamental\EarningReports\Delta\Delta_EarningReportsAOR_2018-04-02.zip
+
+Process Done
+
+Start Process>> CompanyId: 0C000006U3, ShareClassId: 0P0000M29B, File:NRA\Fundamental\EarningReports\Delta\Delta_EarningReportsRes.zip
+Can't find 0C000006U3|0P0000M29B in z:\DEV\PT2.0-GEDF-20180324\NRA_Monthly_EarningReportsRestate_2018-2.zip
+Can't find 0C000006U3|0P0000M29B in z:\NRA\Fundamental\EarningReports\Delta\Delta_EarningReportsRestate_2018-04-02.zip
+
+Process Done
+
+Start Process>> CompanyId: 0C000006U3, ShareClassId: 0P0000M29F, File:NRA\Fundamental\EarningRatios\Delta\Delta_EarningRatio.zip
+Can't find 0C000006U3|0P0000M29F in z:\DEV\PT2.0-GEDF-20180324\NRA_Monthly_EarningRatiosAOR_2018-2.zip
+Can't find 0C000006U3|0P0000M29F in z:\NRA\Fundamental\EarningRatios\Delta\Delta_EarningRatiosAOR_2018-04-02.zip
+
+Process Done
+
+Start Process>> CompanyId: 0C000006U3, ShareClassId: 0P0000M29F, File:NRA\Fundamental\EarningRatios\Delta\Delta_EarningRatiosRes.zip
+Can't find 0C000006U3|0P0000M29F in z:\DEV\PT2.0-GEDF-20180324\NRA_Monthly_EarningRatiosRestate_2018-2.zip
+Can't find 0C000006U3|0P0000M29F in z:\NRA\Fundamental\EarningRatios\Delta\Delta_EarningRatiosRestate_2018-04-02.zip
+
+Process Done
+
+Start Process>> CompanyId: 0C000006U3, ShareClassId: 0P0000M29F, File:NRA\Fundamental\EarningReports\Delta\Delta_EarningReport.zip
+Can't find 0C000006U3|0P0000M29F in z:\DEV\PT2.0-GEDF-20180324\NRA_Monthly_EarningReportsAOR_2018-2.zip
+Can't find 0C000006U3|0P0000M29F in z:\NRA\Fundamental\EarningReports\Delta\Delta_EarningReportsAOR_2018-04-02.zip
+
+Process Done
+
+Start Process>> CompanyId: 0C000006U3, ShareClassId: 0P0000M29F, File:NRA\Fundamental\EarningReports\Delta\Delta_EarningReportsRes.zip
+Can't find 0C000006U3|0P0000M29F in z:\DEV\PT2.0-GEDF-20180324\NRA_Monthly_EarningReportsRestate_2018-2.zip
+Can't find 0C000006U3|0P0000M29F in z:\NRA\Fundamental\EarningReports\Delta\Delta_EarningReportsRestate_2018-04-02.zip
+
+Process Done
+
+Start Process>> CompanyId: 0C000006U3, ShareClassId: 0P0000M29H, File:NRA\Fundamental\EarningRatios\Delta\Delta_EarningRatio.zip
+Can't find 0C000006U3|0P0000M29H in z:\DEV\PT2.0-GEDF-20180324\NRA_Monthly_EarningRatiosAOR_2018-2.zip
+Can't find 0C000006U3|0P0000M29H in z:\NRA\Fundamental\EarningRatios\Delta\Delta_EarningRatiosAOR_2018-04-02.zip
+
+Process Done
+
+Start Process>> CompanyId: 0C000006U3, ShareClassId: 0P0000M29H, File:NRA\Fundamental\EarningRatios\Delta\Delta_EarningRatiosRes.zip
+Can't find 0C000006U3|0P0000M29H in z:\DEV\PT2.0-GEDF-20180324\NRA_Monthly_EarningRatiosRestate_2018-2.zip
+Can't find 0C000006U3|0P0000M29H in z:\NRA\Fundamental\EarningRatios\Delta\Delta_EarningRatiosRestate_2018-04-02.zip
+
+Process Done
+
+Start Process>> CompanyId: 0C000006U3, ShareClassId: 0P0000M29H, File:NRA\Fundamental\EarningReports\Delta\Delta_EarningReport.zip
+Can't find 0C000006U3|0P0000M29H in z:\DEV\PT2.0-GEDF-20180324\NRA_Monthly_EarningReportsAOR_2018-2.zip
+Can't find 0C000006U3|0P0000M29H in z:\NRA\Fundamental\EarningReports\Delta\Delta_EarningReportsAOR_2018-04-02.zip
+
+Process Done
+
+Start Process>> CompanyId: 0C000006U3, ShareClassId: 0P0000M29H, File:NRA\Fundamental\EarningReports\Delta\Delta_EarningReportsRes.zip
+Can't find 0C000006U3|0P0000M29H in z:\DEV\PT2.0-GEDF-20180324\NRA_Monthly_EarningReportsRestate_2018-2.zip
+Can't find 0C000006U3|0P0000M29H in z:\NRA\Fundamental\EarningReports\Delta\Delta_EarningReportsRestate_2018-04-02.zip
+
+Process Done
+
+Start Process>> CompanyId: 0C000006U3, ShareClassId: 0P0000M29J, File:NRA\Fundamental\EarningRatios\Delta\Delta_EarningRatio.zip
+Can't find 0C000006U3|0P0000M29J in z:\DEV\PT2.0-GEDF-20180324\NRA_Monthly_EarningRatiosAOR_2018-2.zip
+Can't find 0C000006U3|0P0000M29J in z:\NRA\Fundamental\EarningRatios\Delta\Delta_EarningRatiosAOR_2018-04-02.zip
+
+Process Done
+
+Start Process>> CompanyId: 0C000006U3, ShareClassId: 0P0000M29J, File:NRA\Fundamental\EarningRatios\Delta\Delta_EarningRatiosRes.zip
+Can't find 0C000006U3|0P0000M29J in z:\DEV\PT2.0-GEDF-20180324\NRA_Monthly_EarningRatiosRestate_2018-2.zip
+Can't find 0C000006U3|0P0000M29J in z:\NRA\Fundamental\EarningRatios\Delta\Delta_EarningRatiosRestate_2018-04-02.zip
+
+Process Done
+
+Start Process>> CompanyId: 0C000006U3, ShareClassId: 0P0000M29J, File:NRA\Fundamental\EarningReports\Delta\Delta_EarningReport.zip
+Can't find 0C000006U3|0P0000M29J in z:\DEV\PT2.0-GEDF-20180324\NRA_Monthly_EarningReportsAOR_2018-2.zip
+Can't find 0C000006U3|0P0000M29J in z:\NRA\Fundamental\EarningReports\Delta\Delta_EarningReportsAOR_2018-04-02.zip
+
+Process Done
+
+Start Process>> CompanyId: 0C000006U3, ShareClassId: 0P0000M29J, File:NRA\Fundamental\EarningReports\Delta\Delta_EarningReportsRes.zip
+Can't find 0C000006U3|0P0000M29J in z:\DEV\PT2.0-GEDF-20180324\NRA_Monthly_EarningReportsRestate_2018-2.zip
+Can't find 0C000006U3|0P0000M29J in z:\NRA\Fundamental\EarningReports\Delta\Delta_EarningReportsRestate_2018-04-02.zip
+
+Process Done
+
+Start Process>> CompanyId: 0C000006U3, ShareClassId: 0P0000M29N, File:NRA\Fundamental\EarningRatios\Delta\Delta_EarningRatio.zip
+Can't find 0C000006U3|0P0000M29N in z:\DEV\PT2.0-GEDF-20180324\NRA_Monthly_EarningRatiosAOR_2018-2.zip
+Can't find 0C000006U3|0P0000M29N in z:\NRA\Fundamental\EarningRatios\Delta\Delta_EarningRatiosAOR_2018-04-02.zip
+
+Process Done
+
+Start Process>> CompanyId: 0C000006U3, ShareClassId: 0P0000M29N, File:NRA\Fundamental\EarningRatios\Delta\Delta_EarningRatiosRes.zip
+Can't find 0C000006U3|0P0000M29N in z:\DEV\PT2.0-GEDF-20180324\NRA_Monthly_EarningRatiosRestate_2018-2.zip
+Can't find 0C000006U3|0P0000M29N in z:\NRA\Fundamental\EarningRatios\Delta\Delta_EarningRatiosRestate_2018-04-02.zip
+
+Process Done
+
+Start Process>> CompanyId: 0C000006U3, ShareClassId: 0P0000M29N, File:NRA\Fundamental\EarningReports\Delta\Delta_EarningReport.zip
+Can't find 0C000006U3|0P0000M29N in z:\DEV\PT2.0-GEDF-20180324\NRA_Monthly_EarningReportsAOR_2018-2.zip
+Can't find 0C000006U3|0P0000M29N in z:\NRA\Fundamental\EarningReports\Delta\Delta_EarningReportsAOR_2018-04-02.zip
+
+Process Done
+
+Start Process>> CompanyId: 0C000006U3, ShareClassId: 0P0000M29N, File:NRA\Fundamental\EarningReports\Delta\Delta_EarningReportsRes.zip
+Can't find 0C000006U3|0P0000M29N in z:\DEV\PT2.0-GEDF-20180324\NRA_Monthly_EarningReportsRestate_2018-2.zip
+Can't find 0C000006U3|0P0000M29N in z:\NRA\Fundamental\EarningReports\Delta\Delta_EarningReportsRestate_2018-04-02.zip
+
+Process Done
+
+Start Process>> CompanyId: 0C000006U3, ShareClassId: 0P0000M29P, File:NRA\Fundamental\EarningRatios\Delta\Delta_EarningRatio.zip
+Can't find 0C000006U3|0P0000M29P in z:\DEV\PT2.0-GEDF-20180324\NRA_Monthly_EarningRatiosAOR_2018-2.zip
+Can't find 0C000006U3|0P0000M29P in z:\NRA\Fundamental\EarningRatios\Delta\Delta_EarningRatiosAOR_2018-04-02.zip
+
+Process Done
+
+Start Process>> CompanyId: 0C000006U3, ShareClassId: 0P0000M29P, File:NRA\Fundamental\EarningRatios\Delta\Delta_EarningRatiosRes.zip
+Can't find 0C000006U3|0P0000M29P in z:\DEV\PT2.0-GEDF-20180324\NRA_Monthly_EarningRatiosRestate_2018-2.zip
+Can't find 0C000006U3|0P0000M29P in z:\NRA\Fundamental\EarningRatios\Delta\Delta_EarningRatiosRestate_2018-04-02.zip
+
+Process Done
+
+Start Process>> CompanyId: 0C000006U3, ShareClassId: 0P0000M29P, File:NRA\Fundamental\EarningReports\Delta\Delta_EarningReport.zip
+Can't find 0C000006U3|0P0000M29P in z:\DEV\PT2.0-GEDF-20180324\NRA_Monthly_EarningReportsAOR_2018-2.zip
+Can't find 0C000006U3|0P0000M29P in z:\NRA\Fundamental\EarningReports\Delta\Delta_EarningReportsAOR_2018-04-02.zip
+
+Process Done
+
+Start Process>> CompanyId: 0C000006U3, ShareClassId: 0P0000M29P, File:NRA\Fundamental\EarningReports\Delta\Delta_EarningReportsRes.zip
+Can't find 0C000006U3|0P0000M29P in z:\DEV\PT2.0-GEDF-20180324\NRA_Monthly_EarningReportsRestate_2018-2.zip
+Can't find 0C000006U3|0P0000M29P in z:\NRA\Fundamental\EarningReports\Delta\Delta_EarningReportsRestate_2018-04-02.zip
+
+Process Done
+
+Start Process>> CompanyId: 0C000006U3, ShareClassId: 0P0000M29R, File:NRA\Fundamental\EarningRatios\Delta\Delta_EarningRatio.zip
+Can't find 0C000006U3|0P0000M29R in z:\DEV\PT2.0-GEDF-20180324\NRA_Monthly_EarningRatiosAOR_2018-2.zip
+Can't find 0C000006U3|0P0000M29R in z:\NRA\Fundamental\EarningRatios\Delta\Delta_EarningRatiosAOR_2018-04-02.zip
+
+Process Done
+
+Start Process>> CompanyId: 0C000006U3, ShareClassId: 0P0000M29R, File:NRA\Fundamental\EarningRatios\Delta\Delta_EarningRatiosRes.zip
+Can't find 0C000006U3|0P0000M29R in z:\DEV\PT2.0-GEDF-20180324\NRA_Monthly_EarningRatiosRestate_2018-2.zip
+Can't find 0C000006U3|0P0000M29R in z:\NRA\Fundamental\EarningRatios\Delta\Delta_EarningRatiosRestate_2018-04-02.zip
+
+Process Done
+
+Start Process>> CompanyId: 0C000006U3, ShareClassId: 0P0000M29R, File:NRA\Fundamental\EarningReports\Delta\Delta_EarningReport.zip
+Can't find 0C000006U3|0P0000M29R in z:\DEV\PT2.0-GEDF-20180324\NRA_Monthly_EarningReportsAOR_2018-2.zip
+Can't find 0C000006U3|0P0000M29R in z:\NRA\Fundamental\EarningReports\Delta\Delta_EarningReportsAOR_2018-04-02.zip
+
+Process Done
+
+Start Process>> CompanyId: 0C000006U3, ShareClassId: 0P0000M29R, File:NRA\Fundamental\EarningReports\Delta\Delta_EarningReportsRes.zip
+Can't find 0C000006U3|0P0000M29R in z:\DEV\PT2.0-GEDF-20180324\NRA_Monthly_EarningReportsRestate_2018-2.zip
+Can't find 0C000006U3|0P0000M29R in z:\NRA\Fundamental\EarningReports\Delta\Delta_EarningReportsRestate_2018-04-02.zip
+
+Process Done
+
+Start Process>> CompanyId: 0C000006U3, ShareClassId: 0P0000M2TQ, File:NRA\Fundamental\EarningRatios\Delta\Delta_EarningRatio.zip
+Can't find 0C000006U3|0P0000M2TQ in z:\DEV\PT2.0-GEDF-20180324\NRA_Monthly_EarningRatiosAOR_2018-2.zip
+Can't find 0C000006U3|0P0000M2TQ in z:\NRA\Fundamental\EarningRatios\Delta\Delta_EarningRatiosAOR_2018-04-02.zip
+
+Process Done
+
+Start Process>> CompanyId: 0C000006U3, ShareClassId: 0P0000M2TQ, File:NRA\Fundamental\EarningRatios\Delta\Delta_EarningRatiosRes.zip
+Can't find 0C000006U3|0P0000M2TQ in z:\DEV\PT2.0-GEDF-20180324\NRA_Monthly_EarningRatiosRestate_2018-2.zip
+Can't find 0C000006U3|0P0000M2TQ in z:\NRA\Fundamental\EarningRatios\Delta\Delta_EarningRatiosRestate_2018-04-02.zip
+
+Process Done
+
+Start Process>> CompanyId: 0C000006U3, ShareClassId: 0P0000M2TQ, File:NRA\Fundamental\EarningReports\Delta\Delta_EarningReport.zip
+Can't find 0C000006U3|0P0000M2TQ in z:\DEV\PT2.0-GEDF-20180324\NRA_Monthly_EarningReportsAOR_2018-2.zip
+Can't find 0C000006U3|0P0000M2TQ in z:\NRA\Fundamental\EarningReports\Delta\Delta_EarningReportsAOR_2018-04-02.zip
+
+Process Done
+
+Start Process>> CompanyId: 0C000006U3, ShareClassId: 0P0000M2TQ, File:NRA\Fundamental\EarningReports\Delta\Delta_EarningReportsRes.zip
+Can't find 0C000006U3|0P0000M2TQ in z:\DEV\PT2.0-GEDF-20180324\NRA_Monthly_EarningReportsRestate_2018-2.zip
+Can't find 0C000006U3|0P0000M2TQ in z:\NRA\Fundamental\EarningReports\Delta\Delta_EarningReportsRestate_2018-04-02.zip
+
+Process Done
+
+Start Process>> CompanyId: 0C000006U3, ShareClassId: 0P0000M2TS, File:NRA\Fundamental\EarningRatios\Delta\Delta_EarningRatio.zip
+Can't find 0C000006U3|0P0000M2TS in z:\DEV\PT2.0-GEDF-20180324\NRA_Monthly_EarningRatiosAOR_2018-2.zip
+Can't find 0C000006U3|0P0000M2TS in z:\NRA\Fundamental\EarningRatios\Delta\Delta_EarningRatiosAOR_2018-04-02.zip
+
+Process Done
+
+Start Process>> CompanyId: 0C000006U3, ShareClassId: 0P0000M2TS, File:NRA\Fundamental\EarningRatios\Delta\Delta_EarningRatiosRes.zip
+Can't find 0C000006U3|0P0000M2TS in z:\DEV\PT2.0-GEDF-20180324\NRA_Monthly_EarningRatiosRestate_2018-2.zip
+Can't find 0C000006U3|0P0000M2TS in z:\NRA\Fundamental\EarningRatios\Delta\Delta_EarningRatiosRestate_2018-04-02.zip
+
+Process Done
+
+Start Process>> CompanyId: 0C000006U3, ShareClassId: 0P0000M2TS, File:NRA\Fundamental\EarningReports\Delta\Delta_EarningReport.zip
+Can't find 0C000006U3|0P0000M2TS in z:\DEV\PT2.0-GEDF-20180324\NRA_Monthly_EarningReportsAOR_2018-2.zip
+Can't find 0C000006U3|0P0000M2TS in z:\NRA\Fundamental\EarningReports\Delta\Delta_EarningReportsAOR_2018-04-02.zip
+
+Process Done
+
+Start Process>> CompanyId: 0C000006U3, ShareClassId: 0P0000M2TS, File:NRA\Fundamental\EarningReports\Delta\Delta_EarningReportsRes.zip
+Can't find 0C000006U3|0P0000M2TS in z:\DEV\PT2.0-GEDF-20180324\NRA_Monthly_EarningReportsRestate_2018-2.zip
+Can't find 0C000006U3|0P0000M2TS in z:\NRA\Fundamental\EarningReports\Delta\Delta_EarningReportsRestate_2018-04-02.zip
+
+Process Done
+
+Start Process>> CompanyId: 0C000006U3, ShareClassId: 0P0000M2TU, File:NRA\Fundamental\EarningRatios\Delta\Delta_EarningRatio.zip
+Can't find 0C000006U3|0P0000M2TU in z:\DEV\PT2.0-GEDF-20180324\NRA_Monthly_EarningRatiosAOR_2018-2.zip
+Can't find 0C000006U3|0P0000M2TU in z:\NRA\Fundamental\EarningRatios\Delta\Delta_EarningRatiosAOR_2018-04-02.zip
+
+Process Done
+
+Start Process>> CompanyId: 0C000006U3, ShareClassId: 0P0000M2TU, File:NRA\Fundamental\EarningRatios\Delta\Delta_EarningRatiosRes.zip
+Can't find 0C000006U3|0P0000M2TU in z:\DEV\PT2.0-GEDF-20180324\NRA_Monthly_EarningRatiosRestate_2018-2.zip
+Can't find 0C000006U3|0P0000M2TU in z:\NRA\Fundamental\EarningRatios\Delta\Delta_EarningRatiosRestate_2018-04-02.zip
+
+Process Done
+
+Start Process>> CompanyId: 0C000006U3, ShareClassId: 0P0000M2TU, File:NRA\Fundamental\EarningReports\Delta\Delta_EarningReport.zip
+Can't find 0C000006U3|0P0000M2TU in z:\DEV\PT2.0-GEDF-20180324\NRA_Monthly_EarningReportsAOR_2018-2.zip
+Can't find 0C000006U3|0P0000M2TU in z:\NRA\Fundamental\EarningReports\Delta\Delta_EarningReportsAOR_2018-04-02.zip
+
+Process Done
+
+Start Process>> CompanyId: 0C000006U3, ShareClassId: 0P0000M2TU, File:NRA\Fundamental\EarningReports\Delta\Delta_EarningReportsRes.zip
+Can't find 0C000006U3|0P0000M2TU in z:\DEV\PT2.0-GEDF-20180324\NRA_Monthly_EarningReportsRestate_2018-2.zip
+Can't find 0C000006U3|0P0000M2TU in z:\NRA\Fundamental\EarningReports\Delta\Delta_EarningReportsRestate_2018-04-02.zip
+
+Process Done
+
+Start Process>> CompanyId: 0C000006U3, ShareClassId: 0P0000M2TW, File:NRA\Fundamental\EarningRatios\Delta\Delta_EarningRatio.zip
+Can't find 0C000006U3|0P0000M2TW in z:\DEV\PT2.0-GEDF-20180324\NRA_Monthly_EarningRatiosAOR_2018-2.zip
+Can't find 0C000006U3|0P0000M2TW in z:\NRA\Fundamental\EarningRatios\Delta\Delta_EarningRatiosAOR_2018-04-02.zip
+
+Process Done
+
+Start Process>> CompanyId: 0C000006U3, ShareClassId: 0P0000M2TW, File:NRA\Fundamental\EarningRatios\Delta\Delta_EarningRatiosRes.zip
+Can't find 0C000006U3|0P0000M2TW in z:\DEV\PT2.0-GEDF-20180324\NRA_Monthly_EarningRatiosRestate_2018-2.zip
+Can't find 0C000006U3|0P0000M2TW in z:\NRA\Fundamental\EarningRatios\Delta\Delta_EarningRatiosRestate_2018-04-02.zip
+
+Process Done
+
+Start Process>> CompanyId: 0C000006U3, ShareClassId: 0P0000M2TW, File:NRA\Fundamental\EarningReports\Delta\Delta_EarningReport.zip
+Can't find 0C000006U3|0P0000M2TW in z:\DEV\PT2.0-GEDF-20180324\NRA_Monthly_EarningReportsAOR_2018-2.zip
+Can't find 0C000006U3|0P0000M2TW in z:\NRA\Fundamental\EarningReports\Delta\Delta_EarningReportsAOR_2018-04-02.zip
+
+Process Done
+
+Start Process>> CompanyId: 0C000006U3, ShareClassId: 0P0000M2TW, File:NRA\Fundamental\EarningReports\Delta\Delta_EarningReportsRes.zip
+Can't find 0C000006U3|0P0000M2TW in z:\DEV\PT2.0-GEDF-20180324\NRA_Monthly_EarningReportsRestate_2018-2.zip
+Can't find 0C000006U3|0P0000M2TW in z:\NRA\Fundamental\EarningReports\Delta\Delta_EarningReportsRestate_2018-04-02.zip
+
+Process Done
+
+Start Process>> CompanyId: 0C000006U3, ShareClassId: 0P0000P7RU, File:NRA\Fundamental\EarningRatios\Delta\Delta_EarningRatio.zip
+Can't find 0C000006U3|0P0000P7RU in z:\DEV\PT2.0-GEDF-20180324\NRA_Monthly_EarningRatiosAOR_2018-2.zip
+Can't find 0C000006U3|0P0000P7RU in z:\NRA\Fundamental\EarningRatios\Delta\Delta_EarningRatiosAOR_2018-04-02.zip
+
+Process Done
+
+Start Process>> CompanyId: 0C000006U3, ShareClassId: 0P0000P7RU, File:NRA\Fundamental\EarningRatios\Delta\Delta_EarningRatiosRes.zip
+Can't find 0C000006U3|0P0000P7RU in z:\DEV\PT2.0-GEDF-20180324\NRA_Monthly_EarningRatiosRestate_2018-2.zip
+Can't find 0C000006U3|0P0000P7RU in z:\NRA\Fundamental\EarningRatios\Delta\Delta_EarningRatiosRestate_2018-04-02.zip
+
+Process Done
+
+Start Process>> CompanyId: 0C000006U3, ShareClassId: 0P0000P7RU, File:NRA\Fundamental\EarningReports\Delta\Delta_EarningReport.zip
+Can't find 0C000006U3|0P0000P7RU in z:\DEV\PT2.0-GEDF-20180324\NRA_Monthly_EarningReportsAOR_2018-2.zip
+Can't find 0C000006U3|0P0000P7RU in z:\NRA\Fundamental\EarningReports\Delta\Delta_EarningReportsAOR_2018-04-02.zip
+
+Process Done
+
+Start Process>> CompanyId: 0C000006U3, ShareClassId: 0P0000P7RU, File:NRA\Fundamental\EarningReports\Delta\Delta_EarningReportsRes.zip
+Can't find 0C000006U3|0P0000P7RU in z:\DEV\PT2.0-GEDF-20180324\NRA_Monthly_EarningReportsRestate_2018-2.zip
+Can't find 0C000006U3|0P0000P7RU in z:\NRA\Fundamental\EarningReports\Delta\Delta_EarningReportsRestate_2018-04-02.zip
+
+Process Done
+
+Start Process>> CompanyId: 0C000006U3, ShareClassId: 0P0000PPQ1, File:EUR\Fundamental\EarningRatios\Delta\Delta_EarningRatio.zip
+No diff
+Process Done
+
+Start Process>> CompanyId: 0C000006U3, ShareClassId: 0P0000PPQ1, File:EUR\Fundamental\EarningRatios\Delta\Delta_EarningRatiosRes.zip
+No diff
+Process Done
+
+Start Process>> CompanyId: 0C000006U3, ShareClassId: 0P0000PPQ1, File:EUR\Fundamental\EarningReports\Delta\Delta_EarningReport.zip
+No diff
+Process Done
+
+Start Process>> CompanyId: 0C000006U3, ShareClassId: 0P0000PPQ1, File:EUR\Fundamental\EarningReports\Delta\Delta_EarningReportsRes.zip
+No diff
+Process Done
+
+Start Process>> CompanyId: 0C000006U3, ShareClassId: 0P0000RQL9, File:NRA\Fundamental\EarningRatios\Delta\Delta_EarningRatio.zip
+Can't find 0C000006U3|0P0000RQL9 in z:\DEV\PT2.0-GEDF-20180324\NRA_Monthly_EarningRatiosAOR_2018-2.zip
+Can't find 0C000006U3|0P0000RQL9 in z:\NRA\Fundamental\EarningRatios\Delta\Delta_EarningRatiosAOR_2018-04-02.zip
+
+Process Done
+
+Start Process>> CompanyId: 0C000006U3, ShareClassId: 0P0000RQL9, File:NRA\Fundamental\EarningRatios\Delta\Delta_EarningRatiosRes.zip
+Can't find 0C000006U3|0P0000RQL9 in z:\DEV\PT2.0-GEDF-20180324\NRA_Monthly_EarningRatiosRestate_2018-2.zip
+Can't find 0C000006U3|0P0000RQL9 in z:\NRA\Fundamental\EarningRatios\Delta\Delta_EarningRatiosRestate_2018-04-02.zip
+
+Process Done
+
+Start Process>> CompanyId: 0C000006U3, ShareClassId: 0P0000RQL9, File:NRA\Fundamental\EarningReports\Delta\Delta_EarningReport.zip
+Can't find 0C000006U3|0P0000RQL9 in z:\DEV\PT2.0-GEDF-20180324\NRA_Monthly_EarningReportsAOR_2018-2.zip
+Can't find 0C000006U3|0P0000RQL9 in z:\NRA\Fundamental\EarningReports\Delta\Delta_EarningReportsAOR_2018-04-02.zip
+
+Process Done
+
+Start Process>> CompanyId: 0C000006U3, ShareClassId: 0P0000RQL9, File:NRA\Fundamental\EarningReports\Delta\Delta_EarningReportsRes.zip
+Can't find 0C000006U3|0P0000RQL9 in z:\DEV\PT2.0-GEDF-20180324\NRA_Monthly_EarningReportsRestate_2018-2.zip
+Can't find 0C000006U3|0P0000RQL9 in z:\NRA\Fundamental\EarningReports\Delta\Delta_EarningReportsRestate_2018-04-02.zip
+
+Process Done
+
+Start Process>> CompanyId: 0C000006U3, ShareClassId: 0P0000TJ0L, File:NRA\Fundamental\EarningRatios\Delta\Delta_EarningRatio.zip
+Can't find 0C000006U3|0P0000TJ0L in z:\DEV\PT2.0-GEDF-20180324\NRA_Monthly_EarningRatiosAOR_2018-2.zip
+Can't find 0C000006U3|0P0000TJ0L in z:\NRA\Fundamental\EarningRatios\Delta\Delta_EarningRatiosAOR_2018-04-02.zip
+
+Process Done
+
+Start Process>> CompanyId: 0C000006U3, ShareClassId: 0P0000TJ0L, File:NRA\Fundamental\EarningRatios\Delta\Delta_EarningRatiosRes.zip
+Can't find 0C000006U3|0P0000TJ0L in z:\DEV\PT2.0-GEDF-20180324\NRA_Monthly_EarningRatiosRestate_2018-2.zip
+Can't find 0C000006U3|0P0000TJ0L in z:\NRA\Fundamental\EarningRatios\Delta\Delta_EarningRatiosRestate_2018-04-02.zip
+
+Process Done
+
+Start Process>> CompanyId: 0C000006U3, ShareClassId: 0P0000TJ0L, File:NRA\Fundamental\EarningReports\Delta\Delta_EarningReport.zip
+Can't find 0C000006U3|0P0000TJ0L in z:\DEV\PT2.0-GEDF-20180324\NRA_Monthly_EarningReportsAOR_2018-2.zip
+Can't find 0C000006U3|0P0000TJ0L in z:\NRA\Fundamental\EarningReports\Delta\Delta_EarningReportsAOR_2018-04-02.zip
+
+Process Done
+
+Start Process>> CompanyId: 0C000006U3, ShareClassId: 0P0000TJ0L, File:NRA\Fundamental\EarningReports\Delta\Delta_EarningReportsRes.zip
+Can't find 0C000006U3|0P0000TJ0L in z:\DEV\PT2.0-GEDF-20180324\NRA_Monthly_EarningReportsRestate_2018-2.zip
+Can't find 0C000006U3|0P0000TJ0L in z:\NRA\Fundamental\EarningReports\Delta\Delta_EarningReportsRestate_2018-04-02.zip
+
+Process Done
+
+Start Process>> CompanyId: 0C000006U3, ShareClassId: 0P0000VE8T, File:LTA\Fundamental\EarningRatios\Delta\Delta_EarningRatio.zip
+No diff
+Process Done
+
+Start Process>> CompanyId: 0C000006U3, ShareClassId: 0P0000VE8T, File:LTA\Fundamental\EarningRatios\Delta\Delta_EarningRatiosRes.zip
+No diff
+Process Done
+
+Start Process>> CompanyId: 0C000006U3, ShareClassId: 0P0000VE8T, File:LTA\Fundamental\EarningReports\Delta\Delta_EarningReport.zip
+No diff
+Process Done
+
+Start Process>> CompanyId: 0C000006U3, ShareClassId: 0P0000VE8T, File:LTA\Fundamental\EarningReports\Delta\Delta_EarningReportsRes.zip
+No diff
+Process Done
+
+Start Process>> CompanyId: 0C000006U3, ShareClassId: 0P0000VXA0, File:EUR\Fundamental\EarningRatios\Delta\Delta_EarningRatio.zip
+No diff
+Process Done
+
+Start Process>> CompanyId: 0C000006U3, ShareClassId: 0P0000VXA0, File:EUR\Fundamental\EarningRatios\Delta\Delta_EarningRatiosRes.zip
+No diff
+Process Done
+
+Start Process>> CompanyId: 0C000006U3, ShareClassId: 0P0000VXA0, File:EUR\Fundamental\EarningReports\Delta\Delta_EarningReport.zip
+No diff
+Process Done
+
+Start Process>> CompanyId: 0C000006U3, ShareClassId: 0P0000VXA0, File:EUR\Fundamental\EarningReports\Delta\Delta_EarningReportsRes.zip
+No diff
+Process Done
+
+Start Process>> CompanyId: 0C000006U3, ShareClassId: 0P0000YG2Z, File:LTA\Fundamental\EarningRatios\Delta\Delta_EarningRatio.zip
+No diff
+Process Done
+
+Start Process>> CompanyId: 0C000006U3, ShareClassId: 0P0000YG2Z, File:LTA\Fundamental\EarningRatios\Delta\Delta_EarningRatiosRes.zip
+No diff
+Process Done
+
+Start Process>> CompanyId: 0C000006U3, ShareClassId: 0P0000YG2Z, File:LTA\Fundamental\EarningReports\Delta\Delta_EarningReport.zip
+No diff
+Process Done
+
+Start Process>> CompanyId: 0C000006U3, ShareClassId: 0P0000YG2Z, File:LTA\Fundamental\EarningReports\Delta\Delta_EarningReportsRes.zip
+No diff
+Process Done
+
+Start Process>> CompanyId: 0C000006U3, ShareClassId: 0P0000YVLB, File:NRA\Fundamental\EarningRatios\Delta\Delta_EarningRatio.zip
+Can't find 0C000006U3|0P0000YVLB in z:\DEV\PT2.0-GEDF-20180324\NRA_Monthly_EarningRatiosAOR_2018-2.zip
+Can't find 0C000006U3|0P0000YVLB in z:\NRA\Fundamental\EarningRatios\Delta\Delta_EarningRatiosAOR_2018-04-02.zip
+
+Process Done
+
+Start Process>> CompanyId: 0C000006U3, ShareClassId: 0P0000YVLB, File:NRA\Fundamental\EarningRatios\Delta\Delta_EarningRatiosRes.zip
+Can't find 0C000006U3|0P0000YVLB in z:\DEV\PT2.0-GEDF-20180324\NRA_Monthly_EarningRatiosRestate_2018-2.zip
+Can't find 0C000006U3|0P0000YVLB in z:\NRA\Fundamental\EarningRatios\Delta\Delta_EarningRatiosRestate_2018-04-02.zip
+
+Process Done
+
+Start Process>> CompanyId: 0C000006U3, ShareClassId: 0P0000YVLB, File:NRA\Fundamental\EarningReports\Delta\Delta_EarningReport.zip
+Can't find 0C000006U3|0P0000YVLB in z:\DEV\PT2.0-GEDF-20180324\NRA_Monthly_EarningReportsAOR_2018-2.zip
+Can't find 0C000006U3|0P0000YVLB in z:\NRA\Fundamental\EarningReports\Delta\Delta_EarningReportsAOR_2018-04-02.zip
+
+Process Done
+
+Start Process>> CompanyId: 0C000006U3, ShareClassId: 0P0000YVLB, File:NRA\Fundamental\EarningReports\Delta\Delta_EarningReportsRes.zip
+Can't find 0C000006U3|0P0000YVLB in z:\DEV\PT2.0-GEDF-20180324\NRA_Monthly_EarningReportsRestate_2018-2.zip
+Can't find 0C000006U3|0P0000YVLB in z:\NRA\Fundamental\EarningReports\Delta\Delta_EarningReportsRestate_2018-04-02.zip
+
+Process Done
+
+Start Process>> CompanyId: 0C000006U3, ShareClassId: 0P000146VO, File:NRA\Fundamental\EarningRatios\Delta\Delta_EarningRatio.zip
+Can't find 0C000006U3|0P000146VO in z:\DEV\PT2.0-GEDF-20180324\NRA_Monthly_EarningRatiosAOR_2018-2.zip
+Can't find 0C000006U3|0P000146VO in z:\NRA\Fundamental\EarningRatios\Delta\Delta_EarningRatiosAOR_2018-04-02.zip
+
+Process Done
+
+Start Process>> CompanyId: 0C000006U3, ShareClassId: 0P000146VO, File:NRA\Fundamental\EarningRatios\Delta\Delta_EarningRatiosRes.zip
+Can't find 0C000006U3|0P000146VO in z:\DEV\PT2.0-GEDF-20180324\NRA_Monthly_EarningRatiosRestate_2018-2.zip
+Can't find 0C000006U3|0P000146VO in z:\NRA\Fundamental\EarningRatios\Delta\Delta_EarningRatiosRestate_2018-04-02.zip
+
+Process Done
+
+Start Process>> CompanyId: 0C000006U3, ShareClassId: 0P000146VO, File:NRA\Fundamental\EarningReports\Delta\Delta_EarningReport.zip
+Can't find 0C000006U3|0P000146VO in z:\DEV\PT2.0-GEDF-20180324\NRA_Monthly_EarningReportsAOR_2018-2.zip
+Can't find 0C000006U3|0P000146VO in z:\NRA\Fundamental\EarningReports\Delta\Delta_EarningReportsAOR_2018-04-02.zip
+
+Process Done
+
+Start Process>> CompanyId: 0C000006U3, ShareClassId: 0P000146VO, File:NRA\Fundamental\EarningReports\Delta\Delta_EarningReportsRes.zip
+Can't find 0C000006U3|0P000146VO in z:\DEV\PT2.0-GEDF-20180324\NRA_Monthly_EarningReportsRestate_2018-2.zip
+Can't find 0C000006U3|0P000146VO in z:\NRA\Fundamental\EarningReports\Delta\Delta_EarningReportsRestate_2018-04-02.zip
+
+Process Done
+
+Start Process>> CompanyId: 0C000006U3, ShareClassId: 0P00014KN8, File:EUR\Fundamental\EarningRatios\Delta\Delta_EarningRatio.zip
+No diff
+Process Done
+
+Start Process>> CompanyId: 0C000006U3, ShareClassId: 0P00014KN8, File:EUR\Fundamental\EarningRatios\Delta\Delta_EarningRatiosRes.zip
+No diff
+Process Done
+
+Start Process>> CompanyId: 0C000006U3, ShareClassId: 0P00014KN8, File:EUR\Fundamental\EarningReports\Delta\Delta_EarningReport.zip
+No diff
+Process Done
+
+Start Process>> CompanyId: 0C000006U3, ShareClassId: 0P00014KN8, File:EUR\Fundamental\EarningReports\Delta\Delta_EarningReportsRes.zip
+No diff
+Process Done
+
+Start Process>> CompanyId: 0C000006U3, ShareClassId: 0P000159GA, File:NRA\Fundamental\EarningRatios\Delta\Delta_EarningRatio.zip
+Can't find 0C000006U3|0P000159GA in z:\DEV\PT2.0-GEDF-20180324\NRA_Monthly_EarningRatiosAOR_2018-2.zip
+Can't find 0C000006U3|0P000159GA in z:\NRA\Fundamental\EarningRatios\Delta\Delta_EarningRatiosAOR_2018-04-02.zip
+
+Process Done
+
+Start Process>> CompanyId: 0C000006U3, ShareClassId: 0P000159GA, File:NRA\Fundamental\EarningRatios\Delta\Delta_EarningRatiosRes.zip
+Can't find 0C000006U3|0P000159GA in z:\DEV\PT2.0-GEDF-20180324\NRA_Monthly_EarningRatiosRestate_2018-2.zip
+Can't find 0C000006U3|0P000159GA in z:\NRA\Fundamental\EarningRatios\Delta\Delta_EarningRatiosRestate_2018-04-02.zip
+
+Process Done
+
+Start Process>> CompanyId: 0C000006U3, ShareClassId: 0P000159GA, File:NRA\Fundamental\EarningReports\Delta\Delta_EarningReport.zip
+Can't find 0C000006U3|0P000159GA in z:\DEV\PT2.0-GEDF-20180324\NRA_Monthly_EarningReportsAOR_2018-2.zip
+Can't find 0C000006U3|0P000159GA in z:\NRA\Fundamental\EarningReports\Delta\Delta_EarningReportsAOR_2018-04-02.zip
+
+Process Done
+
+Start Process>> CompanyId: 0C000006U3, ShareClassId: 0P000159GA, File:NRA\Fundamental\EarningReports\Delta\Delta_EarningReportsRes.zip
+Can't find 0C000006U3|0P000159GA in z:\DEV\PT2.0-GEDF-20180324\NRA_Monthly_EarningReportsRestate_2018-2.zip
+Can't find 0C000006U3|0P000159GA in z:\NRA\Fundamental\EarningReports\Delta\Delta_EarningReportsRestate_2018-04-02.zip
+
+Process Done
+
+Start Process>> CompanyId: 0C000006U3, ShareClassId: 0P00016IUT, File:LTA\Fundamental\EarningRatios\Delta\Delta_EarningRatio.zip
+No diff
+Process Done
+
+Start Process>> CompanyId: 0C000006U3, ShareClassId: 0P00016IUT, File:LTA\Fundamental\EarningRatios\Delta\Delta_EarningRatiosRes.zip
+No diff
+Process Done
+
+Start Process>> CompanyId: 0C000006U3, ShareClassId: 0P00016IUT, File:LTA\Fundamental\EarningReports\Delta\Delta_EarningReport.zip
+No diff
+Process Done
+
+Start Process>> CompanyId: 0C000006U3, ShareClassId: 0P00016IUT, File:LTA\Fundamental\EarningReports\Delta\Delta_EarningReportsRes.zip
+No diff
+Process Done
+
+Start Process>> CompanyId: 0C000006U3, ShareClassId: 0P00017BYR, File:NRA\Fundamental\EarningRatios\Delta\Delta_EarningRatio.zip
+Can't find 0C000006U3|0P00017BYR in z:\DEV\PT2.0-GEDF-20180324\NRA_Monthly_EarningRatiosAOR_2018-2.zip
+Can't find 0C000006U3|0P00017BYR in z:\NRA\Fundamental\EarningRatios\Delta\Delta_EarningRatiosAOR_2018-04-02.zip
+
+Process Done
+
+Start Process>> CompanyId: 0C000006U3, ShareClassId: 0P00017BYR, File:NRA\Fundamental\EarningRatios\Delta\Delta_EarningRatiosRes.zip
+Can't find 0C000006U3|0P00017BYR in z:\DEV\PT2.0-GEDF-20180324\NRA_Monthly_EarningRatiosRestate_2018-2.zip
+Can't find 0C000006U3|0P00017BYR in z:\NRA\Fundamental\EarningRatios\Delta\Delta_EarningRatiosRestate_2018-04-02.zip
+
+Process Done
+
+Start Process>> CompanyId: 0C000006U3, ShareClassId: 0P00017BYR, File:NRA\Fundamental\EarningReports\Delta\Delta_EarningReport.zip
+Can't find 0C000006U3|0P00017BYR in z:\DEV\PT2.0-GEDF-20180324\NRA_Monthly_EarningReportsAOR_2018-2.zip
+Can't find 0C000006U3|0P00017BYR in z:\NRA\Fundamental\EarningReports\Delta\Delta_EarningReportsAOR_2018-04-02.zip
+
+Process Done
+
+Start Process>> CompanyId: 0C000006U3, ShareClassId: 0P00017BYR, File:NRA\Fundamental\EarningReports\Delta\Delta_EarningReportsRes.zip
+Can't find 0C000006U3|0P00017BYR in z:\DEV\PT2.0-GEDF-20180324\NRA_Monthly_EarningReportsRestate_2018-2.zip
+Can't find 0C000006U3|0P00017BYR in z:\NRA\Fundamental\EarningReports\Delta\Delta_EarningReportsRestate_2018-04-02.zip
+
+Process Done
+
+Start Process>> CompanyId: 0C000006U3, ShareClassId: 0P00017O3E, File:EUR\Fundamental\EarningRatios\Delta\Delta_EarningRatio.zip
+Can't find 0C000006U3|0P00017O3E in z:\DEV\PT2.0-GEDF-20180324\EUR_Monthly_EarningRatiosAOR_2018-2.zip
+Can't find 0C000006U3|0P00017O3E in z:\EUR\Fundamental\EarningRatios\Delta\Delta_EarningRatiosAOR_2018-04-02.zip
+
+Process Done
+
+Start Process>> CompanyId: 0C000006U3, ShareClassId: 0P00017O3E, File:EUR\Fundamental\EarningRatios\Delta\Delta_EarningRatiosRes.zip
+Can't find 0C000006U3|0P00017O3E in z:\DEV\PT2.0-GEDF-20180324\EUR_Monthly_EarningRatiosRestate_2018-2.zip
+Can't find 0C000006U3|0P00017O3E in z:\EUR\Fundamental\EarningRatios\Delta\Delta_EarningRatiosRestate_2018-04-02.zip
+
+Process Done
+
+Start Process>> CompanyId: 0C000006U3, ShareClassId: 0P00017O3E, File:EUR\Fundamental\EarningReports\Delta\Delta_EarningReport.zip
+Can't find 0C000006U3|0P00017O3E in z:\DEV\PT2.0-GEDF-20180324\EUR_Monthly_EarningReportsAOR_2018-2.zip
+Can't find 0C000006U3|0P00017O3E in z:\EUR\Fundamental\EarningReports\Delta\Delta_EarningReportsAOR_2018-04-02.zip
+
+Process Done
+
+Start Process>> CompanyId: 0C000006U3, ShareClassId: 0P00017O3E, File:EUR\Fundamental\EarningReports\Delta\Delta_EarningReportsRes.zip
+Can't find 0C000006U3|0P00017O3E in z:\DEV\PT2.0-GEDF-20180324\EUR_Monthly_EarningReportsRestate_2018-2.zip
+Can't find 0C000006U3|0P00017O3E in z:\EUR\Fundamental\EarningReports\Delta\Delta_EarningReportsRestate_2018-04-02.zip
+
+Process Done
+
+Start Process>> CompanyId: 0C000006U3, ShareClassId: 0P00017OGK, File:EUR\Fundamental\EarningRatios\Delta\Delta_EarningRatio.zip
+Can't find 0C000006U3|0P00017OGK in z:\DEV\PT2.0-GEDF-20180324\EUR_Monthly_EarningRatiosAOR_2018-2.zip
+Can't find 0C000006U3|0P00017OGK in z:\EUR\Fundamental\EarningRatios\Delta\Delta_EarningRatiosAOR_2018-04-02.zip
+
+Process Done
+
+Start Process>> CompanyId: 0C000006U3, ShareClassId: 0P00017OGK, File:EUR\Fundamental\EarningRatios\Delta\Delta_EarningRatiosRes.zip
+Can't find 0C000006U3|0P00017OGK in z:\DEV\PT2.0-GEDF-20180324\EUR_Monthly_EarningRatiosRestate_2018-2.zip
+Can't find 0C000006U3|0P00017OGK in z:\EUR\Fundamental\EarningRatios\Delta\Delta_EarningRatiosRestate_2018-04-02.zip
+
+Process Done
+
+Start Process>> CompanyId: 0C000006U3, ShareClassId: 0P00017OGK, File:EUR\Fundamental\EarningReports\Delta\Delta_EarningReport.zip
+Can't find 0C000006U3|0P00017OGK in z:\DEV\PT2.0-GEDF-20180324\EUR_Monthly_EarningReportsAOR_2018-2.zip
+Can't find 0C000006U3|0P00017OGK in z:\EUR\Fundamental\EarningReports\Delta\Delta_EarningReportsAOR_2018-04-02.zip
+
+Process Done
+
+Start Process>> CompanyId: 0C000006U3, ShareClassId: 0P00017OGK, File:EUR\Fundamental\EarningReports\Delta\Delta_EarningReportsRes.zip
+Can't find 0C000006U3|0P00017OGK in z:\DEV\PT2.0-GEDF-20180324\EUR_Monthly_EarningReportsRestate_2018-2.zip
+Can't find 0C000006U3|0P00017OGK in z:\EUR\Fundamental\EarningReports\Delta\Delta_EarningReportsRestate_2018-04-02.zip
+
+Process Done
+
+Start Process>> CompanyId: 0C000006U3, ShareClassId: 0P00017OGL, File:EUR\Fundamental\EarningRatios\Delta\Delta_EarningRatio.zip
+Can't find 0C000006U3|0P00017OGL in z:\DEV\PT2.0-GEDF-20180324\EUR_Monthly_EarningRatiosAOR_2018-2.zip
+Can't find 0C000006U3|0P00017OGL in z:\EUR\Fundamental\EarningRatios\Delta\Delta_EarningRatiosAOR_2018-04-02.zip
+
+Process Done
+
+Start Process>> CompanyId: 0C000006U3, ShareClassId: 0P00017OGL, File:EUR\Fundamental\EarningRatios\Delta\Delta_EarningRatiosRes.zip
+Can't find 0C000006U3|0P00017OGL in z:\DEV\PT2.0-GEDF-20180324\EUR_Monthly_EarningRatiosRestate_2018-2.zip
+Can't find 0C000006U3|0P00017OGL in z:\EUR\Fundamental\EarningRatios\Delta\Delta_EarningRatiosRestate_2018-04-02.zip
+
+Process Done
+
+Start Process>> CompanyId: 0C000006U3, ShareClassId: 0P00017OGL, File:EUR\Fundamental\EarningReports\Delta\Delta_EarningReport.zip
+Can't find 0C000006U3|0P00017OGL in z:\DEV\PT2.0-GEDF-20180324\EUR_Monthly_EarningReportsAOR_2018-2.zip
+Can't find 0C000006U3|0P00017OGL in z:\EUR\Fundamental\EarningReports\Delta\Delta_EarningReportsAOR_2018-04-02.zip
+
+Process Done
+
+Start Process>> CompanyId: 0C000006U3, ShareClassId: 0P00017OGL, File:EUR\Fundamental\EarningReports\Delta\Delta_EarningReportsRes.zip
+Can't find 0C000006U3|0P00017OGL in z:\DEV\PT2.0-GEDF-20180324\EUR_Monthly_EarningReportsRestate_2018-2.zip
+Can't find 0C000006U3|0P00017OGL in z:\EUR\Fundamental\EarningReports\Delta\Delta_EarningReportsRestate_2018-04-02.zip
+
+Process Done
+
+Start Process>> CompanyId: 0C000006U3, ShareClassId: 0P00017OGM, File:EUR\Fundamental\EarningRatios\Delta\Delta_EarningRatio.zip
+Can't find 0C000006U3|0P00017OGM in z:\DEV\PT2.0-GEDF-20180324\EUR_Monthly_EarningRatiosAOR_2018-2.zip
+Can't find 0C000006U3|0P00017OGM in z:\EUR\Fundamental\EarningRatios\Delta\Delta_EarningRatiosAOR_2018-04-02.zip
+
+Process Done
+
+Start Process>> CompanyId: 0C000006U3, ShareClassId: 0P00017OGM, File:EUR\Fundamental\EarningRatios\Delta\Delta_EarningRatiosRes.zip
+Can't find 0C000006U3|0P00017OGM in z:\DEV\PT2.0-GEDF-20180324\EUR_Monthly_EarningRatiosRestate_2018-2.zip
+Can't find 0C000006U3|0P00017OGM in z:\EUR\Fundamental\EarningRatios\Delta\Delta_EarningRatiosRestate_2018-04-02.zip
+
+Process Done
+
+Start Process>> CompanyId: 0C000006U3, ShareClassId: 0P00017OGM, File:EUR\Fundamental\EarningReports\Delta\Delta_EarningReport.zip
+Can't find 0C000006U3|0P00017OGM in z:\DEV\PT2.0-GEDF-20180324\EUR_Monthly_EarningReportsAOR_2018-2.zip
+Can't find 0C000006U3|0P00017OGM in z:\EUR\Fundamental\EarningReports\Delta\Delta_EarningReportsAOR_2018-04-02.zip
+
+Process Done
+
+Start Process>> CompanyId: 0C000006U3, ShareClassId: 0P00017OGM, File:EUR\Fundamental\EarningReports\Delta\Delta_EarningReportsRes.zip
+Can't find 0C000006U3|0P00017OGM in z:\DEV\PT2.0-GEDF-20180324\EUR_Monthly_EarningReportsRestate_2018-2.zip
+Can't find 0C000006U3|0P00017OGM in z:\EUR\Fundamental\EarningReports\Delta\Delta_EarningReportsRestate_2018-04-02.zip
+
+Process Done
+
+Start Process>> CompanyId: 0C000006U3, ShareClassId: 0P00017UUX, File:NRA\Fundamental\EarningRatios\Delta\Delta_EarningRatio.zip
+Can't find 0C000006U3|0P00017UUX in z:\DEV\PT2.0-GEDF-20180324\NRA_Monthly_EarningRatiosAOR_2018-2.zip
+Can't find 0C000006U3|0P00017UUX in z:\NRA\Fundamental\EarningRatios\Delta\Delta_EarningRatiosAOR_2018-04-02.zip
+
+Process Done
+
+Start Process>> CompanyId: 0C000006U3, ShareClassId: 0P00017UUX, File:NRA\Fundamental\EarningRatios\Delta\Delta_EarningRatiosRes.zip
+Can't find 0C000006U3|0P00017UUX in z:\DEV\PT2.0-GEDF-20180324\NRA_Monthly_EarningRatiosRestate_2018-2.zip
+Can't find 0C000006U3|0P00017UUX in z:\NRA\Fundamental\EarningRatios\Delta\Delta_EarningRatiosRestate_2018-04-02.zip
+
+Process Done
+
+Start Process>> CompanyId: 0C000006U3, ShareClassId: 0P00017UUX, File:NRA\Fundamental\EarningReports\Delta\Delta_EarningReport.zip
+Can't find 0C000006U3|0P00017UUX in z:\DEV\PT2.0-GEDF-20180324\NRA_Monthly_EarningReportsAOR_2018-2.zip
+Can't find 0C000006U3|0P00017UUX in z:\NRA\Fundamental\EarningReports\Delta\Delta_EarningReportsAOR_2018-04-02.zip
+
+Process Done
+
+Start Process>> CompanyId: 0C000006U3, ShareClassId: 0P00017UUX, File:NRA\Fundamental\EarningReports\Delta\Delta_EarningReportsRes.zip
+Can't find 0C000006U3|0P00017UUX in z:\DEV\PT2.0-GEDF-20180324\NRA_Monthly_EarningReportsRestate_2018-2.zip
+Can't find 0C000006U3|0P00017UUX in z:\NRA\Fundamental\EarningReports\Delta\Delta_EarningReportsRestate_2018-04-02.zip
+
+Process Done
+
+Start Process>> CompanyId: 0C000006UP, ShareClassId: 0P000000PX, File:NRA\Fundamental\EarningRatios\Delta\Delta_EarningRatio.zip
+No diff
+Process Done
+
+Start Process>> CompanyId: 0C000006UP, ShareClassId: 0P000000PX, File:NRA\Fundamental\EarningRatios\Delta\Delta_EarningRatiosRes.zip
+No diff
+Process Done
+
+Start Process>> CompanyId: 0C000006UP, ShareClassId: 0P000000PX, File:NRA\Fundamental\EarningReports\Delta\Delta_EarningReport.zip
+No diff
+Process Done
+
+Start Process>> CompanyId: 0C000006UP, ShareClassId: 0P000000PX, File:NRA\Fundamental\EarningReports\Delta\Delta_EarningReportsRes.zip
+No diff
+Process Done
+
+Start Process>> CompanyId: 0C000006UP, ShareClassId: 0P00007NZP, File:UKI\Fundamental\EarningRatios\Delta\Delta_EarningRatio.zip
+No diff
+Process Done
+
+Start Process>> CompanyId: 0C000006UP, ShareClassId: 0P00007NZP, File:UKI\Fundamental\EarningRatios\Delta\Delta_EarningRatiosRes.zip
+No diff
+Process Done
+
+Start Process>> CompanyId: 0C000006UP, ShareClassId: 0P00007NZP, File:UKI\Fundamental\EarningReports\Delta\Delta_EarningReport.zip
+No diff
+Process Done
+
+Start Process>> CompanyId: 0C000006UP, ShareClassId: 0P00007NZP, File:UKI\Fundamental\EarningReports\Delta\Delta_EarningReportsRes.zip
+No diff
+Process Done
+
+Start Process>> CompanyId: 0C000006UP, ShareClassId: 0P0000AIWI, File:EUR\Fundamental\EarningRatios\Delta\Delta_EarningRatio.zip
+No diff
+Process Done
+
+Start Process>> CompanyId: 0C000006UP, ShareClassId: 0P0000AIWI, File:EUR\Fundamental\EarningRatios\Delta\Delta_EarningRatiosRes.zip
+No diff
+Process Done
+
+Start Process>> CompanyId: 0C000006UP, ShareClassId: 0P0000AIWI, File:EUR\Fundamental\EarningReports\Delta\Delta_EarningReport.zip
+No diff
+Process Done
+
+Start Process>> CompanyId: 0C000006UP, ShareClassId: 0P0000AIWI, File:EUR\Fundamental\EarningReports\Delta\Delta_EarningReportsRes.zip
+No diff
+Process Done
+
+Start Process>> CompanyId: 0C000006UP, ShareClassId: 0P0000ATRW, File:EUR\Fundamental\EarningRatios\Delta\Delta_EarningRatio.zip
+No diff
+Process Done
+
+Start Process>> CompanyId: 0C000006UP, ShareClassId: 0P0000ATRW, File:EUR\Fundamental\EarningRatios\Delta\Delta_EarningRatiosRes.zip
+No diff
+Process Done
+
+Start Process>> CompanyId: 0C000006UP, ShareClassId: 0P0000ATRW, File:EUR\Fundamental\EarningReports\Delta\Delta_EarningReport.zip
+No diff
+Process Done
+
+Start Process>> CompanyId: 0C000006UP, ShareClassId: 0P0000ATRW, File:EUR\Fundamental\EarningReports\Delta\Delta_EarningReportsRes.zip
+No diff
+Process Done
+
+Start Process>> CompanyId: 0C000006UP, ShareClassId: 0P0000B26O, File:EUR\Fundamental\EarningRatios\Delta\Delta_EarningRatio.zip
+No diff
+Process Done
+
+Start Process>> CompanyId: 0C000006UP, ShareClassId: 0P0000B26O, File:EUR\Fundamental\EarningRatios\Delta\Delta_EarningRatiosRes.zip
+No diff
+Process Done
+
+Start Process>> CompanyId: 0C000006UP, ShareClassId: 0P0000B26O, File:EUR\Fundamental\EarningReports\Delta\Delta_EarningReport.zip
+No diff
+Process Done
+
+Start Process>> CompanyId: 0C000006UP, ShareClassId: 0P0000B26O, File:EUR\Fundamental\EarningReports\Delta\Delta_EarningReportsRes.zip
+No diff
+Process Done
+
+Start Process>> CompanyId: 0C000006UP, ShareClassId: 0P0000BN6M, File:EUR\Fundamental\EarningRatios\Delta\Delta_EarningRatio.zip
+No diff
+Process Done
+
+Start Process>> CompanyId: 0C000006UP, ShareClassId: 0P0000BN6M, File:EUR\Fundamental\EarningRatios\Delta\Delta_EarningRatiosRes.zip
+No diff
+Process Done
+
+Start Process>> CompanyId: 0C000006UP, ShareClassId: 0P0000BN6M, File:EUR\Fundamental\EarningReports\Delta\Delta_EarningReport.zip
+No diff
+Process Done
+
+Start Process>> CompanyId: 0C000006UP, ShareClassId: 0P0000BN6M, File:EUR\Fundamental\EarningReports\Delta\Delta_EarningReportsRes.zip
+No diff
+Process Done
+
+Start Process>> CompanyId: 0C000006UP, ShareClassId: 0P0000BQYI, File:EUR\Fundamental\EarningRatios\Delta\Delta_EarningRatio.zip
+No diff
+Process Done
+
+Start Process>> CompanyId: 0C000006UP, ShareClassId: 0P0000BQYI, File:EUR\Fundamental\EarningRatios\Delta\Delta_EarningRatiosRes.zip
+No diff
+Process Done
+
+Start Process>> CompanyId: 0C000006UP, ShareClassId: 0P0000BQYI, File:EUR\Fundamental\EarningReports\Delta\Delta_EarningReport.zip
+No diff
+Process Done
+
+Start Process>> CompanyId: 0C000006UP, ShareClassId: 0P0000BQYI, File:EUR\Fundamental\EarningReports\Delta\Delta_EarningReportsRes.zip
+No diff
+Process Done
+
+Start Process>> CompanyId: 0C000006UP, ShareClassId: 0P0000BXEI, File:EUR\Fundamental\EarningRatios\Delta\Delta_EarningRatio.zip
+No diff
+Process Done
+
+Start Process>> CompanyId: 0C000006UP, ShareClassId: 0P0000BXEI, File:EUR\Fundamental\EarningRatios\Delta\Delta_EarningRatiosRes.zip
+No diff
+Process Done
+
+Start Process>> CompanyId: 0C000006UP, ShareClassId: 0P0000BXEI, File:EUR\Fundamental\EarningReports\Delta\Delta_EarningReport.zip
+No diff
+Process Done
+
+Start Process>> CompanyId: 0C000006UP, ShareClassId: 0P0000BXEI, File:EUR\Fundamental\EarningReports\Delta\Delta_EarningReportsRes.zip
+No diff
+Process Done
+
+Start Process>> CompanyId: 0C000006UP, ShareClassId: 0P0000CMV2, File:EUR\Fundamental\EarningRatios\Delta\Delta_EarningRatio.zip
+No diff
+Process Done
+
+Start Process>> CompanyId: 0C000006UP, ShareClassId: 0P0000CMV2, File:EUR\Fundamental\EarningRatios\Delta\Delta_EarningRatiosRes.zip
+No diff
+Process Done
+
+Start Process>> CompanyId: 0C000006UP, ShareClassId: 0P0000CMV2, File:EUR\Fundamental\EarningReports\Delta\Delta_EarningReport.zip
+No diff
+Process Done
+
+Start Process>> CompanyId: 0C000006UP, ShareClassId: 0P0000CMV2, File:EUR\Fundamental\EarningReports\Delta\Delta_EarningReportsRes.zip
+No diff
+Process Done
+
+Start Process>> CompanyId: 0C000006UP, ShareClassId: 0P0000D5OU, File:LTA\Fundamental\EarningRatios\Delta\Delta_EarningRatio.zip
+No diff
+Process Done
+
+Start Process>> CompanyId: 0C000006UP, ShareClassId: 0P0000D5OU, File:LTA\Fundamental\EarningRatios\Delta\Delta_EarningRatiosRes.zip
+No diff
+Process Done
+
+Start Process>> CompanyId: 0C000006UP, ShareClassId: 0P0000D5OU, File:LTA\Fundamental\EarningReports\Delta\Delta_EarningReport.zip
+No diff
+Process Done
+
+Start Process>> CompanyId: 0C000006UP, ShareClassId: 0P0000D5OU, File:LTA\Fundamental\EarningReports\Delta\Delta_EarningReportsRes.zip
+No diff
+Process Done
+
+Start Process>> CompanyId: 0C000006UP, ShareClassId: 0P0000EIXL, File:EUR\Fundamental\EarningRatios\Delta\Delta_EarningRatio.zip
+No diff
+Process Done
+
+Start Process>> CompanyId: 0C000006UP, ShareClassId: 0P0000EIXL, File:EUR\Fundamental\EarningRatios\Delta\Delta_EarningRatiosRes.zip
+No diff
+Process Done
+
+Start Process>> CompanyId: 0C000006UP, ShareClassId: 0P0000EIXL, File:EUR\Fundamental\EarningReports\Delta\Delta_EarningReport.zip
+No diff
+Process Done
+
+Start Process>> CompanyId: 0C000006UP, ShareClassId: 0P0000EIXL, File:EUR\Fundamental\EarningReports\Delta\Delta_EarningReportsRes.zip
+No diff
+Process Done
+
+Start Process>> CompanyId: 0C000006UP, ShareClassId: 0P0000ESSP, File:LTA\Fundamental\EarningRatios\Delta\Delta_EarningRatio.zip
+No diff
+Process Done
+
+Start Process>> CompanyId: 0C000006UP, ShareClassId: 0P0000ESSP, File:LTA\Fundamental\EarningRatios\Delta\Delta_EarningRatiosRes.zip
+No diff
+Process Done
+
+Start Process>> CompanyId: 0C000006UP, ShareClassId: 0P0000ESSP, File:LTA\Fundamental\EarningReports\Delta\Delta_EarningReport.zip
+No diff
+Process Done
+
+Start Process>> CompanyId: 0C000006UP, ShareClassId: 0P0000ESSP, File:LTA\Fundamental\EarningReports\Delta\Delta_EarningReportsRes.zip
+No diff
+Process Done
+
+Start Process>> CompanyId: 0C000006UP, ShareClassId: 0P0000JIF0, File:NRA\Fundamental\EarningRatios\Delta\Delta_EarningRatio.zip
+No diff
+Process Done
+
+Start Process>> CompanyId: 0C000006UP, ShareClassId: 0P0000JIF0, File:NRA\Fundamental\EarningRatios\Delta\Delta_EarningRatiosRes.zip
+No diff
+Process Done
+
+Start Process>> CompanyId: 0C000006UP, ShareClassId: 0P0000JIF0, File:NRA\Fundamental\EarningReports\Delta\Delta_EarningReport.zip
+No diff
+Process Done
+
+Start Process>> CompanyId: 0C000006UP, ShareClassId: 0P0000JIF0, File:NRA\Fundamental\EarningReports\Delta\Delta_EarningReportsRes.zip
+No diff
+Process Done
+
+Start Process>> CompanyId: 0C000006UP, ShareClassId: 0P0000KGUB, File:UKI\Fundamental\EarningRatios\Delta\Delta_EarningRatio.zip
+Can't find 0C000006UP|0P0000KGUB in z:\DEV\PT2.0-GEDF-20180324\UKI_Monthly_EarningRatiosAOR_2018-2.zip
+Can't find 0C000006UP|0P0000KGUB in z:\UKI\Fundamental\EarningRatios\Delta\Delta_EarningRatiosAOR_2018-04-02.zip
+
+Process Done
+
+Start Process>> CompanyId: 0C000006UP, ShareClassId: 0P0000KGUB, File:UKI\Fundamental\EarningRatios\Delta\Delta_EarningRatiosRes.zip
+Can't find 0C000006UP|0P0000KGUB in z:\DEV\PT2.0-GEDF-20180324\UKI_Monthly_EarningRatiosRestate_2018-2.zip
+Can't find 0C000006UP|0P0000KGUB in z:\UKI\Fundamental\EarningRatios\Delta\Delta_EarningRatiosRestate_2018-04-02.zip
+
+Process Done
+
+Start Process>> CompanyId: 0C000006UP, ShareClassId: 0P0000KGUB, File:UKI\Fundamental\EarningReports\Delta\Delta_EarningReport.zip
+Can't find 0C000006UP|0P0000KGUB in z:\DEV\PT2.0-GEDF-20180324\UKI_Monthly_EarningReportsAOR_2018-2.zip
+Can't find 0C000006UP|0P0000KGUB in z:\UKI\Fundamental\EarningReports\Delta\Delta_EarningReportsAOR_2018-04-02.zip
+
+Process Done
+
+Start Process>> CompanyId: 0C000006UP, ShareClassId: 0P0000KGUB, File:UKI\Fundamental\EarningReports\Delta\Delta_EarningReportsRes.zip
+Can't find 0C000006UP|0P0000KGUB in z:\DEV\PT2.0-GEDF-20180324\UKI_Monthly_EarningReportsRestate_2018-2.zip
+Can't find 0C000006UP|0P0000KGUB in z:\UKI\Fundamental\EarningReports\Delta\Delta_EarningReportsRestate_2018-04-02.zip
+
+Process Done
+
+Start Process>> CompanyId: 0C000006UP, ShareClassId: 0P0000POHY, File:EUR\Fundamental\EarningRatios\Delta\Delta_EarningRatio.zip
+No diff
+Process Done
+
+Start Process>> CompanyId: 0C000006UP, ShareClassId: 0P0000POHY, File:EUR\Fundamental\EarningRatios\Delta\Delta_EarningRatiosRes.zip
+No diff
+Process Done
+
+Start Process>> CompanyId: 0C000006UP, ShareClassId: 0P0000POHY, File:EUR\Fundamental\EarningReports\Delta\Delta_EarningReport.zip
+No diff
+Process Done
+
+Start Process>> CompanyId: 0C000006UP, ShareClassId: 0P0000POHY, File:EUR\Fundamental\EarningReports\Delta\Delta_EarningReportsRes.zip
+No diff
+Process Done
+
+Start Process>> CompanyId: 0C000006UP, ShareClassId: 0P0000T5DA, File:EUR\Fundamental\EarningRatios\Delta\Delta_EarningRatio.zip
+Can't find 0C000006UP|0P0000T5DA in z:\DEV\PT2.0-GEDF-20180324\EUR_Monthly_EarningRatiosAOR_2018-2.zip
+Can't find 0C000006UP|0P0000T5DA in z:\EUR\Fundamental\EarningRatios\Delta\Delta_EarningRatiosAOR_2018-04-02.zip
+
+Process Done
+
+Start Process>> CompanyId: 0C000006UP, ShareClassId: 0P0000T5DA, File:EUR\Fundamental\EarningRatios\Delta\Delta_EarningRatiosRes.zip
+Can't find 0C000006UP|0P0000T5DA in z:\DEV\PT2.0-GEDF-20180324\EUR_Monthly_EarningRatiosRestate_2018-2.zip
+Can't find 0C000006UP|0P0000T5DA in z:\EUR\Fundamental\EarningRatios\Delta\Delta_EarningRatiosRestate_2018-04-02.zip
+
+Process Done
+
+Start Process>> CompanyId: 0C000006UP, ShareClassId: 0P0000T5DA, File:EUR\Fundamental\EarningReports\Delta\Delta_EarningReport.zip
+Can't find 0C000006UP|0P0000T5DA in z:\DEV\PT2.0-GEDF-20180324\EUR_Monthly_EarningReportsAOR_2018-2.zip
+Can't find 0C000006UP|0P0000T5DA in z:\EUR\Fundamental\EarningReports\Delta\Delta_EarningReportsAOR_2018-04-02.zip
+
+Process Done
+
+Start Process>> CompanyId: 0C000006UP, ShareClassId: 0P0000T5DA, File:EUR\Fundamental\EarningReports\Delta\Delta_EarningReportsRes.zip
+Can't find 0C000006UP|0P0000T5DA in z:\DEV\PT2.0-GEDF-20180324\EUR_Monthly_EarningReportsRestate_2018-2.zip
+Can't find 0C000006UP|0P0000T5DA in z:\EUR\Fundamental\EarningReports\Delta\Delta_EarningReportsRestate_2018-04-02.zip
+
+Process Done
+
+Start Process>> CompanyId: 0C000006UP, ShareClassId: 0P0000T5DB, File:EUR\Fundamental\EarningRatios\Delta\Delta_EarningRatio.zip
+No diff
+Process Done
+
+Start Process>> CompanyId: 0C000006UP, ShareClassId: 0P0000T5DB, File:EUR\Fundamental\EarningRatios\Delta\Delta_EarningRatiosRes.zip
+No diff
+Process Done
+
+Start Process>> CompanyId: 0C000006UP, ShareClassId: 0P0000T5DB, File:EUR\Fundamental\EarningReports\Delta\Delta_EarningReport.zip
+No diff
+Process Done
+
+Start Process>> CompanyId: 0C000006UP, ShareClassId: 0P0000T5DB, File:EUR\Fundamental\EarningReports\Delta\Delta_EarningReportsRes.zip
+No diff
+Process Done
+
+Start Process>> CompanyId: 0C000006UP, ShareClassId: 0P0000ZK65, File:UKI\Fundamental\EarningRatios\Delta\Delta_EarningRatio.zip
+Can't find 0C000006UP|0P0000ZK65 in z:\DEV\PT2.0-GEDF-20180324\UKI_Monthly_EarningRatiosAOR_2018-2.zip
+Can't find 0C000006UP|0P0000ZK65 in z:\UKI\Fundamental\EarningRatios\Delta\Delta_EarningRatiosAOR_2018-04-02.zip
+
+Process Done
+
+Start Process>> CompanyId: 0C000006UP, ShareClassId: 0P0000ZK65, File:UKI\Fundamental\EarningRatios\Delta\Delta_EarningRatiosRes.zip
+Can't find 0C000006UP|0P0000ZK65 in z:\DEV\PT2.0-GEDF-20180324\UKI_Monthly_EarningRatiosRestate_2018-2.zip
+Can't find 0C000006UP|0P0000ZK65 in z:\UKI\Fundamental\EarningRatios\Delta\Delta_EarningRatiosRestate_2018-04-02.zip
+
+Process Done
+
+Start Process>> CompanyId: 0C000006UP, ShareClassId: 0P0000ZK65, File:UKI\Fundamental\EarningReports\Delta\Delta_EarningReport.zip
+Can't find 0C000006UP|0P0000ZK65 in z:\DEV\PT2.0-GEDF-20180324\UKI_Monthly_EarningReportsAOR_2018-2.zip
+Can't find 0C000006UP|0P0000ZK65 in z:\UKI\Fundamental\EarningReports\Delta\Delta_EarningReportsAOR_2018-04-02.zip
+
+Process Done
+
+Start Process>> CompanyId: 0C000006UP, ShareClassId: 0P0000ZK65, File:UKI\Fundamental\EarningReports\Delta\Delta_EarningReportsRes.zip
+Can't find 0C000006UP|0P0000ZK65 in z:\DEV\PT2.0-GEDF-20180324\UKI_Monthly_EarningReportsRestate_2018-2.zip
+Can't find 0C000006UP|0P0000ZK65 in z:\UKI\Fundamental\EarningReports\Delta\Delta_EarningReportsRestate_2018-04-02.zip
+
+Process Done
+
+Start Process>> CompanyId: 0C000006UP, ShareClassId: 0P000182S7, File:EUR\Fundamental\EarningRatios\Delta\Delta_EarningRatio.zip
+No diff
+Process Done
+
+Start Process>> CompanyId: 0C000006UP, ShareClassId: 0P000182S7, File:EUR\Fundamental\EarningRatios\Delta\Delta_EarningRatiosRes.zip
+No diff
+Process Done
+
+Start Process>> CompanyId: 0C000006UP, ShareClassId: 0P000182S7, File:EUR\Fundamental\EarningReports\Delta\Delta_EarningReport.zip
+No diff
+Process Done
+
+Start Process>> CompanyId: 0C000006UP, ShareClassId: 0P000182S7, File:EUR\Fundamental\EarningReports\Delta\Delta_EarningReportsRes.zip
+No diff
+Process Done
+
+Start Process>> CompanyId: 0C000006UX, ShareClassId: 0P000000N0, File:NRA\Fundamental\EarningRatios\Delta\Delta_EarningRatio.zip
+No diff
+Process Done
+
+Start Process>> CompanyId: 0C000006UX, ShareClassId: 0P000000N0, File:NRA\Fundamental\EarningRatios\Delta\Delta_EarningRatiosRes.zip
+No diff
+Process Done
+
+Start Process>> CompanyId: 0C000006UX, ShareClassId: 0P000000N0, File:NRA\Fundamental\EarningReports\Delta\Delta_EarningReport.zip
+No diff
+Process Done
+
+Start Process>> CompanyId: 0C000006UX, ShareClassId: 0P000000N0, File:NRA\Fundamental\EarningReports\Delta\Delta_EarningReportsRes.zip
+No diff
+Process Done
+
+Start Process>> CompanyId: 0C000006UX, ShareClassId: 0P0000065K, File:NRA\Fundamental\EarningRatios\Delta\Delta_EarningRatio.zip
+No diff
+Process Done
+
+Start Process>> CompanyId: 0C000006UX, ShareClassId: 0P0000065K, File:NRA\Fundamental\EarningRatios\Delta\Delta_EarningRatiosRes.zip
+No diff
+Process Done
+
+Start Process>> CompanyId: 0C000006UX, ShareClassId: 0P0000065K, File:NRA\Fundamental\EarningReports\Delta\Delta_EarningReport.zip
+No diff
+Process Done
+
+Start Process>> CompanyId: 0C000006UX, ShareClassId: 0P0000065K, File:NRA\Fundamental\EarningReports\Delta\Delta_EarningReportsRes.zip
+No diff
+Process Done
+
+Start Process>> CompanyId: 0C000006UX, ShareClassId: 0P00007NZV, File:UKI\Fundamental\EarningRatios\Delta\Delta_EarningRatio.zip
+No diff
+Process Done
+
+Start Process>> CompanyId: 0C000006UX, ShareClassId: 0P00007NZV, File:UKI\Fundamental\EarningRatios\Delta\Delta_EarningRatiosRes.zip
+No diff
+Process Done
+
+Start Process>> CompanyId: 0C000006UX, ShareClassId: 0P00007NZV, File:UKI\Fundamental\EarningReports\Delta\Delta_EarningReport.zip
+No diff
+Process Done
+
+Start Process>> CompanyId: 0C000006UX, ShareClassId: 0P00007NZV, File:UKI\Fundamental\EarningReports\Delta\Delta_EarningReportsRes.zip
+No diff
+Process Done
+
+Start Process>> CompanyId: 0C000006UX, ShareClassId: 0P00009QNZ, File:EUR\Fundamental\EarningRatios\Delta\Delta_EarningRatio.zip
+No diff
+Process Done
+
+Start Process>> CompanyId: 0C000006UX, ShareClassId: 0P00009QNZ, File:EUR\Fundamental\EarningRatios\Delta\Delta_EarningRatiosRes.zip
+No diff
+Process Done
+
+Start Process>> CompanyId: 0C000006UX, ShareClassId: 0P00009QNZ, File:EUR\Fundamental\EarningReports\Delta\Delta_EarningReport.zip
+No diff
+Process Done
+
+Start Process>> CompanyId: 0C000006UX, ShareClassId: 0P00009QNZ, File:EUR\Fundamental\EarningReports\Delta\Delta_EarningReportsRes.zip
+No diff
+Process Done
+
+Start Process>> CompanyId: 0C000006UX, ShareClassId: 0P0000A5JE, File:EUR\Fundamental\EarningRatios\Delta\Delta_EarningRatio.zip
+No diff
+Process Done
+
+Start Process>> CompanyId: 0C000006UX, ShareClassId: 0P0000A5JE, File:EUR\Fundamental\EarningRatios\Delta\Delta_EarningRatiosRes.zip
+No diff
+Process Done
+
+Start Process>> CompanyId: 0C000006UX, ShareClassId: 0P0000A5JE, File:EUR\Fundamental\EarningReports\Delta\Delta_EarningReport.zip
+No diff
+Process Done
+
+Start Process>> CompanyId: 0C000006UX, ShareClassId: 0P0000A5JE, File:EUR\Fundamental\EarningReports\Delta\Delta_EarningReportsRes.zip
+No diff
+Process Done
+
+Start Process>> CompanyId: 0C000006UX, ShareClassId: 0P0000AM2H, File:EUR\Fundamental\EarningRatios\Delta\Delta_EarningRatio.zip
+No diff
+Process Done
+
+Start Process>> CompanyId: 0C000006UX, ShareClassId: 0P0000AM2H, File:EUR\Fundamental\EarningRatios\Delta\Delta_EarningRatiosRes.zip
+No diff
+Process Done
+
+Start Process>> CompanyId: 0C000006UX, ShareClassId: 0P0000AM2H, File:EUR\Fundamental\EarningReports\Delta\Delta_EarningReport.zip
+No diff
+Process Done
+
+Start Process>> CompanyId: 0C000006UX, ShareClassId: 0P0000AM2H, File:EUR\Fundamental\EarningReports\Delta\Delta_EarningReportsRes.zip
+No diff
+Process Done
+
+Start Process>> CompanyId: 0C000006UX, ShareClassId: 0P0000AUBI, File:EUR\Fundamental\EarningRatios\Delta\Delta_EarningRatio.zip
+No diff
+Process Done
+
+Start Process>> CompanyId: 0C000006UX, ShareClassId: 0P0000AUBI, File:EUR\Fundamental\EarningRatios\Delta\Delta_EarningRatiosRes.zip
+No diff
+Process Done
+
+Start Process>> CompanyId: 0C000006UX, ShareClassId: 0P0000AUBI, File:EUR\Fundamental\EarningReports\Delta\Delta_EarningReport.zip
+No diff
+Process Done
+
+Start Process>> CompanyId: 0C000006UX, ShareClassId: 0P0000AUBI, File:EUR\Fundamental\EarningReports\Delta\Delta_EarningReportsRes.zip
+No diff
+Process Done
+
+Start Process>> CompanyId: 0C000006UX, ShareClassId: 0P0000CDK9, File:EUR\Fundamental\EarningRatios\Delta\Delta_EarningRatio.zip
+No diff
+Process Done
+
+Start Process>> CompanyId: 0C000006UX, ShareClassId: 0P0000CDK9, File:EUR\Fundamental\EarningRatios\Delta\Delta_EarningRatiosRes.zip
+No diff
+Process Done
+
+Start Process>> CompanyId: 0C000006UX, ShareClassId: 0P0000CDK9, File:EUR\Fundamental\EarningReports\Delta\Delta_EarningReport.zip
+No diff
+Process Done
+
+Start Process>> CompanyId: 0C000006UX, ShareClassId: 0P0000CDK9, File:EUR\Fundamental\EarningReports\Delta\Delta_EarningReportsRes.zip
+No diff
+Process Done
+
+Start Process>> CompanyId: 0C000006UX, ShareClassId: 0P0000CM72, File:EUR\Fundamental\EarningRatios\Delta\Delta_EarningRatio.zip
+No diff
+Process Done
+
+Start Process>> CompanyId: 0C000006UX, ShareClassId: 0P0000CM72, File:EUR\Fundamental\EarningRatios\Delta\Delta_EarningRatiosRes.zip
+No diff
+Process Done
+
+Start Process>> CompanyId: 0C000006UX, ShareClassId: 0P0000CM72, File:EUR\Fundamental\EarningReports\Delta\Delta_EarningReport.zip
+No diff
+Process Done
+
+Start Process>> CompanyId: 0C000006UX, ShareClassId: 0P0000CM72, File:EUR\Fundamental\EarningReports\Delta\Delta_EarningReportsRes.zip
+No diff
+Process Done
+
+Start Process>> CompanyId: 0C000006UX, ShareClassId: 0P0000D60D, File:LTA\Fundamental\EarningRatios\Delta\Delta_EarningRatio.zip
+No diff
+Process Done
+
+Start Process>> CompanyId: 0C000006UX, ShareClassId: 0P0000D60D, File:LTA\Fundamental\EarningRatios\Delta\Delta_EarningRatiosRes.zip
+No diff
+Process Done
+
+Start Process>> CompanyId: 0C000006UX, ShareClassId: 0P0000D60D, File:LTA\Fundamental\EarningReports\Delta\Delta_EarningReport.zip
+No diff
+Process Done
+
+Start Process>> CompanyId: 0C000006UX, ShareClassId: 0P0000D60D, File:LTA\Fundamental\EarningReports\Delta\Delta_EarningReportsRes.zip
+No diff
+Process Done
+
+Start Process>> CompanyId: 0C000006UX, ShareClassId: 0P0000E6C5, File:EUR\Fundamental\EarningRatios\Delta\Delta_EarningRatio.zip
+No diff
+Process Done
+
+Start Process>> CompanyId: 0C000006UX, ShareClassId: 0P0000E6C5, File:EUR\Fundamental\EarningRatios\Delta\Delta_EarningRatiosRes.zip
+No diff
+Process Done
+
+Start Process>> CompanyId: 0C000006UX, ShareClassId: 0P0000E6C5, File:EUR\Fundamental\EarningReports\Delta\Delta_EarningReport.zip
+No diff
+Process Done
+
+Start Process>> CompanyId: 0C000006UX, ShareClassId: 0P0000E6C5, File:EUR\Fundamental\EarningReports\Delta\Delta_EarningReportsRes.zip
+No diff
+Process Done
+
+Start Process>> CompanyId: 0C000006UX, ShareClassId: 0P0000E6C6, File:EUR\Fundamental\EarningRatios\Delta\Delta_EarningRatio.zip
+No diff
+Process Done
+
+Start Process>> CompanyId: 0C000006UX, ShareClassId: 0P0000E6C6, File:EUR\Fundamental\EarningRatios\Delta\Delta_EarningRatiosRes.zip
+No diff
+Process Done
+
+Start Process>> CompanyId: 0C000006UX, ShareClassId: 0P0000E6C6, File:EUR\Fundamental\EarningReports\Delta\Delta_EarningReport.zip
+No diff
+Process Done
+
+Start Process>> CompanyId: 0C000006UX, ShareClassId: 0P0000E6C6, File:EUR\Fundamental\EarningReports\Delta\Delta_EarningReportsRes.zip
+No diff
+Process Done
+
+Start Process>> CompanyId: 0C000006UX, ShareClassId: 0P0000E7TU, File:EUR\Fundamental\EarningRatios\Delta\Delta_EarningRatio.zip
+No diff
+Process Done
+
+Start Process>> CompanyId: 0C000006UX, ShareClassId: 0P0000E7TU, File:EUR\Fundamental\EarningRatios\Delta\Delta_EarningRatiosRes.zip
+No diff
+Process Done
+
+Start Process>> CompanyId: 0C000006UX, ShareClassId: 0P0000E7TU, File:EUR\Fundamental\EarningReports\Delta\Delta_EarningReport.zip
+No diff
+Process Done
+
+Start Process>> CompanyId: 0C000006UX, ShareClassId: 0P0000E7TU, File:EUR\Fundamental\EarningReports\Delta\Delta_EarningReportsRes.zip
+No diff
+Process Done
+
+Start Process>> CompanyId: 0C000006UX, ShareClassId: 0P0000E82G, File:EUR\Fundamental\EarningRatios\Delta\Delta_EarningRatio.zip
+No diff
+Process Done
+
+Start Process>> CompanyId: 0C000006UX, ShareClassId: 0P0000E82G, File:EUR\Fundamental\EarningRatios\Delta\Delta_EarningRatiosRes.zip
+No diff
+Process Done
+
+Start Process>> CompanyId: 0C000006UX, ShareClassId: 0P0000E82G, File:EUR\Fundamental\EarningReports\Delta\Delta_EarningReport.zip
+No diff
+Process Done
+
+Start Process>> CompanyId: 0C000006UX, ShareClassId: 0P0000E82G, File:EUR\Fundamental\EarningReports\Delta\Delta_EarningReportsRes.zip
+No diff
+Process Done
+
+Start Process>> CompanyId: 0C000006UX, ShareClassId: 0P0000EWBH, File:EUR\Fundamental\EarningRatios\Delta\Delta_EarningRatio.zip
+No diff
+Process Done
+
+Start Process>> CompanyId: 0C000006UX, ShareClassId: 0P0000EWBH, File:EUR\Fundamental\EarningRatios\Delta\Delta_EarningRatiosRes.zip
+No diff
+Process Done
+
+Start Process>> CompanyId: 0C000006UX, ShareClassId: 0P0000EWBH, File:EUR\Fundamental\EarningReports\Delta\Delta_EarningReport.zip
+No diff
+Process Done
+
+Start Process>> CompanyId: 0C000006UX, ShareClassId: 0P0000EWBH, File:EUR\Fundamental\EarningReports\Delta\Delta_EarningReportsRes.zip
+No diff
+Process Done
+
+Start Process>> CompanyId: 0C000006UX, ShareClassId: 0P0000EYPZ, File:LTA\Fundamental\EarningRatios\Delta\Delta_EarningRatio.zip
+No diff
+Process Done
+
+Start Process>> CompanyId: 0C000006UX, ShareClassId: 0P0000EYPZ, File:LTA\Fundamental\EarningRatios\Delta\Delta_EarningRatiosRes.zip
+No diff
+Process Done
+
+Start Process>> CompanyId: 0C000006UX, ShareClassId: 0P0000EYPZ, File:LTA\Fundamental\EarningReports\Delta\Delta_EarningReport.zip
+No diff
+Process Done
+
+Start Process>> CompanyId: 0C000006UX, ShareClassId: 0P0000EYPZ, File:LTA\Fundamental\EarningReports\Delta\Delta_EarningReportsRes.zip
+No diff
+Process Done
+
+Start Process>> CompanyId: 0C000006UX, ShareClassId: 0P0000GGBW, File:EUR\Fundamental\EarningRatios\Delta\Delta_EarningRatio.zip
+No diff
+Process Done
+
+Start Process>> CompanyId: 0C000006UX, ShareClassId: 0P0000GGBW, File:EUR\Fundamental\EarningRatios\Delta\Delta_EarningRatiosRes.zip
+No diff
+Process Done
+
+Start Process>> CompanyId: 0C000006UX, ShareClassId: 0P0000GGBW, File:EUR\Fundamental\EarningReports\Delta\Delta_EarningReport.zip
+No diff
+Process Done
+
+Start Process>> CompanyId: 0C000006UX, ShareClassId: 0P0000GGBW, File:EUR\Fundamental\EarningReports\Delta\Delta_EarningReportsRes.zip
+No diff
+Process Done
+
+Start Process>> CompanyId: 0C000006UX, ShareClassId: 0P0000HHF9, File:LTA\Fundamental\EarningRatios\Delta\Delta_EarningRatio.zip
+Can't find 0C000006UX|0P0000HHF9 in z:\DEV\PT2.0-GEDF-20180324\LTA_Monthly_EarningRatiosAOR_2018-2.zip
+Can't find 0C000006UX|0P0000HHF9 in z:\LTA\Fundamental\EarningRatios\Delta\Delta_EarningRatiosAOR_2018-04-02.zip
+
+Process Done
+
+Start Process>> CompanyId: 0C000006UX, ShareClassId: 0P0000HHF9, File:LTA\Fundamental\EarningRatios\Delta\Delta_EarningRatiosRes.zip
+Can't find 0C000006UX|0P0000HHF9 in z:\DEV\PT2.0-GEDF-20180324\LTA_Monthly_EarningRatiosRestate_2018-2.zip
+Can't find 0C000006UX|0P0000HHF9 in z:\LTA\Fundamental\EarningRatios\Delta\Delta_EarningRatiosRestate_2018-04-02.zip
+
+Process Done
+
+Start Process>> CompanyId: 0C000006UX, ShareClassId: 0P0000HHF9, File:LTA\Fundamental\EarningReports\Delta\Delta_EarningReport.zip
+Can't find 0C000006UX|0P0000HHF9 in z:\DEV\PT2.0-GEDF-20180324\LTA_Monthly_EarningReportsAOR_2018-2.zip
+Can't find 0C000006UX|0P0000HHF9 in z:\LTA\Fundamental\EarningReports\Delta\Delta_EarningReportsAOR_2018-04-02.zip
+
+Process Done
+
+Start Process>> CompanyId: 0C000006UX, ShareClassId: 0P0000HHF9, File:LTA\Fundamental\EarningReports\Delta\Delta_EarningReportsRes.zip
+Can't find 0C000006UX|0P0000HHF9 in z:\DEV\PT2.0-GEDF-20180324\LTA_Monthly_EarningReportsRestate_2018-2.zip
+Can't find 0C000006UX|0P0000HHF9 in z:\LTA\Fundamental\EarningReports\Delta\Delta_EarningReportsRestate_2018-04-02.zip
+
+Process Done
+
+Start Process>> CompanyId: 0C000006UX, ShareClassId: 0P0000P8OD, File:EUR\Fundamental\EarningRatios\Delta\Delta_EarningRatio.zip
+No diff
+Process Done
+
+Start Process>> CompanyId: 0C000006UX, ShareClassId: 0P0000P8OD, File:EUR\Fundamental\EarningRatios\Delta\Delta_EarningRatiosRes.zip
+No diff
+Process Done
+
+Start Process>> CompanyId: 0C000006UX, ShareClassId: 0P0000P8OD, File:EUR\Fundamental\EarningReports\Delta\Delta_EarningReport.zip
+No diff
+Process Done
+
+Start Process>> CompanyId: 0C000006UX, ShareClassId: 0P0000P8OD, File:EUR\Fundamental\EarningReports\Delta\Delta_EarningReportsRes.zip
+No diff
+Process Done
+
+Start Process>> CompanyId: 0C000006UX, ShareClassId: 0P0000TVUF, File:EUR\Fundamental\EarningRatios\Delta\Delta_EarningRatio.zip
+No diff
+Process Done
+
+Start Process>> CompanyId: 0C000006UX, ShareClassId: 0P0000TVUF, File:EUR\Fundamental\EarningRatios\Delta\Delta_EarningRatiosRes.zip
+No diff
+Process Done
+
+Start Process>> CompanyId: 0C000006UX, ShareClassId: 0P0000TVUF, File:EUR\Fundamental\EarningReports\Delta\Delta_EarningReport.zip
+No diff
+Process Done
+
+Start Process>> CompanyId: 0C000006UX, ShareClassId: 0P0000TVUF, File:EUR\Fundamental\EarningReports\Delta\Delta_EarningReportsRes.zip
+No diff
+Process Done
+
+Start Process>> CompanyId: 0C000006UX, ShareClassId: 0P0000UI4B, File:EUR\Fundamental\EarningRatios\Delta\Delta_EarningRatio.zip
+No diff
+Process Done
+
+Start Process>> CompanyId: 0C000006UX, ShareClassId: 0P0000UI4B, File:EUR\Fundamental\EarningRatios\Delta\Delta_EarningRatiosRes.zip
+No diff
+Process Done
+
+Start Process>> CompanyId: 0C000006UX, ShareClassId: 0P0000UI4B, File:EUR\Fundamental\EarningReports\Delta\Delta_EarningReport.zip
+No diff
+Process Done
+
+Start Process>> CompanyId: 0C000006UX, ShareClassId: 0P0000UI4B, File:EUR\Fundamental\EarningReports\Delta\Delta_EarningReportsRes.zip
+No diff
+Process Done
+
+Start Process>> CompanyId: 0C0000070W, ShareClassId: 0P000000VO, File:NRA\Fundamental\EarningRatios\Delta\Delta_EarningRatio.zip
+No diff
+Process Done
+
+Start Process>> CompanyId: 0C0000070W, ShareClassId: 0P000000VO, File:NRA\Fundamental\EarningRatios\Delta\Delta_EarningRatiosRes.zip
+No diff
+Process Done
+
+Start Process>> CompanyId: 0C0000070W, ShareClassId: 0P000000VO, File:NRA\Fundamental\EarningReports\Delta\Delta_EarningReport.zip
+No diff
+Process Done
+
+Start Process>> CompanyId: 0C0000070W, ShareClassId: 0P000000VO, File:NRA\Fundamental\EarningReports\Delta\Delta_EarningReportsRes.zip
+No diff
+Process Done
+
+Start Process>> CompanyId: 0C0000070W, ShareClassId: 0P00007O1O, File:UKI\Fundamental\EarningRatios\Delta\Delta_EarningRatio.zip
+No diff
+Process Done
+
+Start Process>> CompanyId: 0C0000070W, ShareClassId: 0P00007O1O, File:UKI\Fundamental\EarningRatios\Delta\Delta_EarningRatiosRes.zip
+No diff
+Process Done
+
+Start Process>> CompanyId: 0C0000070W, ShareClassId: 0P00007O1O, File:UKI\Fundamental\EarningReports\Delta\Delta_EarningReport.zip
+No diff
+Process Done
+
+Start Process>> CompanyId: 0C0000070W, ShareClassId: 0P00007O1O, File:UKI\Fundamental\EarningReports\Delta\Delta_EarningReportsRes.zip
+No diff
+Process Done
+
+Start Process>> CompanyId: 0C0000070W, ShareClassId: 0P0000AXWY, File:EUR\Fundamental\EarningRatios\Delta\Delta_EarningRatio.zip
+No diff
+Process Done
+
+Start Process>> CompanyId: 0C0000070W, ShareClassId: 0P0000AXWY, File:EUR\Fundamental\EarningRatios\Delta\Delta_EarningRatiosRes.zip
+No diff
+Process Done
+
+Start Process>> CompanyId: 0C0000070W, ShareClassId: 0P0000AXWY, File:EUR\Fundamental\EarningReports\Delta\Delta_EarningReport.zip
+No diff
+Process Done
+
+Start Process>> CompanyId: 0C0000070W, ShareClassId: 0P0000AXWY, File:EUR\Fundamental\EarningReports\Delta\Delta_EarningReportsRes.zip
+No diff
+Process Done
+
+Start Process>> CompanyId: 0C0000070W, ShareClassId: 0P0000AYSU, File:EUR\Fundamental\EarningRatios\Delta\Delta_EarningRatio.zip
+No diff
+Process Done
+
+Start Process>> CompanyId: 0C0000070W, ShareClassId: 0P0000AYSU, File:EUR\Fundamental\EarningRatios\Delta\Delta_EarningRatiosRes.zip
+No diff
+Process Done
+
+Start Process>> CompanyId: 0C0000070W, ShareClassId: 0P0000AYSU, File:EUR\Fundamental\EarningReports\Delta\Delta_EarningReport.zip
+No diff
+Process Done
+
+Start Process>> CompanyId: 0C0000070W, ShareClassId: 0P0000AYSU, File:EUR\Fundamental\EarningReports\Delta\Delta_EarningReportsRes.zip
+No diff
+Process Done
+
+Start Process>> CompanyId: 0C0000070W, ShareClassId: 0P0000BBRC, File:EUR\Fundamental\EarningRatios\Delta\Delta_EarningRatio.zip
+No diff
+Process Done
+
+Start Process>> CompanyId: 0C0000070W, ShareClassId: 0P0000BBRC, File:EUR\Fundamental\EarningRatios\Delta\Delta_EarningRatiosRes.zip
+No diff
+Process Done
+
+Start Process>> CompanyId: 0C0000070W, ShareClassId: 0P0000BBRC, File:EUR\Fundamental\EarningReports\Delta\Delta_EarningReport.zip
+No diff
+Process Done
+
+Start Process>> CompanyId: 0C0000070W, ShareClassId: 0P0000BBRC, File:EUR\Fundamental\EarningReports\Delta\Delta_EarningReportsRes.zip
+No diff
+Process Done
+
+Start Process>> CompanyId: 0C0000070W, ShareClassId: 0P0000BIB2, File:NRA\Fundamental\EarningRatios\Delta\Delta_EarningRatio.zip
+No diff
+Process Done
+
+Start Process>> CompanyId: 0C0000070W, ShareClassId: 0P0000BIB2, File:NRA\Fundamental\EarningRatios\Delta\Delta_EarningRatiosRes.zip
+No diff
+Process Done
+
+Start Process>> CompanyId: 0C0000070W, ShareClassId: 0P0000BIB2, File:NRA\Fundamental\EarningReports\Delta\Delta_EarningReport.zip
+No diff
+Process Done
+
+Start Process>> CompanyId: 0C0000070W, ShareClassId: 0P0000BIB2, File:NRA\Fundamental\EarningReports\Delta\Delta_EarningReportsRes.zip
+No diff
+Process Done
+
+Start Process>> CompanyId: 0C0000070W, ShareClassId: 0P0000C7MA, File:EUR\Fundamental\EarningRatios\Delta\Delta_EarningRatio.zip
+No diff
+Process Done
+
+Start Process>> CompanyId: 0C0000070W, ShareClassId: 0P0000C7MA, File:EUR\Fundamental\EarningRatios\Delta\Delta_EarningRatiosRes.zip
+No diff
+Process Done
+
+Start Process>> CompanyId: 0C0000070W, ShareClassId: 0P0000C7MA, File:EUR\Fundamental\EarningReports\Delta\Delta_EarningReport.zip
+No diff
+Process Done
+
+Start Process>> CompanyId: 0C0000070W, ShareClassId: 0P0000C7MA, File:EUR\Fundamental\EarningReports\Delta\Delta_EarningReportsRes.zip
+No diff
+Process Done
+
+Start Process>> CompanyId: 0C0000070W, ShareClassId: 0P0000CAT9, File:EUR\Fundamental\EarningRatios\Delta\Delta_EarningRatio.zip
+No diff
+Process Done
+
+Start Process>> CompanyId: 0C0000070W, ShareClassId: 0P0000CAT9, File:EUR\Fundamental\EarningRatios\Delta\Delta_EarningRatiosRes.zip
+No diff
+Process Done
+
+Start Process>> CompanyId: 0C0000070W, ShareClassId: 0P0000CAT9, File:EUR\Fundamental\EarningReports\Delta\Delta_EarningReport.zip
+No diff
+Process Done
+
+Start Process>> CompanyId: 0C0000070W, ShareClassId: 0P0000CAT9, File:EUR\Fundamental\EarningReports\Delta\Delta_EarningReportsRes.zip
+No diff
+Process Done
+
+Start Process>> CompanyId: 0C0000070W, ShareClassId: 0P0000CF87, File:EUR\Fundamental\EarningRatios\Delta\Delta_EarningRatio.zip
+No diff
+Process Done
+
+Start Process>> CompanyId: 0C0000070W, ShareClassId: 0P0000CF87, File:EUR\Fundamental\EarningRatios\Delta\Delta_EarningRatiosRes.zip
+No diff
+Process Done
+
+Start Process>> CompanyId: 0C0000070W, ShareClassId: 0P0000CF87, File:EUR\Fundamental\EarningReports\Delta\Delta_EarningReport.zip
+No diff
+Process Done
+
+Start Process>> CompanyId: 0C0000070W, ShareClassId: 0P0000CF87, File:EUR\Fundamental\EarningReports\Delta\Delta_EarningReportsRes.zip
+No diff
+Process Done
+
+Start Process>> CompanyId: 0C0000070W, ShareClassId: 0P0000CKD9, File:EUR\Fundamental\EarningRatios\Delta\Delta_EarningRatio.zip
+No diff
+Process Done
+
+Start Process>> CompanyId: 0C0000070W, ShareClassId: 0P0000CKD9, File:EUR\Fundamental\EarningRatios\Delta\Delta_EarningRatiosRes.zip
+No diff
+Process Done
+
+Start Process>> CompanyId: 0C0000070W, ShareClassId: 0P0000CKD9, File:EUR\Fundamental\EarningReports\Delta\Delta_EarningReport.zip
+No diff
+Process Done
+
+Start Process>> CompanyId: 0C0000070W, ShareClassId: 0P0000CKD9, File:EUR\Fundamental\EarningReports\Delta\Delta_EarningReportsRes.zip
+No diff
+Process Done
+
+Start Process>> CompanyId: 0C0000070W, ShareClassId: 0P0000EEXC, File:EUR\Fundamental\EarningRatios\Delta\Delta_EarningRatio.zip
+No diff
+Process Done
+
+Start Process>> CompanyId: 0C0000070W, ShareClassId: 0P0000EEXC, File:EUR\Fundamental\EarningRatios\Delta\Delta_EarningRatiosRes.zip
+No diff
+Process Done
+
+Start Process>> CompanyId: 0C0000070W, ShareClassId: 0P0000EEXC, File:EUR\Fundamental\EarningReports\Delta\Delta_EarningReport.zip
+No diff
+Process Done
+
+Start Process>> CompanyId: 0C0000070W, ShareClassId: 0P0000EEXC, File:EUR\Fundamental\EarningReports\Delta\Delta_EarningReportsRes.zip
+No diff
+Process Done
+
+Start Process>> CompanyId: 0C0000070W, ShareClassId: 0P0000F0BQ, File:EUR\Fundamental\EarningRatios\Delta\Delta_EarningRatio.zip
+No diff
+Process Done
+
+Start Process>> CompanyId: 0C0000070W, ShareClassId: 0P0000F0BQ, File:EUR\Fundamental\EarningRatios\Delta\Delta_EarningRatiosRes.zip
+No diff
+Process Done
+
+Start Process>> CompanyId: 0C0000070W, ShareClassId: 0P0000F0BQ, File:EUR\Fundamental\EarningReports\Delta\Delta_EarningReport.zip
+No diff
+Process Done
+
+Start Process>> CompanyId: 0C0000070W, ShareClassId: 0P0000F0BQ, File:EUR\Fundamental\EarningReports\Delta\Delta_EarningReportsRes.zip
+No diff
+Process Done
+
+Start Process>> CompanyId: 0C0000070W, ShareClassId: 0P0000JE1T, File:AFR\Fundamental\EarningRatios\Delta\Delta_EarningRatio.zip
+No diff
+Process Done
+
+Start Process>> CompanyId: 0C0000070W, ShareClassId: 0P0000JE1T, File:AFR\Fundamental\EarningRatios\Delta\Delta_EarningRatiosRes.zip
+No diff
+Process Done
+
+Start Process>> CompanyId: 0C0000070W, ShareClassId: 0P0000JE1T, File:AFR\Fundamental\EarningReports\Delta\Delta_EarningReport.zip
+No diff
+Process Done
+
+Start Process>> CompanyId: 0C0000070W, ShareClassId: 0P0000JE1T, File:AFR\Fundamental\EarningReports\Delta\Delta_EarningReportsRes.zip
+No diff
+Process Done
+
+Start Process>> CompanyId: 0C0000070W, ShareClassId: 0P0000T5D6, File:EUR\Fundamental\EarningRatios\Delta\Delta_EarningRatio.zip
+Can't find 0C0000070W|0P0000T5D6 in z:\DEV\PT2.0-GEDF-20180324\EUR_Monthly_EarningRatiosAOR_2018-2.zip
+Can't find 0C0000070W|0P0000T5D6 in z:\EUR\Fundamental\EarningRatios\Delta\Delta_EarningRatiosAOR_2018-04-02.zip
+
+Process Done
+
+Start Process>> CompanyId: 0C0000070W, ShareClassId: 0P0000T5D6, File:EUR\Fundamental\EarningRatios\Delta\Delta_EarningRatiosRes.zip
+Can't find 0C0000070W|0P0000T5D6 in z:\DEV\PT2.0-GEDF-20180324\EUR_Monthly_EarningRatiosRestate_2018-2.zip
+Can't find 0C0000070W|0P0000T5D6 in z:\EUR\Fundamental\EarningRatios\Delta\Delta_EarningRatiosRestate_2018-04-02.zip
+
+Process Done
+
+Start Process>> CompanyId: 0C0000070W, ShareClassId: 0P0000T5D6, File:EUR\Fundamental\EarningReports\Delta\Delta_EarningReport.zip
+Can't find 0C0000070W|0P0000T5D6 in z:\DEV\PT2.0-GEDF-20180324\EUR_Monthly_EarningReportsAOR_2018-2.zip
+Can't find 0C0000070W|0P0000T5D6 in z:\EUR\Fundamental\EarningReports\Delta\Delta_EarningReportsAOR_2018-04-02.zip
+
+Process Done
+
+Start Process>> CompanyId: 0C0000070W, ShareClassId: 0P0000T5D6, File:EUR\Fundamental\EarningReports\Delta\Delta_EarningReportsRes.zip
+Can't find 0C0000070W|0P0000T5D6 in z:\DEV\PT2.0-GEDF-20180324\EUR_Monthly_EarningReportsRestate_2018-2.zip
+Can't find 0C0000070W|0P0000T5D6 in z:\EUR\Fundamental\EarningReports\Delta\Delta_EarningReportsRestate_2018-04-02.zip
+
+Process Done
+
+Start Process>> CompanyId: 0C0000070W, ShareClassId: 0P0000T5D7, File:EUR\Fundamental\EarningRatios\Delta\Delta_EarningRatio.zip
+No diff
+Process Done
+
+Start Process>> CompanyId: 0C0000070W, ShareClassId: 0P0000T5D7, File:EUR\Fundamental\EarningRatios\Delta\Delta_EarningRatiosRes.zip
+No diff
+Process Done
+
+Start Process>> CompanyId: 0C0000070W, ShareClassId: 0P0000T5D7, File:EUR\Fundamental\EarningReports\Delta\Delta_EarningReport.zip
+No diff
+Process Done
+
+Start Process>> CompanyId: 0C0000070W, ShareClassId: 0P0000T5D7, File:EUR\Fundamental\EarningReports\Delta\Delta_EarningReportsRes.zip
+No diff
+Process Done
+
+Start Process>> CompanyId: 0C0000070W, ShareClassId: 0P000182SD, File:EUR\Fundamental\EarningRatios\Delta\Delta_EarningRatio.zip
+No diff
+Process Done
+
+Start Process>> CompanyId: 0C0000070W, ShareClassId: 0P000182SD, File:EUR\Fundamental\EarningRatios\Delta\Delta_EarningRatiosRes.zip
+No diff
+Process Done
+
+Start Process>> CompanyId: 0C0000070W, ShareClassId: 0P000182SD, File:EUR\Fundamental\EarningReports\Delta\Delta_EarningReport.zip
+No diff
+Process Done
+
+Start Process>> CompanyId: 0C0000070W, ShareClassId: 0P000182SD, File:EUR\Fundamental\EarningReports\Delta\Delta_EarningReportsRes.zip
+No diff
+Process Done
+
+Start Process>> CompanyId: 0C0000070X, ShareClassId: 0P000000VP, File:NRA\Fundamental\EarningRatios\Delta\Delta_EarningRatio.zip
+No diff
+Process Done
+
+Start Process>> CompanyId: 0C0000070X, ShareClassId: 0P000000VP, File:NRA\Fundamental\EarningRatios\Delta\Delta_EarningRatiosRes.zip
+No diff
+Process Done
+
+Start Process>> CompanyId: 0C0000070X, ShareClassId: 0P000000VP, File:NRA\Fundamental\EarningReports\Delta\Delta_EarningReport.zip
+No diff
+Process Done
+
+Start Process>> CompanyId: 0C0000070X, ShareClassId: 0P000000VP, File:NRA\Fundamental\EarningReports\Delta\Delta_EarningReportsRes.zip
+No diff
+Process Done
+
+Start Process>> CompanyId: 0C0000070X, ShareClassId: 0P00007O1Q, File:UKI\Fundamental\EarningRatios\Delta\Delta_EarningRatio.zip
+No diff
+Process Done
+
+Start Process>> CompanyId: 0C0000070X, ShareClassId: 0P00007O1Q, File:UKI\Fundamental\EarningRatios\Delta\Delta_EarningRatiosRes.zip
+No diff
+Process Done
+
+Start Process>> CompanyId: 0C0000070X, ShareClassId: 0P00007O1Q, File:UKI\Fundamental\EarningReports\Delta\Delta_EarningReport.zip
+No diff
+Process Done
+
+Start Process>> CompanyId: 0C0000070X, ShareClassId: 0P00007O1Q, File:UKI\Fundamental\EarningReports\Delta\Delta_EarningReportsRes.zip
+No diff
+Process Done
+
+Start Process>> CompanyId: 0C0000070X, ShareClassId: 0P0000APBU, File:NRA\Fundamental\EarningRatios\Delta\Delta_EarningRatio.zip
+No diff
+Process Done
+
+Start Process>> CompanyId: 0C0000070X, ShareClassId: 0P0000APBU, File:NRA\Fundamental\EarningRatios\Delta\Delta_EarningRatiosRes.zip
+No diff
+Process Done
+
+Start Process>> CompanyId: 0C0000070X, ShareClassId: 0P0000APBU, File:NRA\Fundamental\EarningReports\Delta\Delta_EarningReport.zip
+No diff
+Process Done
+
+Start Process>> CompanyId: 0C0000070X, ShareClassId: 0P0000APBU, File:NRA\Fundamental\EarningReports\Delta\Delta_EarningReportsRes.zip
+No diff
+Process Done
+
+Start Process>> CompanyId: 0C0000070X, ShareClassId: 0P0000B5EL, File:EUR\Fundamental\EarningRatios\Delta\Delta_EarningRatio.zip
+Can't find 0C0000070X|0P0000B5EL in z:\DEV\PT2.0-GEDF-20180324\EUR_Monthly_EarningRatiosAOR_2018-2.zip
+Can't find 0C0000070X|0P0000B5EL in z:\EUR\Fundamental\EarningRatios\Delta\Delta_EarningRatiosAOR_2018-04-02.zip
+
+Process Done
+
+Start Process>> CompanyId: 0C0000070X, ShareClassId: 0P0000B5EL, File:EUR\Fundamental\EarningRatios\Delta\Delta_EarningRatiosRes.zip
+Can't find 0C0000070X|0P0000B5EL in z:\DEV\PT2.0-GEDF-20180324\EUR_Monthly_EarningRatiosRestate_2018-2.zip
+Can't find 0C0000070X|0P0000B5EL in z:\EUR\Fundamental\EarningRatios\Delta\Delta_EarningRatiosRestate_2018-04-02.zip
+
+Process Done
+
+Start Process>> CompanyId: 0C0000070X, ShareClassId: 0P0000B5EL, File:EUR\Fundamental\EarningReports\Delta\Delta_EarningReport.zip
+Can't find 0C0000070X|0P0000B5EL in z:\DEV\PT2.0-GEDF-20180324\EUR_Monthly_EarningReportsAOR_2018-2.zip
+Can't find 0C0000070X|0P0000B5EL in z:\EUR\Fundamental\EarningReports\Delta\Delta_EarningReportsAOR_2018-04-02.zip
+
+Process Done
+
+Start Process>> CompanyId: 0C0000070X, ShareClassId: 0P0000B5EL, File:EUR\Fundamental\EarningReports\Delta\Delta_EarningReportsRes.zip
+Can't find 0C0000070X|0P0000B5EL in z:\DEV\PT2.0-GEDF-20180324\EUR_Monthly_EarningReportsRestate_2018-2.zip
+Can't find 0C0000070X|0P0000B5EL in z:\EUR\Fundamental\EarningReports\Delta\Delta_EarningReportsRestate_2018-04-02.zip
+
+Process Done
+
+Start Process>> CompanyId: 0C0000070X, ShareClassId: 0P0000BHTH, File:EUR\Fundamental\EarningRatios\Delta\Delta_EarningRatio.zip
+No diff
+Process Done
+
+Start Process>> CompanyId: 0C0000070X, ShareClassId: 0P0000BHTH, File:EUR\Fundamental\EarningRatios\Delta\Delta_EarningRatiosRes.zip
+No diff
+Process Done
+
+Start Process>> CompanyId: 0C0000070X, ShareClassId: 0P0000BHTH, File:EUR\Fundamental\EarningReports\Delta\Delta_EarningReport.zip
+No diff
+Process Done
+
+Start Process>> CompanyId: 0C0000070X, ShareClassId: 0P0000BHTH, File:EUR\Fundamental\EarningReports\Delta\Delta_EarningReportsRes.zip
+No diff
+Process Done
+
+Start Process>> CompanyId: 0C0000070X, ShareClassId: 0P0000CMJ4, File:EUR\Fundamental\EarningRatios\Delta\Delta_EarningRatio.zip
+No diff
+Process Done
+
+Start Process>> CompanyId: 0C0000070X, ShareClassId: 0P0000CMJ4, File:EUR\Fundamental\EarningRatios\Delta\Delta_EarningRatiosRes.zip
+No diff
+Process Done
+
+Start Process>> CompanyId: 0C0000070X, ShareClassId: 0P0000CMJ4, File:EUR\Fundamental\EarningReports\Delta\Delta_EarningReport.zip
+No diff
+Process Done
+
+Start Process>> CompanyId: 0C0000070X, ShareClassId: 0P0000CMJ4, File:EUR\Fundamental\EarningReports\Delta\Delta_EarningReportsRes.zip
+No diff
+Process Done
+
+Start Process>> CompanyId: 0C0000070X, ShareClassId: 0P0000CN0Z, File:EUR\Fundamental\EarningRatios\Delta\Delta_EarningRatio.zip
+No diff
+Process Done
+
+Start Process>> CompanyId: 0C0000070X, ShareClassId: 0P0000CN0Z, File:EUR\Fundamental\EarningRatios\Delta\Delta_EarningRatiosRes.zip
+No diff
+Process Done
+
+Start Process>> CompanyId: 0C0000070X, ShareClassId: 0P0000CN0Z, File:EUR\Fundamental\EarningReports\Delta\Delta_EarningReport.zip
+No diff
+Process Done
+
+Start Process>> CompanyId: 0C0000070X, ShareClassId: 0P0000CN0Z, File:EUR\Fundamental\EarningReports\Delta\Delta_EarningReportsRes.zip
+No diff
+Process Done
+
+Start Process>> CompanyId: 0C0000070X, ShareClassId: 0P0000E853, File:EUR\Fundamental\EarningRatios\Delta\Delta_EarningRatio.zip
+No diff
+Process Done
+
+Start Process>> CompanyId: 0C0000070X, ShareClassId: 0P0000E853, File:EUR\Fundamental\EarningRatios\Delta\Delta_EarningRatiosRes.zip
+No diff
+Process Done
+
+Start Process>> CompanyId: 0C0000070X, ShareClassId: 0P0000E853, File:EUR\Fundamental\EarningReports\Delta\Delta_EarningReport.zip
+No diff
+Process Done
+
+Start Process>> CompanyId: 0C0000070X, ShareClassId: 0P0000E853, File:EUR\Fundamental\EarningReports\Delta\Delta_EarningReportsRes.zip
+No diff
+Process Done
+
+Start Process>> CompanyId: 0C0000070X, ShareClassId: 0P0000PPYV, File:EUR\Fundamental\EarningRatios\Delta\Delta_EarningRatio.zip
+No diff
+Process Done
+
+Start Process>> CompanyId: 0C0000070X, ShareClassId: 0P0000PPYV, File:EUR\Fundamental\EarningRatios\Delta\Delta_EarningRatiosRes.zip
+No diff
+Process Done
+
+Start Process>> CompanyId: 0C0000070X, ShareClassId: 0P0000PPYV, File:EUR\Fundamental\EarningReports\Delta\Delta_EarningReport.zip
+No diff
+Process Done
+
+Start Process>> CompanyId: 0C0000070X, ShareClassId: 0P0000PPYV, File:EUR\Fundamental\EarningReports\Delta\Delta_EarningReportsRes.zip
+No diff
+Process Done
+
+Start Process>> CompanyId: 0C0000070X, ShareClassId: 0P00011UH9, File:LTA\Fundamental\EarningRatios\Delta\Delta_EarningRatio.zip
+No diff
+Process Done
+
+Start Process>> CompanyId: 0C0000070X, ShareClassId: 0P00011UH9, File:LTA\Fundamental\EarningRatios\Delta\Delta_EarningRatiosRes.zip
+No diff
+Process Done
+
+Start Process>> CompanyId: 0C0000070X, ShareClassId: 0P00011UH9, File:LTA\Fundamental\EarningReports\Delta\Delta_EarningReport.zip
+No diff
+Process Done
+
+Start Process>> CompanyId: 0C0000070X, ShareClassId: 0P00011UH9, File:LTA\Fundamental\EarningReports\Delta\Delta_EarningReportsRes.zip
+No diff
+Process Done
+
+Start Process>> CompanyId: 0C0000070X, ShareClassId: 0P00011X4B, File:EUR\Fundamental\EarningRatios\Delta\Delta_EarningRatio.zip
+No diff
+Process Done
+
+Start Process>> CompanyId: 0C0000070X, ShareClassId: 0P00011X4B, File:EUR\Fundamental\EarningRatios\Delta\Delta_EarningRatiosRes.zip
+No diff
+Process Done
+
+Start Process>> CompanyId: 0C0000070X, ShareClassId: 0P00011X4B, File:EUR\Fundamental\EarningReports\Delta\Delta_EarningReport.zip
+No diff
+Process Done
+
+Start Process>> CompanyId: 0C0000070X, ShareClassId: 0P00011X4B, File:EUR\Fundamental\EarningReports\Delta\Delta_EarningReportsRes.zip
+No diff
+Process Done
+
+Start Process>> CompanyId: 0C0000070X, ShareClassId: 0P000182SK, File:EUR\Fundamental\EarningRatios\Delta\Delta_EarningRatio.zip
+No diff
+Process Done
+
+Start Process>> CompanyId: 0C0000070X, ShareClassId: 0P000182SK, File:EUR\Fundamental\EarningRatios\Delta\Delta_EarningRatiosRes.zip
+No diff
+Process Done
+
+Start Process>> CompanyId: 0C0000070X, ShareClassId: 0P000182SK, File:EUR\Fundamental\EarningReports\Delta\Delta_EarningReport.zip
+No diff
+Process Done
+
+Start Process>> CompanyId: 0C0000070X, ShareClassId: 0P000182SK, File:EUR\Fundamental\EarningReports\Delta\Delta_EarningReportsRes.zip
+No diff
+Process Done
+
+Start Process>> CompanyId: 0C000007BU, ShareClassId: 0P0000018G, File:NRA\Fundamental\EarningRatios\Delta\Delta_EarningRatio.zip
+Have diff
+Process Done
+
+Start Process>> CompanyId: 0C000007BU, ShareClassId: 0P0000018G, File:NRA\Fundamental\EarningRatios\Delta\Delta_EarningRatiosRes.zip
+Have diff
+Process Done
+
+Start Process>> CompanyId: 0C000007BU, ShareClassId: 0P0000018G, File:NRA\Fundamental\EarningReports\Delta\Delta_EarningReport.zip
+Have diff
+Process Done
+
+Start Process>> CompanyId: 0C000007BU, ShareClassId: 0P0000018G, File:NRA\Fundamental\EarningReports\Delta\Delta_EarningReportsRes.zip
+Have diff
+Process Done
+
+Start Process>> CompanyId: 0C000007BU, ShareClassId: 0P00007X1T, File:ASP\Fundamental\EarningRatios\Delta\Delta_EarningRatio.zip
+Have diff
+Process Done
+
+Start Process>> CompanyId: 0C000007BU, ShareClassId: 0P00007X1T, File:ASP\Fundamental\EarningRatios\Delta\Delta_EarningRatiosRes.zip
+Have diff
+Process Done
+
+Start Process>> CompanyId: 0C000007BU, ShareClassId: 0P00007X1T, File:ASP\Fundamental\EarningReports\Delta\Delta_EarningReport.zip
+Have diff
+Process Done
+
+Start Process>> CompanyId: 0C000007BU, ShareClassId: 0P00007X1T, File:ASP\Fundamental\EarningReports\Delta\Delta_EarningReportsRes.zip
+Have diff
+Process Done
+
+Start Process>> CompanyId: 0C000007BU, ShareClassId: 0P00009S1E, File:ASP\Fundamental\EarningRatios\Delta\Delta_EarningRatio.zip
+Have diff
+Process Done
+
+Start Process>> CompanyId: 0C000007BU, ShareClassId: 0P00009S1E, File:ASP\Fundamental\EarningRatios\Delta\Delta_EarningRatiosRes.zip
+Have diff
+Process Done
+
+Start Process>> CompanyId: 0C000007BU, ShareClassId: 0P00009S1E, File:ASP\Fundamental\EarningReports\Delta\Delta_EarningReport.zip
+Have diff
+Process Done
+
+Start Process>> CompanyId: 0C000007BU, ShareClassId: 0P00009S1E, File:ASP\Fundamental\EarningReports\Delta\Delta_EarningReportsRes.zip
+Have diff
+Process Done
+
+Start Process>> CompanyId: 0C000007BU, ShareClassId: 0P0000AP7F, File:EUR\Fundamental\EarningRatios\Delta\Delta_EarningRatio.zip
+Have diff
+Process Done
+
+Start Process>> CompanyId: 0C000007BU, ShareClassId: 0P0000AP7F, File:EUR\Fundamental\EarningRatios\Delta\Delta_EarningRatiosRes.zip
+Have diff
+Process Done
+
+Start Process>> CompanyId: 0C000007BU, ShareClassId: 0P0000AP7F, File:EUR\Fundamental\EarningReports\Delta\Delta_EarningReport.zip
+Have diff
+Process Done
+
+Start Process>> CompanyId: 0C000007BU, ShareClassId: 0P0000AP7F, File:EUR\Fundamental\EarningReports\Delta\Delta_EarningReportsRes.zip
+Have diff
+Process Done
+
+Start Process>> CompanyId: 0C000007BU, ShareClassId: 0P0000B2TZ, File:EUR\Fundamental\EarningRatios\Delta\Delta_EarningRatio.zip
+Can't find 0C000007BU|0P0000B2TZ in z:\DEV\PT2.0-GEDF-20180324\EUR_Monthly_EarningRatiosAOR_2018-2.zip
+Can't find 0C000007BU|0P0000B2TZ in z:\EUR\Fundamental\EarningRatios\Delta\Delta_EarningRatiosAOR_2018-04-02.zip
+
+Process Done
+
+Start Process>> CompanyId: 0C000007BU, ShareClassId: 0P0000B2TZ, File:EUR\Fundamental\EarningRatios\Delta\Delta_EarningRatiosRes.zip
+Can't find 0C000007BU|0P0000B2TZ in z:\DEV\PT2.0-GEDF-20180324\EUR_Monthly_EarningRatiosRestate_2018-2.zip
+Can't find 0C000007BU|0P0000B2TZ in z:\EUR\Fundamental\EarningRatios\Delta\Delta_EarningRatiosRestate_2018-04-02.zip
+
+Process Done
+
+Start Process>> CompanyId: 0C000007BU, ShareClassId: 0P0000B2TZ, File:EUR\Fundamental\EarningReports\Delta\Delta_EarningReport.zip
+Can't find 0C000007BU|0P0000B2TZ in z:\DEV\PT2.0-GEDF-20180324\EUR_Monthly_EarningReportsAOR_2018-2.zip
+Can't find 0C000007BU|0P0000B2TZ in z:\EUR\Fundamental\EarningReports\Delta\Delta_EarningReportsAOR_2018-04-02.zip
+
+Process Done
+
+Start Process>> CompanyId: 0C000007BU, ShareClassId: 0P0000B2TZ, File:EUR\Fundamental\EarningReports\Delta\Delta_EarningReportsRes.zip
+Can't find 0C000007BU|0P0000B2TZ in z:\DEV\PT2.0-GEDF-20180324\EUR_Monthly_EarningReportsRestate_2018-2.zip
+Can't find 0C000007BU|0P0000B2TZ in z:\EUR\Fundamental\EarningReports\Delta\Delta_EarningReportsRestate_2018-04-02.zip
+
+Process Done
+
+Start Process>> CompanyId: 0C000007BU, ShareClassId: 0P0000BOXN, File:EUR\Fundamental\EarningRatios\Delta\Delta_EarningRatio.zip
+Have diff
+Process Done
+
+Start Process>> CompanyId: 0C000007BU, ShareClassId: 0P0000BOXN, File:EUR\Fundamental\EarningRatios\Delta\Delta_EarningRatiosRes.zip
+Have diff
+Process Done
+
+Start Process>> CompanyId: 0C000007BU, ShareClassId: 0P0000BOXN, File:EUR\Fundamental\EarningReports\Delta\Delta_EarningReport.zip
+Have diff
+Process Done
+
+Start Process>> CompanyId: 0C000007BU, ShareClassId: 0P0000BOXN, File:EUR\Fundamental\EarningReports\Delta\Delta_EarningReportsRes.zip
+Have diff
+Process Done
+
+Start Process>> CompanyId: 0C000007BU, ShareClassId: 0P0000BPFU, File:EUR\Fundamental\EarningRatios\Delta\Delta_EarningRatio.zip
+Have diff
+Process Done
+
+Start Process>> CompanyId: 0C000007BU, ShareClassId: 0P0000BPFU, File:EUR\Fundamental\EarningRatios\Delta\Delta_EarningRatiosRes.zip
+Have diff
+Process Done
+
+Start Process>> CompanyId: 0C000007BU, ShareClassId: 0P0000BPFU, File:EUR\Fundamental\EarningReports\Delta\Delta_EarningReport.zip
+Have diff
+Process Done
+
+Start Process>> CompanyId: 0C000007BU, ShareClassId: 0P0000BPFU, File:EUR\Fundamental\EarningReports\Delta\Delta_EarningReportsRes.zip
+Have diff
+Process Done
+
+Start Process>> CompanyId: 0C000007BU, ShareClassId: 0P0000BUGC, File:EUR\Fundamental\EarningRatios\Delta\Delta_EarningRatio.zip
+Have diff
+Process Done
+
+Start Process>> CompanyId: 0C000007BU, ShareClassId: 0P0000BUGC, File:EUR\Fundamental\EarningRatios\Delta\Delta_EarningRatiosRes.zip
+Have diff
+Process Done
+
+Start Process>> CompanyId: 0C000007BU, ShareClassId: 0P0000BUGC, File:EUR\Fundamental\EarningReports\Delta\Delta_EarningReport.zip
+Have diff
+Process Done
+
+Start Process>> CompanyId: 0C000007BU, ShareClassId: 0P0000BUGC, File:EUR\Fundamental\EarningReports\Delta\Delta_EarningReportsRes.zip
+Have diff
+Process Done
+
+Start Process>> CompanyId: 0C000007BU, ShareClassId: 0P0000C00N, File:NRA\Fundamental\EarningRatios\Delta\Delta_EarningRatio.zip
+Have diff
+Process Done
+
+Start Process>> CompanyId: 0C000007BU, ShareClassId: 0P0000C00N, File:NRA\Fundamental\EarningRatios\Delta\Delta_EarningRatiosRes.zip
+Have diff
+Process Done
+
+Start Process>> CompanyId: 0C000007BU, ShareClassId: 0P0000C00N, File:NRA\Fundamental\EarningReports\Delta\Delta_EarningReport.zip
+Have diff
+Process Done
+
+Start Process>> CompanyId: 0C000007BU, ShareClassId: 0P0000C00N, File:NRA\Fundamental\EarningReports\Delta\Delta_EarningReportsRes.zip
+Have diff
+Process Done
+
+Start Process>> CompanyId: 0C000007BU, ShareClassId: 0P0000CAF1, File:EUR\Fundamental\EarningRatios\Delta\Delta_EarningRatio.zip
+Can't find 0C000007BU|0P0000CAF1 in z:\DEV\PT2.0-GEDF-20180324\EUR_Monthly_EarningRatiosAOR_2018-2.zip
+Can't find 0C000007BU|0P0000CAF1 in z:\EUR\Fundamental\EarningRatios\Delta\Delta_EarningRatiosAOR_2018-04-02.zip
+
+Process Done
+
+Start Process>> CompanyId: 0C000007BU, ShareClassId: 0P0000CAF1, File:EUR\Fundamental\EarningRatios\Delta\Delta_EarningRatiosRes.zip
+Can't find 0C000007BU|0P0000CAF1 in z:\DEV\PT2.0-GEDF-20180324\EUR_Monthly_EarningRatiosRestate_2018-2.zip
+Can't find 0C000007BU|0P0000CAF1 in z:\EUR\Fundamental\EarningRatios\Delta\Delta_EarningRatiosRestate_2018-04-02.zip
+
+Process Done
+
+Start Process>> CompanyId: 0C000007BU, ShareClassId: 0P0000CAF1, File:EUR\Fundamental\EarningReports\Delta\Delta_EarningReport.zip
+Can't find 0C000007BU|0P0000CAF1 in z:\DEV\PT2.0-GEDF-20180324\EUR_Monthly_EarningReportsAOR_2018-2.zip
+Can't find 0C000007BU|0P0000CAF1 in z:\EUR\Fundamental\EarningReports\Delta\Delta_EarningReportsAOR_2018-04-02.zip
+
+Process Done
+
+Start Process>> CompanyId: 0C000007BU, ShareClassId: 0P0000CAF1, File:EUR\Fundamental\EarningReports\Delta\Delta_EarningReportsRes.zip
+Can't find 0C000007BU|0P0000CAF1 in z:\DEV\PT2.0-GEDF-20180324\EUR_Monthly_EarningReportsRestate_2018-2.zip
+Can't find 0C000007BU|0P0000CAF1 in z:\EUR\Fundamental\EarningReports\Delta\Delta_EarningReportsRestate_2018-04-02.zip
+
+Process Done
+
+Start Process>> CompanyId: 0C000007BU, ShareClassId: 0P0000EADV, File:EUR\Fundamental\EarningRatios\Delta\Delta_EarningRatio.zip
+Have diff
+Process Done
+
+Start Process>> CompanyId: 0C000007BU, ShareClassId: 0P0000EADV, File:EUR\Fundamental\EarningRatios\Delta\Delta_EarningRatiosRes.zip
+Have diff
+Process Done
+
+Start Process>> CompanyId: 0C000007BU, ShareClassId: 0P0000EADV, File:EUR\Fundamental\EarningReports\Delta\Delta_EarningReport.zip
+Have diff
+Process Done
+
+Start Process>> CompanyId: 0C000007BU, ShareClassId: 0P0000EADV, File:EUR\Fundamental\EarningReports\Delta\Delta_EarningReportsRes.zip
+Have diff
+Process Done
+
+Start Process>> CompanyId: 0C000007BU, ShareClassId: 0P0000EPGM, File:EUR\Fundamental\EarningRatios\Delta\Delta_EarningRatio.zip
+Have diff
+Process Done
+
+Start Process>> CompanyId: 0C000007BU, ShareClassId: 0P0000EPGM, File:EUR\Fundamental\EarningRatios\Delta\Delta_EarningRatiosRes.zip
+Have diff
+Process Done
+
+Start Process>> CompanyId: 0C000007BU, ShareClassId: 0P0000EPGM, File:EUR\Fundamental\EarningReports\Delta\Delta_EarningReport.zip
+Have diff
+Process Done
+
+Start Process>> CompanyId: 0C000007BU, ShareClassId: 0P0000EPGM, File:EUR\Fundamental\EarningReports\Delta\Delta_EarningReportsRes.zip
+Have diff
+Process Done
+
+Start Process>> CompanyId: 0C000007BU, ShareClassId: 0P0000HGUB, File:EUR\Fundamental\EarningRatios\Delta\Delta_EarningRatio.zip
+Have diff
+Process Done
+
+Start Process>> CompanyId: 0C000007BU, ShareClassId: 0P0000HGUB, File:EUR\Fundamental\EarningRatios\Delta\Delta_EarningRatiosRes.zip
+Have diff
+Process Done
+
+Start Process>> CompanyId: 0C000007BU, ShareClassId: 0P0000HGUB, File:EUR\Fundamental\EarningReports\Delta\Delta_EarningReport.zip
+Have diff
+Process Done
+
+Start Process>> CompanyId: 0C000007BU, ShareClassId: 0P0000HGUB, File:EUR\Fundamental\EarningReports\Delta\Delta_EarningReportsRes.zip
+Have diff
+Process Done
+
+Start Process>> CompanyId: 0C000007BU, ShareClassId: 0P0000Q67S, File:ASP\Fundamental\EarningRatios\Delta\Delta_EarningRatio.zip
+Have diff
+Process Done
+
+Start Process>> CompanyId: 0C000007BU, ShareClassId: 0P0000Q67S, File:ASP\Fundamental\EarningRatios\Delta\Delta_EarningRatiosRes.zip
+Have diff
+Process Done
+
+Start Process>> CompanyId: 0C000007BU, ShareClassId: 0P0000Q67S, File:ASP\Fundamental\EarningReports\Delta\Delta_EarningReport.zip
+Have diff
+Process Done
+
+Start Process>> CompanyId: 0C000007BU, ShareClassId: 0P0000Q67S, File:ASP\Fundamental\EarningReports\Delta\Delta_EarningReportsRes.zip
+Have diff
+Process Done
+
+Start Process>> CompanyId: 0C000007BZ, ShareClassId: 0P0000018L, File:NRA\Fundamental\EarningRatios\Delta\Delta_EarningRatio.zip
+Have diff
+Process Done
+
+Start Process>> CompanyId: 0C000007BZ, ShareClassId: 0P0000018L, File:NRA\Fundamental\EarningRatios\Delta\Delta_EarningRatiosRes.zip
+Have diff
+Process Done
+
+Start Process>> CompanyId: 0C000007BZ, ShareClassId: 0P0000018L, File:NRA\Fundamental\EarningReports\Delta\Delta_EarningReport.zip
+Have diff
+Process Done
+
+Start Process>> CompanyId: 0C000007BZ, ShareClassId: 0P0000018L, File:NRA\Fundamental\EarningReports\Delta\Delta_EarningReportsRes.zip
+Have diff
+Process Done
+
+Start Process>> CompanyId: 0C000007BZ, ShareClassId: 0P00009G1S, File:ASP\Fundamental\EarningRatios\Delta\Delta_EarningRatio.zip
+Have diff
+Process Done
+
+Start Process>> CompanyId: 0C000007BZ, ShareClassId: 0P00009G1S, File:ASP\Fundamental\EarningRatios\Delta\Delta_EarningRatiosRes.zip
+Have diff
+Process Done
+
+Start Process>> CompanyId: 0C000007BZ, ShareClassId: 0P00009G1S, File:ASP\Fundamental\EarningReports\Delta\Delta_EarningReport.zip
+Have diff
+Process Done
+
+Start Process>> CompanyId: 0C000007BZ, ShareClassId: 0P00009G1S, File:ASP\Fundamental\EarningReports\Delta\Delta_EarningReportsRes.zip
+Have diff
+Process Done
+
+Start Process>> CompanyId: 0C000007BZ, ShareClassId: 0P00009S91, File:ASP\Fundamental\EarningRatios\Delta\Delta_EarningRatio.zip
+Have diff
+Process Done
+
+Start Process>> CompanyId: 0C000007BZ, ShareClassId: 0P00009S91, File:ASP\Fundamental\EarningRatios\Delta\Delta_EarningRatiosRes.zip
+Have diff
+Process Done
+
+Start Process>> CompanyId: 0C000007BZ, ShareClassId: 0P00009S91, File:ASP\Fundamental\EarningReports\Delta\Delta_EarningReport.zip

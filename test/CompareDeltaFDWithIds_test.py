@@ -25,25 +25,25 @@ class CompareFile:
         self.dev_path = "z:\DEV\PT2.0-GEDF-20180324"
         self.live_path = "z:\\" # z:\\
         self.file_name_companyId = [
-            # '@Region@\Fundamental\FinancialStatements\Delta\Delta_FinancialStatementsAOR_@Date@.zip',
-            # '@Region@\Fundamental\FinancialStatements\Delta\Delta_FinancialStatementsRestate_@Date@.zip'
-            # '@Region@\Fundamental\OperationRatios\Delta\Delta_OperationRatiosAOR_@Date@.zip',
-            # '@Region@\Fundamental\OperationRatios\Delta\Delta_OperationRatiosRestate_@Date@.zip'
+            '@Region@\Fundamental\FinancialStatements\Delta\Delta_FinancialStatementsAOR_@Date@.zip',
+            '@Region@\Fundamental\FinancialStatements\Delta\Delta_FinancialStatementsRestate_@Date@.zip',
+            '@Region@\Fundamental\OperationRatios\Delta\Delta_OperationRatiosAOR_@Date@.zip'
+            '@Region@\Fundamental\OperationRatios\Delta\Delta_OperationRatiosRestate_@Date@.zip'
         ]
 
         self.file_name_shareClassId = [
-            # '@Region@\Fundamental\EarningRatios\Delta\Delta_EarningRatiosAOR_@Date@.zip',
-            # '@Region@\Fundamental\EarningRatios\Delta\Delta_EarningRatiosRestate_@Date@.zip',
-            # '@Region@\Fundamental\EarningReports\Delta\Delta_EarningReportsAOR_@Date@.zip',
+            '@Region@\Fundamental\EarningRatios\Delta\Delta_EarningRatiosAOR_@Date@.zip',
+            '@Region@\Fundamental\EarningRatios\Delta\Delta_EarningRatiosRestate_@Date@.zip',
+            '@Region@\Fundamental\EarningReports\Delta\Delta_EarningReportsAOR_@Date@.zip',
             '@Region@\Fundamental\EarningReports\Delta\Delta_EarningReportsRestate_@Date@.zip'
         ]
         self.dev_date = '2018-2'
         self.live_date = '2018-04-02' # 2018-04-02
         self.log_file = "../log/compare_delta_log.txt"
         # self.log_file_companyId = "../log/compare_delta_log_companyId.txt"
-        self.result_file_path_companyId = "D:\QA\GEDF\GeDataFed-0402_3\CompanyId\@CompanyId@_@File@_@Region@"
+        self.result_file_path_companyId = "D:\QA\GEDF\GeDataFed-test\CompanyId_test\@CompanyId@_@File@_@Region@"
         # self.log_file_shareClassId = "../log/compare_delta_log_shareClassId.txt"
-        self.result_file_path_shareClassId = "D:\QA\GEDF\GeDataFed-0402_3\ShareClassId\@CompanyId@_@ShareClassId@_@File@_@Region@"
+        self.result_file_path_shareClassId = "D:\QA\GEDF\GeDataFed-test\ShareClassId_test\@CompanyId@_@ShareClassId@_@File@_@Region@"
     
     def set_log_file(self, log_file):
         self.log_file = log_file
@@ -67,8 +67,8 @@ class CompareFile:
 
                 dev_file_path = os.path.join(self.dev_path, self.get_monthly_file_name(fname, region, self.dev_date))
                 live_file_path = os.path.join(self.live_path, self.get_file_name(fname, region, self.live_date))
-                data_0324 = self.get_data_from_zip(file=dev_file_path, id=companyId, file_name=fname)
-                data_0402 = self.get_data_from_zip(file=live_file_path, id=companyId, file_name=fname)
+                data_0324 = self.get_data_from_zip(file=dev_file_path, id=companyId)
+                data_0402 = self.get_data_from_zip(file=live_file_path, id=companyId)
 
                 if (not data_0324) and (not data_0402):  # 两个都为空
                     self.write_log(data="Both File Can't find {%s in %s} and {%s in %s}\r\n"
@@ -100,8 +100,8 @@ class CompareFile:
 
                 dev_file_path = os.path.join(self.dev_path, self.get_monthly_file_name(fname, region, self.dev_date))
                 live_file_path = os.path.join(self.live_path, self.get_file_name(fname, region, self.live_date))
-                data_0324 = self.get_data_from_zip(file=dev_file_path, id=shareclassId, file_name=fname)
-                data_0402 = self.get_data_from_zip(file=live_file_path, id=shareclassId, file_name=fname)
+                data_0324 = self.get_data_from_zip(file=dev_file_path, id=shareclassId)
+                data_0402 = self.get_data_from_zip(file=live_file_path, id=shareclassId)
 
                 if (not data_0324) and (not data_0402):  # 两个都为空
                     self.write_log(data="Can't find %s|%s in %s\r\nCan't find %s|%s in %s\r\n"
@@ -210,9 +210,11 @@ class CompareFile:
         self.write_log("Have diff")
         if not os.path.exists(path):
             os.makedirs(path)  # 创建级联目录
+
         with codecs.open(data1_result_file, 'w', 'utf-8') as fnl:
             for line in self.order_list(data1):
                 fnl.write(str(line) + "\r\n")
+
         with codecs.open(data2_result_file, 'w', 'utf-8') as fnd:
             for line in self.order_list(data2):
                 fnd.write(str(line) + "\r\n")
@@ -224,11 +226,10 @@ class CompareFile:
 
     def cmp(self, key):
         values = key.split("|")
-        cs = str(values[0] + values[1] + str(values[3:]))
-        return cs
+        return str(values[0]+values[1]+str(values[3:]))
 
     # 读取压缩包里面的文件具体CompanyId的文件
-    def get_data_from_zip(self, file_name, file, id):
+    def get_data_from_zip(self, file, id):
         if not os.path.exists(file):
             print('zip file not found: ' + file.replace("z:", self.z_path))
             self.write_log("zip file not found: " + file.replace("z:", self.z_path))
@@ -238,48 +239,7 @@ class CompareFile:
         for filename in zfile.namelist():
             if id in filename:
                 data += str(zfile.read(filename), 'utf-8')
-
-        if "EarningReportsAOR" in file_name:
-            return "".join(self.process_line(list(self.get_data_set(data))))
-        if "EarningReportsRestate" in file_name:
-            return "".join(self.process_line(list(self.get_data_set(data))))
-        if "EarningRatiosAOR" in file_name:
-            return "".join(self.process_line2(list(self.get_data_set(data))))
-        if "EarningRatiosRestate" in file_name:
-            return "".join(self.process_line2(list(self.get_data_set(data))))
-        if "FinancialStatementsAOR" in file_name:
-            return "".join(self.process_line(list(self.get_data_set(data))))
-        if "FinancialStatementsRestate" in file_name:
-            return "".join(self.process_line(list(self.get_data_set(data))))
-        if "OperationRatiosAOR" in file_name:
-            return "".join(self.process_line2(list(self.get_data_set(data))))
-        if "OperationRatiosRestate" in file_name:
-            return "".join(self.process_line2(list(self.get_data_set(data))))
         return data
-
-    # 再选出结果的时候就过滤
-    def filter_list(self, line):
-        return "20001" in line
-
-    # fianancial statement 和earningreport只选择20001
-    def process_line(self, lines):
-        result_list = []
-        for line in lines:
-            if '20001' in line:
-                values = line.split("|")
-                cs = str(values[0] + "|" + values[1] + "|" + "|".join(values[3:])+"\r\n")
-                result_list.append(cs)
-        return result_list
-
-    # 因为有earning ratio 和operation ratio 需要额外的处理
-    def process_line2(self, lines):
-        result_list = []
-        for line in lines:
-            if line and line is not '':
-                values = line.split("|")
-                cs = str(values[0] + "|" + values[1] + "|" + "|".join(values[3:])+"\r\n")
-                result_list.append(cs)
-        return result_list
 
     def write_log(self, data):
         with codecs.open(self.log_file, 'a+', 'utf-8') as fnd:
@@ -317,11 +277,11 @@ class CompareFile:
 
 # 开始运行
 RC = CompareFile()
-company_log_file = "../log/compare_delta_log_companyId4.txt"
-shareClass_log_file = "../log/compare_delta_log_shareClassId_EPR.txt"
+company_log_file = "../log/compare_delta_log_companyId_test.txt"
+shareClass_log_file = "../log/compare_delta_log_shareClassId_test.txt"
 
-# RC.set_log_file(company_log_file)
-RC.set_log_file(shareClass_log_file)
+RC.set_log_file(company_log_file)
+# RC.set_log_file(shareClass_log_file)
 
 with codecs.open(RC.get_log_file(), 'w+', 'utf-8') as fnd: pass
 
@@ -330,5 +290,5 @@ RC.write_log("File's path is share folder\DEV\PT2.0-GEDF-20180324 which generate
 RC.write_log("File's path is share folder\ which generated at 04/02")
 RC.write_log("Share folder is \\\\morningstar.com\shares\GeDataFeed\GeDataFeed\n")
 
-# RC.start_compare_file_with_companyId("CompanyIds.txt")
-RC.start_compare_file_with_shareclassId("ShareClassIds.txt")
+RC.start_compare_file_with_companyId("CompanyIds_test.txt")
+# RC.start_compare_file_with_shareclassId("ShareClassIds.txt")

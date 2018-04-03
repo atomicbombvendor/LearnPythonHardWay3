@@ -1,0 +1,3093 @@
+Compare file that is generated at 03/24 with file generated at 04/02
+File's path is share folder\DEV\PT2.0-GEDF-20180324 which generated at 03/24
+File's path is share folder\ which generated at 04/02
+Share folder is \\morningstar.com\shares\GeDataFeed\GeDataFeed
+
+Start Process>> CompanyId: 0C000006U3, File:NRA\Fundamental\FinancialStatements\Delta\Delta_FinancialStatement.zip
+No diff
+Process Done
+
+Start Process>> CompanyId: 0C000006U3, File:NRA\Fundamental\FinancialStatements\Delta\Delta_FinancialStatementsRes.zip
+No diff
+Process Done
+
+Start Process>> CompanyId: 0C000006U3, File:NRA\Fundamental\OperationRatios\Delta\Delta_OperationRatio.zip
+Have diff
+Process Done
+
+Start Process>> CompanyId: 0C000006U3, File:NRA\Fundamental\OperationRatios\Delta\Delta_OperationRatiosRes.zip
+Have diff
+Process Done
+
+Start Process>> CompanyId: 0C000006UP, File:NRA\Fundamental\FinancialStatements\Delta\Delta_FinancialStatement.zip
+Have diff
+Process Done
+
+Start Process>> CompanyId: 0C000006UP, File:NRA\Fundamental\FinancialStatements\Delta\Delta_FinancialStatementsRes.zip
+Have diff
+Process Done
+
+Start Process>> CompanyId: 0C000006UP, File:NRA\Fundamental\OperationRatios\Delta\Delta_OperationRatio.zip
+Have diff
+Process Done
+
+Start Process>> CompanyId: 0C000006UP, File:NRA\Fundamental\OperationRatios\Delta\Delta_OperationRatiosRes.zip
+Have diff
+Process Done
+
+Start Process>> CompanyId: 0C000006UX, File:NRA\Fundamental\FinancialStatements\Delta\Delta_FinancialStatement.zip
+Have diff
+Process Done
+
+Start Process>> CompanyId: 0C000006UX, File:NRA\Fundamental\FinancialStatements\Delta\Delta_FinancialStatementsRes.zip
+Have diff
+Process Done
+
+Start Process>> CompanyId: 0C000006UX, File:NRA\Fundamental\OperationRatios\Delta\Delta_OperationRatio.zip
+Have diff
+Process Done
+
+Start Process>> CompanyId: 0C000006UX, File:NRA\Fundamental\OperationRatios\Delta\Delta_OperationRatiosRes.zip
+Have diff
+Process Done
+
+Start Process>> CompanyId: 0C0000070W, File:NRA\Fundamental\FinancialStatements\Delta\Delta_FinancialStatement.zip
+No diff
+Process Done
+
+Start Process>> CompanyId: 0C0000070W, File:NRA\Fundamental\FinancialStatements\Delta\Delta_FinancialStatementsRes.zip
+No diff
+Process Done
+
+Start Process>> CompanyId: 0C0000070W, File:NRA\Fundamental\OperationRatios\Delta\Delta_OperationRatio.zip
+Have diff
+Process Done
+
+Start Process>> CompanyId: 0C0000070W, File:NRA\Fundamental\OperationRatios\Delta\Delta_OperationRatiosRes.zip
+Have diff
+Process Done
+
+Start Process>> CompanyId: 0C0000070X, File:NRA\Fundamental\FinancialStatements\Delta\Delta_FinancialStatement.zip
+No diff
+Process Done
+
+Start Process>> CompanyId: 0C0000070X, File:NRA\Fundamental\FinancialStatements\Delta\Delta_FinancialStatementsRes.zip
+No diff
+Process Done
+
+Start Process>> CompanyId: 0C0000070X, File:NRA\Fundamental\OperationRatios\Delta\Delta_OperationRatio.zip
+Have diff
+Process Done
+
+Start Process>> CompanyId: 0C0000070X, File:NRA\Fundamental\OperationRatios\Delta\Delta_OperationRatiosRes.zip
+Have diff
+Process Done
+
+Start Process>> CompanyId: 0C000007BU, File:NRA\Fundamental\FinancialStatements\Delta\Delta_FinancialStatement.zip
+Have diff
+Process Done
+
+Start Process>> CompanyId: 0C000007BU, File:NRA\Fundamental\FinancialStatements\Delta\Delta_FinancialStatementsRes.zip
+Have diff
+Process Done
+
+Start Process>> CompanyId: 0C000007BU, File:NRA\Fundamental\OperationRatios\Delta\Delta_OperationRatio.zip
+Have diff
+Process Done
+
+Start Process>> CompanyId: 0C000007BU, File:NRA\Fundamental\OperationRatios\Delta\Delta_OperationRatiosRes.zip
+Have diff
+Process Done
+
+Start Process>> CompanyId: 0C000007BZ, File:NRA\Fundamental\FinancialStatements\Delta\Delta_FinancialStatement.zip
+Have diff
+Process Done
+
+Start Process>> CompanyId: 0C000007BZ, File:NRA\Fundamental\FinancialStatements\Delta\Delta_FinancialStatementsRes.zip
+Have diff
+Process Done
+
+Start Process>> CompanyId: 0C000007BZ, File:NRA\Fundamental\OperationRatios\Delta\Delta_OperationRatio.zip
+Have diff
+Process Done
+
+Start Process>> CompanyId: 0C000007BZ, File:NRA\Fundamental\OperationRatios\Delta\Delta_OperationRatiosRes.zip
+Have diff
+Process Done
+
+Start Process>> CompanyId: 0C000007W1, File:NRA\Fundamental\FinancialStatements\Delta\Delta_FinancialStatement.zip
+Have diff
+Process Done
+
+Start Process>> CompanyId: 0C000007W1, File:NRA\Fundamental\FinancialStatements\Delta\Delta_FinancialStatementsRes.zip
+Have diff
+Process Done
+
+Start Process>> CompanyId: 0C000007W1, File:NRA\Fundamental\OperationRatios\Delta\Delta_OperationRatio.zip
+Have diff
+Process Done
+
+Start Process>> CompanyId: 0C000007W1, File:NRA\Fundamental\OperationRatios\Delta\Delta_OperationRatiosRes.zip
+Have diff
+Process Done
+
+Start Process>> CompanyId: 0C0000084T, File:NRA\Fundamental\FinancialStatements\Delta\Delta_FinancialStatement.zip
+Have diff
+Process Done
+
+Start Process>> CompanyId: 0C0000084T, File:NRA\Fundamental\FinancialStatements\Delta\Delta_FinancialStatementsRes.zip
+Have diff
+Process Done
+
+Start Process>> CompanyId: 0C0000084T, File:NRA\Fundamental\OperationRatios\Delta\Delta_OperationRatio.zip
+Have diff
+Process Done
+
+Start Process>> CompanyId: 0C0000084T, File:NRA\Fundamental\OperationRatios\Delta\Delta_OperationRatiosRes.zip
+Have diff
+Process Done
+
+Start Process>> CompanyId: 0C0000086M, File:NRA\Fundamental\FinancialStatements\Delta\Delta_FinancialStatement.zip
+Have diff
+Process Done
+
+Start Process>> CompanyId: 0C0000086M, File:NRA\Fundamental\FinancialStatements\Delta\Delta_FinancialStatementsRes.zip
+Have diff
+Process Done
+
+Start Process>> CompanyId: 0C0000086M, File:NRA\Fundamental\OperationRatios\Delta\Delta_OperationRatio.zip
+Have diff
+Process Done
+
+Start Process>> CompanyId: 0C0000086M, File:NRA\Fundamental\OperationRatios\Delta\Delta_OperationRatiosRes.zip
+Have diff
+Process Done
+
+Start Process>> CompanyId: 0C000008EC, File:NRA\Fundamental\FinancialStatements\Delta\Delta_FinancialStatement.zip
+No diff
+Process Done
+
+Start Process>> CompanyId: 0C000008EC, File:NRA\Fundamental\FinancialStatements\Delta\Delta_FinancialStatementsRes.zip
+No diff
+Process Done
+
+Start Process>> CompanyId: 0C000008EC, File:NRA\Fundamental\OperationRatios\Delta\Delta_OperationRatio.zip
+Have diff
+Process Done
+
+Start Process>> CompanyId: 0C000008EC, File:NRA\Fundamental\OperationRatios\Delta\Delta_OperationRatiosRes.zip
+Have diff
+Process Done
+
+Start Process>> CompanyId: 0C000008F4, File:NRA\Fundamental\FinancialStatements\Delta\Delta_FinancialStatement.zip
+Have diff
+Process Done
+
+Start Process>> CompanyId: 0C000008F4, File:NRA\Fundamental\FinancialStatements\Delta\Delta_FinancialStatementsRes.zip
+Have diff
+Process Done
+
+Start Process>> CompanyId: 0C000008F4, File:NRA\Fundamental\OperationRatios\Delta\Delta_OperationRatio.zip
+Have diff
+Process Done
+
+Start Process>> CompanyId: 0C000008F4, File:NRA\Fundamental\OperationRatios\Delta\Delta_OperationRatiosRes.zip
+Have diff
+Process Done
+
+Start Process>> CompanyId: 0C000008G5, File:NRA\Fundamental\FinancialStatements\Delta\Delta_FinancialStatement.zip
+No diff
+Process Done
+
+Start Process>> CompanyId: 0C000008G5, File:NRA\Fundamental\FinancialStatements\Delta\Delta_FinancialStatementsRes.zip
+No diff
+Process Done
+
+Start Process>> CompanyId: 0C000008G5, File:NRA\Fundamental\OperationRatios\Delta\Delta_OperationRatio.zip
+Have diff
+Process Done
+
+Start Process>> CompanyId: 0C000008G5, File:NRA\Fundamental\OperationRatios\Delta\Delta_OperationRatiosRes.zip
+Have diff
+Process Done
+
+Start Process>> CompanyId: 0C000008MR, File:NRA\Fundamental\FinancialStatements\Delta\Delta_FinancialStatement.zip
+Have diff
+Process Done
+
+Start Process>> CompanyId: 0C000008MR, File:NRA\Fundamental\FinancialStatements\Delta\Delta_FinancialStatementsRes.zip
+Have diff
+Process Done
+
+Start Process>> CompanyId: 0C000008MR, File:NRA\Fundamental\OperationRatios\Delta\Delta_OperationRatio.zip
+Have diff
+Process Done
+
+Start Process>> CompanyId: 0C000008MR, File:NRA\Fundamental\OperationRatios\Delta\Delta_OperationRatiosRes.zip
+Have diff
+Process Done
+
+Start Process>> CompanyId: 0C000008U7, File:NRA\Fundamental\FinancialStatements\Delta\Delta_FinancialStatement.zip
+Have diff
+Process Done
+
+Start Process>> CompanyId: 0C000008U7, File:NRA\Fundamental\FinancialStatements\Delta\Delta_FinancialStatementsRes.zip
+Have diff
+Process Done
+
+Start Process>> CompanyId: 0C000008U7, File:NRA\Fundamental\OperationRatios\Delta\Delta_OperationRatio.zip
+Have diff
+Process Done
+
+Start Process>> CompanyId: 0C000008U7, File:NRA\Fundamental\OperationRatios\Delta\Delta_OperationRatiosRes.zip
+Have diff
+Process Done
+
+Start Process>> CompanyId: 0C000009DD, File:NRA\Fundamental\FinancialStatements\Delta\Delta_FinancialStatement.zip
+Have diff
+Process Done
+
+Start Process>> CompanyId: 0C000009DD, File:NRA\Fundamental\FinancialStatements\Delta\Delta_FinancialStatementsRes.zip
+Have diff
+Process Done
+
+Start Process>> CompanyId: 0C000009DD, File:NRA\Fundamental\OperationRatios\Delta\Delta_OperationRatio.zip
+Have diff
+Process Done
+
+Start Process>> CompanyId: 0C000009DD, File:NRA\Fundamental\OperationRatios\Delta\Delta_OperationRatiosRes.zip
+Have diff
+Process Done
+
+Start Process>> CompanyId: 0C000009FQ, File:NRA\Fundamental\FinancialStatements\Delta\Delta_FinancialStatement.zip
+Have diff
+Process Done
+
+Start Process>> CompanyId: 0C000009FQ, File:NRA\Fundamental\FinancialStatements\Delta\Delta_FinancialStatementsRes.zip
+Have diff
+Process Done
+
+Start Process>> CompanyId: 0C000009FQ, File:NRA\Fundamental\OperationRatios\Delta\Delta_OperationRatio.zip
+Have diff
+Process Done
+
+Start Process>> CompanyId: 0C000009FQ, File:NRA\Fundamental\OperationRatios\Delta\Delta_OperationRatiosRes.zip
+Have diff
+Process Done
+
+Start Process>> CompanyId: 0C000009K4, File:NRA\Fundamental\FinancialStatements\Delta\Delta_FinancialStatement.zip
+Have diff
+Process Done
+
+Start Process>> CompanyId: 0C000009K4, File:NRA\Fundamental\FinancialStatements\Delta\Delta_FinancialStatementsRes.zip
+Have diff
+Process Done
+
+Start Process>> CompanyId: 0C000009K4, File:NRA\Fundamental\OperationRatios\Delta\Delta_OperationRatio.zip
+Have diff
+Process Done
+
+Start Process>> CompanyId: 0C000009K4, File:NRA\Fundamental\OperationRatios\Delta\Delta_OperationRatiosRes.zip
+Have diff
+Process Done
+
+Start Process>> CompanyId: 0C00000AC5, File:NRA\Fundamental\FinancialStatements\Delta\Delta_FinancialStatement.zip
+Have diff
+Process Done
+
+Start Process>> CompanyId: 0C00000AC5, File:NRA\Fundamental\FinancialStatements\Delta\Delta_FinancialStatementsRes.zip
+Have diff
+Process Done
+
+Start Process>> CompanyId: 0C00000AC5, File:NRA\Fundamental\OperationRatios\Delta\Delta_OperationRatio.zip
+Have diff
+Process Done
+
+Start Process>> CompanyId: 0C00000AC5, File:NRA\Fundamental\OperationRatios\Delta\Delta_OperationRatiosRes.zip
+Have diff
+Process Done
+
+Start Process>> CompanyId: 0C00000ADA, File:NRA\Fundamental\FinancialStatements\Delta\Delta_FinancialStatement.zip
+Have diff
+Process Done
+
+Start Process>> CompanyId: 0C00000ADA, File:NRA\Fundamental\FinancialStatements\Delta\Delta_FinancialStatementsRes.zip
+Have diff
+Process Done
+
+Start Process>> CompanyId: 0C00000ADA, File:NRA\Fundamental\OperationRatios\Delta\Delta_OperationRatio.zip
+Have diff
+Process Done
+
+Start Process>> CompanyId: 0C00000ADA, File:NRA\Fundamental\OperationRatios\Delta\Delta_OperationRatiosRes.zip
+Have diff
+Process Done
+
+Start Process>> CompanyId: 0C00000ASH, File:NRA\Fundamental\FinancialStatements\Delta\Delta_FinancialStatement.zip
+Have diff
+Process Done
+
+Start Process>> CompanyId: 0C00000ASH, File:NRA\Fundamental\FinancialStatements\Delta\Delta_FinancialStatementsRes.zip
+Have diff
+Process Done
+
+Start Process>> CompanyId: 0C00000ASH, File:NRA\Fundamental\OperationRatios\Delta\Delta_OperationRatio.zip
+Have diff
+Process Done
+
+Start Process>> CompanyId: 0C00000ASH, File:NRA\Fundamental\OperationRatios\Delta\Delta_OperationRatiosRes.zip
+Have diff
+Process Done
+
+Start Process>> CompanyId: 0C00000AWW, File:NRA\Fundamental\FinancialStatements\Delta\Delta_FinancialStatement.zip
+Have diff
+Process Done
+
+Start Process>> CompanyId: 0C00000AWW, File:NRA\Fundamental\FinancialStatements\Delta\Delta_FinancialStatementsRes.zip
+Have diff
+Process Done
+
+Start Process>> CompanyId: 0C00000AWW, File:NRA\Fundamental\OperationRatios\Delta\Delta_OperationRatio.zip
+Have diff
+Process Done
+
+Start Process>> CompanyId: 0C00000AWW, File:NRA\Fundamental\OperationRatios\Delta\Delta_OperationRatiosRes.zip
+Have diff
+Process Done
+
+Start Process>> CompanyId: 0C00000AXW, File:NRA\Fundamental\FinancialStatements\Delta\Delta_FinancialStatement.zip
+Have diff
+Process Done
+
+Start Process>> CompanyId: 0C00000AXW, File:NRA\Fundamental\FinancialStatements\Delta\Delta_FinancialStatementsRes.zip
+Have diff
+Process Done
+
+Start Process>> CompanyId: 0C00000AXW, File:NRA\Fundamental\OperationRatios\Delta\Delta_OperationRatio.zip
+Have diff
+Process Done
+
+Start Process>> CompanyId: 0C00000AXW, File:NRA\Fundamental\OperationRatios\Delta\Delta_OperationRatiosRes.zip
+Have diff
+Process Done
+
+Start Process>> CompanyId: 0C00000BC7, File:NRA\Fundamental\FinancialStatements\Delta\Delta_FinancialStatement.zip
+Have diff
+Process Done
+
+Start Process>> CompanyId: 0C00000BC7, File:NRA\Fundamental\FinancialStatements\Delta\Delta_FinancialStatementsRes.zip
+Have diff
+Process Done
+
+Start Process>> CompanyId: 0C00000BC7, File:NRA\Fundamental\OperationRatios\Delta\Delta_OperationRatio.zip
+Have diff
+Process Done
+
+Start Process>> CompanyId: 0C00000BC7, File:NRA\Fundamental\OperationRatios\Delta\Delta_OperationRatiosRes.zip
+Have diff
+Process Done
+
+Start Process>> CompanyId: 0C00000BFO, File:NRA\Fundamental\FinancialStatements\Delta\Delta_FinancialStatement.zip
+No diff
+Process Done
+
+Start Process>> CompanyId: 0C00000BFO, File:NRA\Fundamental\FinancialStatements\Delta\Delta_FinancialStatementsRes.zip
+No diff
+Process Done
+
+Start Process>> CompanyId: 0C00000BFO, File:NRA\Fundamental\OperationRatios\Delta\Delta_OperationRatio.zip
+Have diff
+Process Done
+
+Start Process>> CompanyId: 0C00000BFO, File:NRA\Fundamental\OperationRatios\Delta\Delta_OperationRatiosRes.zip
+Have diff
+Process Done
+
+Start Process>> CompanyId: 0C00000BRK, File:NRA\Fundamental\FinancialStatements\Delta\Delta_FinancialStatement.zip
+Have diff
+Process Done
+
+Start Process>> CompanyId: 0C00000BRK, File:NRA\Fundamental\FinancialStatements\Delta\Delta_FinancialStatementsRes.zip
+Have diff
+Process Done
+
+Start Process>> CompanyId: 0C00000BRK, File:NRA\Fundamental\OperationRatios\Delta\Delta_OperationRatio.zip
+Have diff
+Process Done
+
+Start Process>> CompanyId: 0C00000BRK, File:NRA\Fundamental\OperationRatios\Delta\Delta_OperationRatiosRes.zip
+Have diff
+Process Done
+
+Start Process>> CompanyId: 0C00000C96, File:NRA\Fundamental\FinancialStatements\Delta\Delta_FinancialStatement.zip
+Have diff
+Process Done
+
+Start Process>> CompanyId: 0C00000C96, File:NRA\Fundamental\FinancialStatements\Delta\Delta_FinancialStatementsRes.zip
+Have diff
+Process Done
+
+Start Process>> CompanyId: 0C00000C96, File:NRA\Fundamental\OperationRatios\Delta\Delta_OperationRatio.zip
+Have diff
+Process Done
+
+Start Process>> CompanyId: 0C00000C96, File:NRA\Fundamental\OperationRatios\Delta\Delta_OperationRatiosRes.zip
+Have diff
+Process Done
+
+Start Process>> CompanyId: 0C00000CTG, File:NRA\Fundamental\FinancialStatements\Delta\Delta_FinancialStatement.zip
+Have diff
+Process Done
+
+Start Process>> CompanyId: 0C00000CTG, File:NRA\Fundamental\FinancialStatements\Delta\Delta_FinancialStatementsRes.zip
+Have diff
+Process Done
+
+Start Process>> CompanyId: 0C00000CTG, File:NRA\Fundamental\OperationRatios\Delta\Delta_OperationRatio.zip
+Have diff
+Process Done
+
+Start Process>> CompanyId: 0C00000CTG, File:NRA\Fundamental\OperationRatios\Delta\Delta_OperationRatiosRes.zip
+Have diff
+Process Done
+
+Start Process>> CompanyId: 0C00000D21, File:NRA\Fundamental\FinancialStatements\Delta\Delta_FinancialStatement.zip
+Have diff
+Process Done
+
+Start Process>> CompanyId: 0C00000D21, File:NRA\Fundamental\FinancialStatements\Delta\Delta_FinancialStatementsRes.zip
+Have diff
+Process Done
+
+Start Process>> CompanyId: 0C00000D21, File:NRA\Fundamental\OperationRatios\Delta\Delta_OperationRatio.zip
+Have diff
+Process Done
+
+Start Process>> CompanyId: 0C00000D21, File:NRA\Fundamental\OperationRatios\Delta\Delta_OperationRatiosRes.zip
+Have diff
+Process Done
+
+Start Process>> CompanyId: 0C00000D28, File:NRA\Fundamental\FinancialStatements\Delta\Delta_FinancialStatement.zip
+Have diff
+Process Done
+
+Start Process>> CompanyId: 0C00000D28, File:NRA\Fundamental\FinancialStatements\Delta\Delta_FinancialStatementsRes.zip
+Have diff
+Process Done
+
+Start Process>> CompanyId: 0C00000D28, File:NRA\Fundamental\OperationRatios\Delta\Delta_OperationRatio.zip
+Have diff
+Process Done
+
+Start Process>> CompanyId: 0C00000D28, File:NRA\Fundamental\OperationRatios\Delta\Delta_OperationRatiosRes.zip
+Have diff
+Process Done
+
+Start Process>> CompanyId: 0C00000D8B, File:NRA\Fundamental\FinancialStatements\Delta\Delta_FinancialStatement.zip
+Have diff
+Process Done
+
+Start Process>> CompanyId: 0C00000D8B, File:NRA\Fundamental\FinancialStatements\Delta\Delta_FinancialStatementsRes.zip
+Have diff
+Process Done
+
+Start Process>> CompanyId: 0C00000D8B, File:NRA\Fundamental\OperationRatios\Delta\Delta_OperationRatio.zip
+Have diff
+Process Done
+
+Start Process>> CompanyId: 0C00000D8B, File:NRA\Fundamental\OperationRatios\Delta\Delta_OperationRatiosRes.zip
+Have diff
+Process Done
+
+Start Process>> CompanyId: 0C00000DYJ, File:NRA\Fundamental\FinancialStatements\Delta\Delta_FinancialStatement.zip
+Have diff
+Process Done
+
+Start Process>> CompanyId: 0C00000DYJ, File:NRA\Fundamental\FinancialStatements\Delta\Delta_FinancialStatementsRes.zip
+Have diff
+Process Done
+
+Start Process>> CompanyId: 0C00000DYJ, File:NRA\Fundamental\OperationRatios\Delta\Delta_OperationRatio.zip
+Have diff
+Process Done
+
+Start Process>> CompanyId: 0C00000DYJ, File:NRA\Fundamental\OperationRatios\Delta\Delta_OperationRatiosRes.zip
+Have diff
+Process Done
+
+Start Process>> CompanyId: 0C00000EC9, File:NRA\Fundamental\FinancialStatements\Delta\Delta_FinancialStatement.zip
+Have diff
+Process Done
+
+Start Process>> CompanyId: 0C00000EC9, File:NRA\Fundamental\FinancialStatements\Delta\Delta_FinancialStatementsRes.zip
+Have diff
+Process Done
+
+Start Process>> CompanyId: 0C00000EC9, File:NRA\Fundamental\OperationRatios\Delta\Delta_OperationRatio.zip
+Have diff
+Process Done
+
+Start Process>> CompanyId: 0C00000EC9, File:NRA\Fundamental\OperationRatios\Delta\Delta_OperationRatiosRes.zip
+Have diff
+Process Done
+
+Start Process>> CompanyId: 0C00000ESH, File:NRA\Fundamental\FinancialStatements\Delta\Delta_FinancialStatement.zip
+Have diff
+Process Done
+
+Start Process>> CompanyId: 0C00000ESH, File:NRA\Fundamental\FinancialStatements\Delta\Delta_FinancialStatementsRes.zip
+Have diff
+Process Done
+
+Start Process>> CompanyId: 0C00000ESH, File:NRA\Fundamental\OperationRatios\Delta\Delta_OperationRatio.zip
+Have diff
+Process Done
+
+Start Process>> CompanyId: 0C00000ESH, File:NRA\Fundamental\OperationRatios\Delta\Delta_OperationRatiosRes.zip
+Have diff
+Process Done
+
+Start Process>> CompanyId: 0C00000ESI, File:NRA\Fundamental\FinancialStatements\Delta\Delta_FinancialStatement.zip
+Have diff
+Process Done
+
+Start Process>> CompanyId: 0C00000ESI, File:NRA\Fundamental\FinancialStatements\Delta\Delta_FinancialStatementsRes.zip
+Have diff
+Process Done
+
+Start Process>> CompanyId: 0C00000ESI, File:NRA\Fundamental\OperationRatios\Delta\Delta_OperationRatio.zip
+Have diff
+Process Done
+
+Start Process>> CompanyId: 0C00000ESI, File:NRA\Fundamental\OperationRatios\Delta\Delta_OperationRatiosRes.zip
+Have diff
+Process Done
+
+Start Process>> CompanyId: 0C00000EY8, File:NRA\Fundamental\FinancialStatements\Delta\Delta_FinancialStatement.zip
+Have diff
+Process Done
+
+Start Process>> CompanyId: 0C00000EY8, File:NRA\Fundamental\FinancialStatements\Delta\Delta_FinancialStatementsRes.zip
+Have diff
+Process Done
+
+Start Process>> CompanyId: 0C00000EY8, File:NRA\Fundamental\OperationRatios\Delta\Delta_OperationRatio.zip
+Have diff
+Process Done
+
+Start Process>> CompanyId: 0C00000EY8, File:NRA\Fundamental\OperationRatios\Delta\Delta_OperationRatiosRes.zip
+Have diff
+Process Done
+
+Start Process>> CompanyId: 0C00000FQE, File:NRA\Fundamental\FinancialStatements\Delta\Delta_FinancialStatement.zip
+No diff
+Process Done
+
+Start Process>> CompanyId: 0C00000FQE, File:NRA\Fundamental\FinancialStatements\Delta\Delta_FinancialStatementsRes.zip
+No diff
+Process Done
+
+Start Process>> CompanyId: 0C00000FQE, File:NRA\Fundamental\OperationRatios\Delta\Delta_OperationRatio.zip
+Have diff
+Process Done
+
+Start Process>> CompanyId: 0C00000FQE, File:NRA\Fundamental\OperationRatios\Delta\Delta_OperationRatiosRes.zip
+Have diff
+Process Done
+
+Start Process>> CompanyId: 0C00000FVO, File:NRA\Fundamental\FinancialStatements\Delta\Delta_FinancialStatement.zip
+No diff
+Process Done
+
+Start Process>> CompanyId: 0C00000FVO, File:NRA\Fundamental\FinancialStatements\Delta\Delta_FinancialStatementsRes.zip
+No diff
+Process Done
+
+Start Process>> CompanyId: 0C00000FVO, File:NRA\Fundamental\OperationRatios\Delta\Delta_OperationRatio.zip
+Have diff
+Process Done
+
+Start Process>> CompanyId: 0C00000FVO, File:NRA\Fundamental\OperationRatios\Delta\Delta_OperationRatiosRes.zip
+Have diff
+Process Done
+
+Start Process>> CompanyId: 0C00000FXV, File:NRA\Fundamental\FinancialStatements\Delta\Delta_FinancialStatement.zip
+No diff
+Process Done
+
+Start Process>> CompanyId: 0C00000FXV, File:NRA\Fundamental\FinancialStatements\Delta\Delta_FinancialStatementsRes.zip
+No diff
+Process Done
+
+Start Process>> CompanyId: 0C00000FXV, File:NRA\Fundamental\OperationRatios\Delta\Delta_OperationRatio.zip
+Have diff
+Process Done
+
+Start Process>> CompanyId: 0C00000FXV, File:NRA\Fundamental\OperationRatios\Delta\Delta_OperationRatiosRes.zip
+Have diff
+Process Done
+
+Start Process>> CompanyId: 0C00000FXY, File:NRA\Fundamental\FinancialStatements\Delta\Delta_FinancialStatement.zip
+No diff
+Process Done
+
+Start Process>> CompanyId: 0C00000FXY, File:NRA\Fundamental\FinancialStatements\Delta\Delta_FinancialStatementsRes.zip
+No diff
+Process Done
+
+Start Process>> CompanyId: 0C00000FXY, File:NRA\Fundamental\OperationRatios\Delta\Delta_OperationRatio.zip
+Have diff
+Process Done
+
+Start Process>> CompanyId: 0C00000FXY, File:NRA\Fundamental\OperationRatios\Delta\Delta_OperationRatiosRes.zip
+Have diff
+Process Done
+
+Start Process>> CompanyId: 0C00000GI5, File:NRA\Fundamental\FinancialStatements\Delta\Delta_FinancialStatement.zip
+Have diff
+Process Done
+
+Start Process>> CompanyId: 0C00000GI5, File:NRA\Fundamental\FinancialStatements\Delta\Delta_FinancialStatementsRes.zip
+Have diff
+Process Done
+
+Start Process>> CompanyId: 0C00000GI5, File:NRA\Fundamental\OperationRatios\Delta\Delta_OperationRatio.zip
+Have diff
+Process Done
+
+Start Process>> CompanyId: 0C00000GI5, File:NRA\Fundamental\OperationRatios\Delta\Delta_OperationRatiosRes.zip
+Have diff
+Process Done
+
+Start Process>> CompanyId: 0C00000HA5, File:NRA\Fundamental\FinancialStatements\Delta\Delta_FinancialStatement.zip
+Have diff
+Process Done
+
+Start Process>> CompanyId: 0C00000HA5, File:NRA\Fundamental\FinancialStatements\Delta\Delta_FinancialStatementsRes.zip
+Have diff
+Process Done
+
+Start Process>> CompanyId: 0C00000HA5, File:NRA\Fundamental\OperationRatios\Delta\Delta_OperationRatio.zip
+Have diff
+Process Done
+
+Start Process>> CompanyId: 0C00000HA5, File:NRA\Fundamental\OperationRatios\Delta\Delta_OperationRatiosRes.zip
+Have diff
+Process Done
+
+Start Process>> CompanyId: 0C00000I5X, File:NRA\Fundamental\FinancialStatements\Delta\Delta_FinancialStatement.zip
+Have diff
+Process Done
+
+Start Process>> CompanyId: 0C00000I5X, File:NRA\Fundamental\FinancialStatements\Delta\Delta_FinancialStatementsRes.zip
+Have diff
+Process Done
+
+Start Process>> CompanyId: 0C00000I5X, File:NRA\Fundamental\OperationRatios\Delta\Delta_OperationRatio.zip
+Have diff
+Process Done
+
+Start Process>> CompanyId: 0C00000I5X, File:NRA\Fundamental\OperationRatios\Delta\Delta_OperationRatiosRes.zip
+Have diff
+Process Done
+
+Start Process>> CompanyId: 0C00000I7U, File:NRA\Fundamental\FinancialStatements\Delta\Delta_FinancialStatement.zip
+No diff
+Process Done
+
+Start Process>> CompanyId: 0C00000I7U, File:NRA\Fundamental\FinancialStatements\Delta\Delta_FinancialStatementsRes.zip
+No diff
+Process Done
+
+Start Process>> CompanyId: 0C00000I7U, File:NRA\Fundamental\OperationRatios\Delta\Delta_OperationRatio.zip
+Have diff
+Process Done
+
+Start Process>> CompanyId: 0C00000I7U, File:NRA\Fundamental\OperationRatios\Delta\Delta_OperationRatiosRes.zip
+Have diff
+Process Done
+
+Start Process>> CompanyId: 0C00000I86, File:NRA\Fundamental\FinancialStatements\Delta\Delta_FinancialStatement.zip
+No diff
+Process Done
+
+Start Process>> CompanyId: 0C00000I86, File:NRA\Fundamental\FinancialStatements\Delta\Delta_FinancialStatementsRes.zip
+No diff
+Process Done
+
+Start Process>> CompanyId: 0C00000I86, File:NRA\Fundamental\OperationRatios\Delta\Delta_OperationRatio.zip
+Have diff
+Process Done
+
+Start Process>> CompanyId: 0C00000I86, File:NRA\Fundamental\OperationRatios\Delta\Delta_OperationRatiosRes.zip
+Have diff
+Process Done
+
+Start Process>> CompanyId: 0C00000I8W, File:NRA\Fundamental\FinancialStatements\Delta\Delta_FinancialStatement.zip
+Have diff
+Process Done
+
+Start Process>> CompanyId: 0C00000I8W, File:NRA\Fundamental\FinancialStatements\Delta\Delta_FinancialStatementsRes.zip
+Have diff
+Process Done
+
+Start Process>> CompanyId: 0C00000I8W, File:NRA\Fundamental\OperationRatios\Delta\Delta_OperationRatio.zip
+Have diff
+Process Done
+
+Start Process>> CompanyId: 0C00000I8W, File:NRA\Fundamental\OperationRatios\Delta\Delta_OperationRatiosRes.zip
+Have diff
+Process Done
+
+Start Process>> CompanyId: 0C00000IEW, File:NRA\Fundamental\FinancialStatements\Delta\Delta_FinancialStatement.zip
+No diff
+Process Done
+
+Start Process>> CompanyId: 0C00000IEW, File:NRA\Fundamental\FinancialStatements\Delta\Delta_FinancialStatementsRes.zip
+No diff
+Process Done
+
+Start Process>> CompanyId: 0C00000IEW, File:NRA\Fundamental\OperationRatios\Delta\Delta_OperationRatio.zip
+Have diff
+Process Done
+
+Start Process>> CompanyId: 0C00000IEW, File:NRA\Fundamental\OperationRatios\Delta\Delta_OperationRatiosRes.zip
+Have diff
+Process Done
+
+Start Process>> CompanyId: 0C00000IF1, File:NRA\Fundamental\FinancialStatements\Delta\Delta_FinancialStatement.zip
+Have diff
+Process Done
+
+Start Process>> CompanyId: 0C00000IF1, File:NRA\Fundamental\FinancialStatements\Delta\Delta_FinancialStatementsRes.zip
+Have diff
+Process Done
+
+Start Process>> CompanyId: 0C00000IF1, File:NRA\Fundamental\OperationRatios\Delta\Delta_OperationRatio.zip
+Have diff
+Process Done
+
+Start Process>> CompanyId: 0C00000IF1, File:NRA\Fundamental\OperationRatios\Delta\Delta_OperationRatiosRes.zip
+Have diff
+Process Done
+
+Start Process>> CompanyId: 0C00000IFI, File:NRA\Fundamental\FinancialStatements\Delta\Delta_FinancialStatement.zip
+Have diff
+Process Done
+
+Start Process>> CompanyId: 0C00000IFI, File:NRA\Fundamental\FinancialStatements\Delta\Delta_FinancialStatementsRes.zip
+Have diff
+Process Done
+
+Start Process>> CompanyId: 0C00000IFI, File:NRA\Fundamental\OperationRatios\Delta\Delta_OperationRatio.zip
+Have diff
+Process Done
+
+Start Process>> CompanyId: 0C00000IFI, File:NRA\Fundamental\OperationRatios\Delta\Delta_OperationRatiosRes.zip
+Have diff
+Process Done
+
+Start Process>> CompanyId: 0C00000JAK, File:NRA\Fundamental\FinancialStatements\Delta\Delta_FinancialStatement.zip
+Have diff
+Process Done
+
+Start Process>> CompanyId: 0C00000JAK, File:NRA\Fundamental\FinancialStatements\Delta\Delta_FinancialStatementsRes.zip
+Have diff
+Process Done
+
+Start Process>> CompanyId: 0C00000JAK, File:NRA\Fundamental\OperationRatios\Delta\Delta_OperationRatio.zip
+Have diff
+Process Done
+
+Start Process>> CompanyId: 0C00000JAK, File:NRA\Fundamental\OperationRatios\Delta\Delta_OperationRatiosRes.zip
+Have diff
+Process Done
+
+Start Process>> CompanyId: 0C00000L54, File:NRA\Fundamental\FinancialStatements\Delta\Delta_FinancialStatement.zip
+Have diff
+Process Done
+
+Start Process>> CompanyId: 0C00000L54, File:NRA\Fundamental\FinancialStatements\Delta\Delta_FinancialStatementsRes.zip
+Have diff
+Process Done
+
+Start Process>> CompanyId: 0C00000L54, File:NRA\Fundamental\OperationRatios\Delta\Delta_OperationRatio.zip
+Have diff
+Process Done
+
+Start Process>> CompanyId: 0C00000L54, File:NRA\Fundamental\OperationRatios\Delta\Delta_OperationRatiosRes.zip
+Have diff
+Process Done
+
+Start Process>> CompanyId: 0C00000M9L, File:NRA\Fundamental\FinancialStatements\Delta\Delta_FinancialStatement.zip
+Have diff
+Process Done
+
+Start Process>> CompanyId: 0C00000M9L, File:NRA\Fundamental\FinancialStatements\Delta\Delta_FinancialStatementsRes.zip
+Have diff
+Process Done
+
+Start Process>> CompanyId: 0C00000M9L, File:NRA\Fundamental\OperationRatios\Delta\Delta_OperationRatio.zip
+Have diff
+Process Done
+
+Start Process>> CompanyId: 0C00000M9L, File:NRA\Fundamental\OperationRatios\Delta\Delta_OperationRatiosRes.zip
+Have diff
+Process Done
+
+Start Process>> CompanyId: 0C00000MOO, File:NRA\Fundamental\FinancialStatements\Delta\Delta_FinancialStatement.zip
+Have diff
+Process Done
+
+Start Process>> CompanyId: 0C00000MOO, File:NRA\Fundamental\FinancialStatements\Delta\Delta_FinancialStatementsRes.zip
+Have diff
+Process Done
+
+Start Process>> CompanyId: 0C00000MOO, File:NRA\Fundamental\OperationRatios\Delta\Delta_OperationRatio.zip
+Have diff
+Process Done
+
+Start Process>> CompanyId: 0C00000MOO, File:NRA\Fundamental\OperationRatios\Delta\Delta_OperationRatiosRes.zip
+Have diff
+Process Done
+
+Start Process>> CompanyId: 0C00000MPO, File:NRA\Fundamental\FinancialStatements\Delta\Delta_FinancialStatement.zip
+Have diff
+Process Done
+
+Start Process>> CompanyId: 0C00000MPO, File:NRA\Fundamental\FinancialStatements\Delta\Delta_FinancialStatementsRes.zip
+Have diff
+Process Done
+
+Start Process>> CompanyId: 0C00000MPO, File:NRA\Fundamental\OperationRatios\Delta\Delta_OperationRatio.zip
+Have diff
+Process Done
+
+Start Process>> CompanyId: 0C00000MPO, File:NRA\Fundamental\OperationRatios\Delta\Delta_OperationRatiosRes.zip
+Have diff
+Process Done
+
+Start Process>> CompanyId: 0C00000MSR, File:NRA\Fundamental\FinancialStatements\Delta\Delta_FinancialStatement.zip
+No diff
+Process Done
+
+Start Process>> CompanyId: 0C00000MSR, File:NRA\Fundamental\FinancialStatements\Delta\Delta_FinancialStatementsRes.zip
+No diff
+Process Done
+
+Start Process>> CompanyId: 0C00000MSR, File:NRA\Fundamental\OperationRatios\Delta\Delta_OperationRatio.zip
+Have diff
+Process Done
+
+Start Process>> CompanyId: 0C00000MSR, File:NRA\Fundamental\OperationRatios\Delta\Delta_OperationRatiosRes.zip
+Have diff
+Process Done
+
+Start Process>> CompanyId: 0C00000MSX, File:NRA\Fundamental\FinancialStatements\Delta\Delta_FinancialStatement.zip
+No diff
+Process Done
+
+Start Process>> CompanyId: 0C00000MSX, File:NRA\Fundamental\FinancialStatements\Delta\Delta_FinancialStatementsRes.zip
+No diff
+Process Done
+
+Start Process>> CompanyId: 0C00000MSX, File:NRA\Fundamental\OperationRatios\Delta\Delta_OperationRatio.zip
+Have diff
+Process Done
+
+Start Process>> CompanyId: 0C00000MSX, File:NRA\Fundamental\OperationRatios\Delta\Delta_OperationRatiosRes.zip
+Have diff
+Process Done
+
+Start Process>> CompanyId: 0C00000MT4, File:NRA\Fundamental\FinancialStatements\Delta\Delta_FinancialStatement.zip
+No diff
+Process Done
+
+Start Process>> CompanyId: 0C00000MT4, File:NRA\Fundamental\FinancialStatements\Delta\Delta_FinancialStatementsRes.zip
+No diff
+Process Done
+
+Start Process>> CompanyId: 0C00000MT4, File:NRA\Fundamental\OperationRatios\Delta\Delta_OperationRatio.zip
+Have diff
+Process Done
+
+Start Process>> CompanyId: 0C00000MT4, File:NRA\Fundamental\OperationRatios\Delta\Delta_OperationRatiosRes.zip
+Have diff
+Process Done
+
+Start Process>> CompanyId: 0C00000N9G, File:NRA\Fundamental\FinancialStatements\Delta\Delta_FinancialStatement.zip
+No diff
+Process Done
+
+Start Process>> CompanyId: 0C00000N9G, File:NRA\Fundamental\FinancialStatements\Delta\Delta_FinancialStatementsRes.zip
+No diff
+Process Done
+
+Start Process>> CompanyId: 0C00000N9G, File:NRA\Fundamental\OperationRatios\Delta\Delta_OperationRatio.zip
+Have diff
+Process Done
+
+Start Process>> CompanyId: 0C00000N9G, File:NRA\Fundamental\OperationRatios\Delta\Delta_OperationRatiosRes.zip
+Have diff
+Process Done
+
+Start Process>> CompanyId: 0C00000NC8, File:NRA\Fundamental\FinancialStatements\Delta\Delta_FinancialStatement.zip
+No diff
+Process Done
+
+Start Process>> CompanyId: 0C00000NC8, File:NRA\Fundamental\FinancialStatements\Delta\Delta_FinancialStatementsRes.zip
+No diff
+Process Done
+
+Start Process>> CompanyId: 0C00000NC8, File:NRA\Fundamental\OperationRatios\Delta\Delta_OperationRatio.zip
+Have diff
+Process Done
+
+Start Process>> CompanyId: 0C00000NC8, File:NRA\Fundamental\OperationRatios\Delta\Delta_OperationRatiosRes.zip
+Have diff
+Process Done
+
+Start Process>> CompanyId: 0C00000NHM, File:NRA\Fundamental\FinancialStatements\Delta\Delta_FinancialStatement.zip
+No diff
+Process Done
+
+Start Process>> CompanyId: 0C00000NHM, File:NRA\Fundamental\FinancialStatements\Delta\Delta_FinancialStatementsRes.zip
+No diff
+Process Done
+
+Start Process>> CompanyId: 0C00000NHM, File:NRA\Fundamental\OperationRatios\Delta\Delta_OperationRatio.zip
+Have diff
+Process Done
+
+Start Process>> CompanyId: 0C00000NHM, File:NRA\Fundamental\OperationRatios\Delta\Delta_OperationRatiosRes.zip
+Have diff
+Process Done
+
+Start Process>> CompanyId: 0C00000NNU, File:NRA\Fundamental\FinancialStatements\Delta\Delta_FinancialStatement.zip
+Have diff
+Process Done
+
+Start Process>> CompanyId: 0C00000NNU, File:NRA\Fundamental\FinancialStatements\Delta\Delta_FinancialStatementsRes.zip
+Have diff
+Process Done
+
+Start Process>> CompanyId: 0C00000NNU, File:NRA\Fundamental\OperationRatios\Delta\Delta_OperationRatio.zip
+Have diff
+Process Done
+
+Start Process>> CompanyId: 0C00000NNU, File:NRA\Fundamental\OperationRatios\Delta\Delta_OperationRatiosRes.zip
+Have diff
+Process Done
+
+Start Process>> CompanyId: 0C00000NSQ, File:NRA\Fundamental\FinancialStatements\Delta\Delta_FinancialStatement.zip
+Have diff
+Process Done
+
+Start Process>> CompanyId: 0C00000NSQ, File:NRA\Fundamental\FinancialStatements\Delta\Delta_FinancialStatementsRes.zip
+Have diff
+Process Done
+
+Start Process>> CompanyId: 0C00000NSQ, File:NRA\Fundamental\OperationRatios\Delta\Delta_OperationRatio.zip
+Have diff
+Process Done
+
+Start Process>> CompanyId: 0C00000NSQ, File:NRA\Fundamental\OperationRatios\Delta\Delta_OperationRatiosRes.zip
+Have diff
+Process Done
+
+Start Process>> CompanyId: 0C00000NZB, File:NRA\Fundamental\FinancialStatements\Delta\Delta_FinancialStatement.zip
+No diff
+Process Done
+
+Start Process>> CompanyId: 0C00000NZB, File:NRA\Fundamental\FinancialStatements\Delta\Delta_FinancialStatementsRes.zip
+No diff
+Process Done
+
+Start Process>> CompanyId: 0C00000NZB, File:NRA\Fundamental\OperationRatios\Delta\Delta_OperationRatio.zip
+Have diff
+Process Done
+
+Start Process>> CompanyId: 0C00000NZB, File:NRA\Fundamental\OperationRatios\Delta\Delta_OperationRatiosRes.zip
+Have diff
+Process Done
+
+Start Process>> CompanyId: 0C00000O0W, File:NRA\Fundamental\FinancialStatements\Delta\Delta_FinancialStatement.zip
+Have diff
+Process Done
+
+Start Process>> CompanyId: 0C00000O0W, File:NRA\Fundamental\FinancialStatements\Delta\Delta_FinancialStatementsRes.zip
+Have diff
+Process Done
+
+Start Process>> CompanyId: 0C00000O0W, File:NRA\Fundamental\OperationRatios\Delta\Delta_OperationRatio.zip
+Have diff
+Process Done
+
+Start Process>> CompanyId: 0C00000O0W, File:NRA\Fundamental\OperationRatios\Delta\Delta_OperationRatiosRes.zip
+Have diff
+Process Done
+
+Start Process>> CompanyId: 0C00000PLC, File:NRA\Fundamental\FinancialStatements\Delta\Delta_FinancialStatement.zip
+Have diff
+Process Done
+
+Start Process>> CompanyId: 0C00000PLC, File:NRA\Fundamental\FinancialStatements\Delta\Delta_FinancialStatementsRes.zip
+Have diff
+Process Done
+
+Start Process>> CompanyId: 0C00000PLC, File:NRA\Fundamental\OperationRatios\Delta\Delta_OperationRatio.zip
+Have diff
+Process Done
+
+Start Process>> CompanyId: 0C00000PLC, File:NRA\Fundamental\OperationRatios\Delta\Delta_OperationRatiosRes.zip
+Have diff
+Process Done
+
+Start Process>> CompanyId: 0C00000Q5R, File:NRA\Fundamental\FinancialStatements\Delta\Delta_FinancialStatement.zip
+No diff
+Process Done
+
+Start Process>> CompanyId: 0C00000Q5R, File:NRA\Fundamental\FinancialStatements\Delta\Delta_FinancialStatementsRes.zip
+No diff
+Process Done
+
+Start Process>> CompanyId: 0C00000Q5R, File:NRA\Fundamental\OperationRatios\Delta\Delta_OperationRatio.zip
+Have diff
+Process Done
+
+Start Process>> CompanyId: 0C00000Q5R, File:NRA\Fundamental\OperationRatios\Delta\Delta_OperationRatiosRes.zip
+Have diff
+Process Done
+
+Start Process>> CompanyId: 0C00000Q5S, File:NRA\Fundamental\FinancialStatements\Delta\Delta_FinancialStatement.zip
+Have diff
+Process Done
+
+Start Process>> CompanyId: 0C00000Q5S, File:NRA\Fundamental\FinancialStatements\Delta\Delta_FinancialStatementsRes.zip
+Have diff
+Process Done
+
+Start Process>> CompanyId: 0C00000Q5S, File:NRA\Fundamental\OperationRatios\Delta\Delta_OperationRatio.zip
+Have diff
+Process Done
+
+Start Process>> CompanyId: 0C00000Q5S, File:NRA\Fundamental\OperationRatios\Delta\Delta_OperationRatiosRes.zip
+Have diff
+Process Done
+
+Start Process>> CompanyId: 0C00000Q5T, File:NRA\Fundamental\FinancialStatements\Delta\Delta_FinancialStatement.zip
+Have diff
+Process Done
+
+Start Process>> CompanyId: 0C00000Q5T, File:NRA\Fundamental\FinancialStatements\Delta\Delta_FinancialStatementsRes.zip
+Have diff
+Process Done
+
+Start Process>> CompanyId: 0C00000Q5T, File:NRA\Fundamental\OperationRatios\Delta\Delta_OperationRatio.zip
+Have diff
+Process Done
+
+Start Process>> CompanyId: 0C00000Q5T, File:NRA\Fundamental\OperationRatios\Delta\Delta_OperationRatiosRes.zip
+Have diff
+Process Done
+
+Start Process>> CompanyId: 0C00000Q6A, File:NRA\Fundamental\FinancialStatements\Delta\Delta_FinancialStatement.zip
+No diff
+Process Done
+
+Start Process>> CompanyId: 0C00000Q6A, File:NRA\Fundamental\FinancialStatements\Delta\Delta_FinancialStatementsRes.zip
+No diff
+Process Done
+
+Start Process>> CompanyId: 0C00000Q6A, File:NRA\Fundamental\OperationRatios\Delta\Delta_OperationRatio.zip
+Have diff
+Process Done
+
+Start Process>> CompanyId: 0C00000Q6A, File:NRA\Fundamental\OperationRatios\Delta\Delta_OperationRatiosRes.zip
+Have diff
+Process Done
+
+Start Process>> CompanyId: 0C00000Q6S, File:NRA\Fundamental\FinancialStatements\Delta\Delta_FinancialStatement.zip
+Have diff
+Process Done
+
+Start Process>> CompanyId: 0C00000Q6S, File:NRA\Fundamental\FinancialStatements\Delta\Delta_FinancialStatementsRes.zip
+Have diff
+Process Done
+
+Start Process>> CompanyId: 0C00000Q6S, File:NRA\Fundamental\OperationRatios\Delta\Delta_OperationRatio.zip
+Have diff
+Process Done
+
+Start Process>> CompanyId: 0C00000Q6S, File:NRA\Fundamental\OperationRatios\Delta\Delta_OperationRatiosRes.zip
+Have diff
+Process Done
+
+Start Process>> CompanyId: 0C00000QR4, File:NRA\Fundamental\FinancialStatements\Delta\Delta_FinancialStatement.zip
+No diff
+Process Done
+
+Start Process>> CompanyId: 0C00000QR4, File:NRA\Fundamental\FinancialStatements\Delta\Delta_FinancialStatementsRes.zip
+No diff
+Process Done
+
+Start Process>> CompanyId: 0C00000QR4, File:NRA\Fundamental\OperationRatios\Delta\Delta_OperationRatio.zip
+Have diff
+Process Done
+
+Start Process>> CompanyId: 0C00000QR4, File:NRA\Fundamental\OperationRatios\Delta\Delta_OperationRatiosRes.zip
+Have diff
+Process Done
+
+Start Process>> CompanyId: 0C00000U0A, File:NRA\Fundamental\FinancialStatements\Delta\Delta_FinancialStatement.zip
+Have diff
+Process Done
+
+Start Process>> CompanyId: 0C00000U0A, File:NRA\Fundamental\FinancialStatements\Delta\Delta_FinancialStatementsRes.zip
+Have diff
+Process Done
+
+Start Process>> CompanyId: 0C00000U0A, File:NRA\Fundamental\OperationRatios\Delta\Delta_OperationRatio.zip
+Have diff
+Process Done
+
+Start Process>> CompanyId: 0C00000U0A, File:NRA\Fundamental\OperationRatios\Delta\Delta_OperationRatiosRes.zip
+Have diff
+Process Done
+
+Start Process>> CompanyId: 0C00000UY8, File:NRA\Fundamental\FinancialStatements\Delta\Delta_FinancialStatement.zip
+Have diff
+Process Done
+
+Start Process>> CompanyId: 0C00000UY8, File:NRA\Fundamental\FinancialStatements\Delta\Delta_FinancialStatementsRes.zip
+Have diff
+Process Done
+
+Start Process>> CompanyId: 0C00000UY8, File:NRA\Fundamental\OperationRatios\Delta\Delta_OperationRatio.zip
+Have diff
+Process Done
+
+Start Process>> CompanyId: 0C00000UY8, File:NRA\Fundamental\OperationRatios\Delta\Delta_OperationRatiosRes.zip
+Have diff
+Process Done
+
+Start Process>> CompanyId: 0C00000VE3, File:NRA\Fundamental\FinancialStatements\Delta\Delta_FinancialStatement.zip
+Have diff
+Process Done
+
+Start Process>> CompanyId: 0C00000VE3, File:NRA\Fundamental\FinancialStatements\Delta\Delta_FinancialStatementsRes.zip
+Have diff
+Process Done
+
+Start Process>> CompanyId: 0C00000VE3, File:NRA\Fundamental\OperationRatios\Delta\Delta_OperationRatio.zip
+Have diff
+Process Done
+
+Start Process>> CompanyId: 0C00000VE3, File:NRA\Fundamental\OperationRatios\Delta\Delta_OperationRatiosRes.zip
+Have diff
+Process Done
+
+Start Process>> CompanyId: 0C00000VHH, File:NRA\Fundamental\FinancialStatements\Delta\Delta_FinancialStatement.zip
+No diff
+Process Done
+
+Start Process>> CompanyId: 0C00000VHH, File:NRA\Fundamental\FinancialStatements\Delta\Delta_FinancialStatementsRes.zip
+No diff
+Process Done
+
+Start Process>> CompanyId: 0C00000VHH, File:NRA\Fundamental\OperationRatios\Delta\Delta_OperationRatio.zip
+Have diff
+Process Done
+
+Start Process>> CompanyId: 0C00000VHH, File:NRA\Fundamental\OperationRatios\Delta\Delta_OperationRatiosRes.zip
+Have diff
+Process Done
+
+Start Process>> CompanyId: 0C00000WJK, File:NRA\Fundamental\FinancialStatements\Delta\Delta_FinancialStatement.zip
+Have diff
+Process Done
+
+Start Process>> CompanyId: 0C00000WJK, File:NRA\Fundamental\FinancialStatements\Delta\Delta_FinancialStatementsRes.zip
+Have diff
+Process Done
+
+Start Process>> CompanyId: 0C00000WJK, File:NRA\Fundamental\OperationRatios\Delta\Delta_OperationRatio.zip
+Have diff
+Process Done
+
+Start Process>> CompanyId: 0C00000WJK, File:NRA\Fundamental\OperationRatios\Delta\Delta_OperationRatiosRes.zip
+Have diff
+Process Done
+
+Start Process>> CompanyId: 0C00000X1M, File:NRA\Fundamental\FinancialStatements\Delta\Delta_FinancialStatement.zip
+No diff
+Process Done
+
+Start Process>> CompanyId: 0C00000X1M, File:NRA\Fundamental\FinancialStatements\Delta\Delta_FinancialStatementsRes.zip
+No diff
+Process Done
+
+Start Process>> CompanyId: 0C00000X1M, File:NRA\Fundamental\OperationRatios\Delta\Delta_OperationRatio.zip
+Have diff
+Process Done
+
+Start Process>> CompanyId: 0C00000X1M, File:NRA\Fundamental\OperationRatios\Delta\Delta_OperationRatiosRes.zip
+Have diff
+Process Done
+
+Start Process>> CompanyId: 0C00000XD6, File:NRA\Fundamental\FinancialStatements\Delta\Delta_FinancialStatement.zip
+Have diff
+Process Done
+
+Start Process>> CompanyId: 0C00000XD6, File:NRA\Fundamental\FinancialStatements\Delta\Delta_FinancialStatementsRes.zip
+Have diff
+Process Done
+
+Start Process>> CompanyId: 0C00000XD6, File:NRA\Fundamental\OperationRatios\Delta\Delta_OperationRatio.zip
+Have diff
+Process Done
+
+Start Process>> CompanyId: 0C00000XD6, File:NRA\Fundamental\OperationRatios\Delta\Delta_OperationRatiosRes.zip
+Have diff
+Process Done
+
+Start Process>> CompanyId: 0C00000XJX, File:NRA\Fundamental\FinancialStatements\Delta\Delta_FinancialStatement.zip
+Both File Can't find {0C00000XJX in z:\DEV\PT2.0-GEDF-20180324\NRA_Monthly_FinancialStatementsAOR_2018-2.zip} and {0C00000XJX in z:\NRA\Fundamental\FinancialStatements\Delta\Delta_FinancialStatementsAOR_2018-04-02.zip}
+
+data file is not exits which generate at 03/24
+data file is not exits which generate at 04/02
+No diff
+Process Done
+
+Start Process>> CompanyId: 0C00000XJX, File:NRA\Fundamental\FinancialStatements\Delta\Delta_FinancialStatementsRes.zip
+Both File Can't find {0C00000XJX in z:\DEV\PT2.0-GEDF-20180324\NRA_Monthly_FinancialStatementsRestate_2018-2.zip} and {0C00000XJX in z:\NRA\Fundamental\FinancialStatements\Delta\Delta_FinancialStatementsRestate_2018-04-02.zip}
+
+data file is not exits which generate at 03/24
+data file is not exits which generate at 04/02
+No diff
+Process Done
+
+Start Process>> CompanyId: 0C00000XJX, File:NRA\Fundamental\OperationRatios\Delta\Delta_OperationRatio.zip
+Both File Can't find {0C00000XJX in z:\DEV\PT2.0-GEDF-20180324\NRA_Monthly_OperationRatiosAOR_2018-2.zip} and {0C00000XJX in z:\NRA\Fundamental\OperationRatios\Delta\Delta_OperationRatiosAOR_2018-04-02.zip}
+
+data file is not exits which generate at 03/24
+data file is not exits which generate at 04/02
+No diff
+Process Done
+
+Start Process>> CompanyId: 0C00000XJX, File:NRA\Fundamental\OperationRatios\Delta\Delta_OperationRatiosRes.zip
+Both File Can't find {0C00000XJX in z:\DEV\PT2.0-GEDF-20180324\NRA_Monthly_OperationRatiosRestate_2018-2.zip} and {0C00000XJX in z:\NRA\Fundamental\OperationRatios\Delta\Delta_OperationRatiosRestate_2018-04-02.zip}
+
+data file is not exits which generate at 03/24
+data file is not exits which generate at 04/02
+No diff
+Process Done
+
+Start Process>> CompanyId: 0C00000XUF, File:NRA\Fundamental\FinancialStatements\Delta\Delta_FinancialStatement.zip
+Have diff
+Process Done
+
+Start Process>> CompanyId: 0C00000XUF, File:NRA\Fundamental\FinancialStatements\Delta\Delta_FinancialStatementsRes.zip
+Have diff
+Process Done
+
+Start Process>> CompanyId: 0C00000XUF, File:NRA\Fundamental\OperationRatios\Delta\Delta_OperationRatio.zip
+Have diff
+Process Done
+
+Start Process>> CompanyId: 0C00000XUF, File:NRA\Fundamental\OperationRatios\Delta\Delta_OperationRatiosRes.zip
+Have diff
+Process Done
+
+Start Process>> CompanyId: 0C00000XUV, File:NRA\Fundamental\FinancialStatements\Delta\Delta_FinancialStatement.zip
+Have diff
+Process Done
+
+Start Process>> CompanyId: 0C00000XUV, File:NRA\Fundamental\FinancialStatements\Delta\Delta_FinancialStatementsRes.zip
+Have diff
+Process Done
+
+Start Process>> CompanyId: 0C00000XUV, File:NRA\Fundamental\OperationRatios\Delta\Delta_OperationRatio.zip
+Have diff
+Process Done
+
+Start Process>> CompanyId: 0C00000XUV, File:NRA\Fundamental\OperationRatios\Delta\Delta_OperationRatiosRes.zip
+Have diff
+Process Done
+
+Start Process>> CompanyId: 0C00000Y5Z, File:NRA\Fundamental\FinancialStatements\Delta\Delta_FinancialStatement.zip
+Have diff
+Process Done
+
+Start Process>> CompanyId: 0C00000Y5Z, File:NRA\Fundamental\FinancialStatements\Delta\Delta_FinancialStatementsRes.zip
+Have diff
+Process Done
+
+Start Process>> CompanyId: 0C00000Y5Z, File:NRA\Fundamental\OperationRatios\Delta\Delta_OperationRatio.zip
+Have diff
+Process Done
+
+Start Process>> CompanyId: 0C00000Y5Z, File:NRA\Fundamental\OperationRatios\Delta\Delta_OperationRatiosRes.zip
+Have diff
+Process Done
+
+Start Process>> CompanyId: 0C00000Y6K, File:NRA\Fundamental\FinancialStatements\Delta\Delta_FinancialStatement.zip
+Have diff
+Process Done
+
+Start Process>> CompanyId: 0C00000Y6K, File:NRA\Fundamental\FinancialStatements\Delta\Delta_FinancialStatementsRes.zip
+Have diff
+Process Done
+
+Start Process>> CompanyId: 0C00000Y6K, File:NRA\Fundamental\OperationRatios\Delta\Delta_OperationRatio.zip
+Have diff
+Process Done
+
+Start Process>> CompanyId: 0C00000Y6K, File:NRA\Fundamental\OperationRatios\Delta\Delta_OperationRatiosRes.zip
+Have diff
+Process Done
+
+Start Process>> CompanyId: 0C00000Y6W, File:NRA\Fundamental\FinancialStatements\Delta\Delta_FinancialStatement.zip
+No diff
+Process Done
+
+Start Process>> CompanyId: 0C00000Y6W, File:NRA\Fundamental\FinancialStatements\Delta\Delta_FinancialStatementsRes.zip
+No diff
+Process Done
+
+Start Process>> CompanyId: 0C00000Y6W, File:NRA\Fundamental\OperationRatios\Delta\Delta_OperationRatio.zip
+Have diff
+Process Done
+
+Start Process>> CompanyId: 0C00000Y6W, File:NRA\Fundamental\OperationRatios\Delta\Delta_OperationRatiosRes.zip
+Have diff
+Process Done
+
+Start Process>> CompanyId: 0C00000Y6X, File:NRA\Fundamental\FinancialStatements\Delta\Delta_FinancialStatement.zip
+No diff
+Process Done
+
+Start Process>> CompanyId: 0C00000Y6X, File:NRA\Fundamental\FinancialStatements\Delta\Delta_FinancialStatementsRes.zip
+No diff
+Process Done
+
+Start Process>> CompanyId: 0C00000Y6X, File:NRA\Fundamental\OperationRatios\Delta\Delta_OperationRatio.zip
+Have diff
+Process Done
+
+Start Process>> CompanyId: 0C00000Y6X, File:NRA\Fundamental\OperationRatios\Delta\Delta_OperationRatiosRes.zip
+Have diff
+Process Done
+
+Start Process>> CompanyId: 0C00000Y71, File:NRA\Fundamental\FinancialStatements\Delta\Delta_FinancialStatement.zip
+Have diff
+Process Done
+
+Start Process>> CompanyId: 0C00000Y71, File:NRA\Fundamental\FinancialStatements\Delta\Delta_FinancialStatementsRes.zip
+Have diff
+Process Done
+
+Start Process>> CompanyId: 0C00000Y71, File:NRA\Fundamental\OperationRatios\Delta\Delta_OperationRatio.zip
+Have diff
+Process Done
+
+Start Process>> CompanyId: 0C00000Y71, File:NRA\Fundamental\OperationRatios\Delta\Delta_OperationRatiosRes.zip
+Have diff
+Process Done
+
+Start Process>> CompanyId: 0C00000Y8B, File:NRA\Fundamental\FinancialStatements\Delta\Delta_FinancialStatement.zip
+No diff
+Process Done
+
+Start Process>> CompanyId: 0C00000Y8B, File:NRA\Fundamental\FinancialStatements\Delta\Delta_FinancialStatementsRes.zip
+No diff
+Process Done
+
+Start Process>> CompanyId: 0C00000Y8B, File:NRA\Fundamental\OperationRatios\Delta\Delta_OperationRatio.zip
+Have diff
+Process Done
+
+Start Process>> CompanyId: 0C00000Y8B, File:NRA\Fundamental\OperationRatios\Delta\Delta_OperationRatiosRes.zip
+Have diff
+Process Done
+
+Start Process>> CompanyId: 0C000014D5, File:NRA\Fundamental\FinancialStatements\Delta\Delta_FinancialStatement.zip
+No diff
+Process Done
+
+Start Process>> CompanyId: 0C000014D5, File:NRA\Fundamental\FinancialStatements\Delta\Delta_FinancialStatementsRes.zip
+No diff
+Process Done
+
+Start Process>> CompanyId: 0C000014D5, File:NRA\Fundamental\OperationRatios\Delta\Delta_OperationRatio.zip
+Have diff
+Process Done
+
+Start Process>> CompanyId: 0C000014D5, File:NRA\Fundamental\OperationRatios\Delta\Delta_OperationRatiosRes.zip
+Have diff
+Process Done
+
+Start Process>> CompanyId: 0C000014DF, File:NRA\Fundamental\FinancialStatements\Delta\Delta_FinancialStatement.zip
+Have diff
+Process Done
+
+Start Process>> CompanyId: 0C000014DF, File:NRA\Fundamental\FinancialStatements\Delta\Delta_FinancialStatementsRes.zip
+Have diff
+Process Done
+
+Start Process>> CompanyId: 0C000014DF, File:NRA\Fundamental\OperationRatios\Delta\Delta_OperationRatio.zip
+No diff
+Process Done
+
+Start Process>> CompanyId: 0C000014DF, File:NRA\Fundamental\OperationRatios\Delta\Delta_OperationRatiosRes.zip
+No diff
+Process Done
+
+Start Process>> CompanyId: 0C000014TF, File:NRA\Fundamental\FinancialStatements\Delta\Delta_FinancialStatement.zip
+No diff
+Process Done
+
+Start Process>> CompanyId: 0C000014TF, File:NRA\Fundamental\FinancialStatements\Delta\Delta_FinancialStatementsRes.zip
+No diff
+Process Done
+
+Start Process>> CompanyId: 0C000014TF, File:NRA\Fundamental\OperationRatios\Delta\Delta_OperationRatio.zip
+Have diff
+Process Done
+
+Start Process>> CompanyId: 0C000014TF, File:NRA\Fundamental\OperationRatios\Delta\Delta_OperationRatiosRes.zip
+Have diff
+Process Done
+
+Start Process>> CompanyId: 0C000014UH, File:NRA\Fundamental\FinancialStatements\Delta\Delta_FinancialStatement.zip
+Have diff
+Process Done
+
+Start Process>> CompanyId: 0C000014UH, File:NRA\Fundamental\FinancialStatements\Delta\Delta_FinancialStatementsRes.zip
+Have diff
+Process Done
+
+Start Process>> CompanyId: 0C000014UH, File:NRA\Fundamental\OperationRatios\Delta\Delta_OperationRatio.zip
+Have diff
+Process Done
+
+Start Process>> CompanyId: 0C000014UH, File:NRA\Fundamental\OperationRatios\Delta\Delta_OperationRatiosRes.zip
+Have diff
+Process Done
+
+Start Process>> CompanyId: 0C000015BU, File:NRA\Fundamental\FinancialStatements\Delta\Delta_FinancialStatement.zip
+Both File Can't find {0C000015BU in z:\DEV\PT2.0-GEDF-20180324\NRA_Monthly_FinancialStatementsAOR_2018-2.zip} and {0C000015BU in z:\NRA\Fundamental\FinancialStatements\Delta\Delta_FinancialStatementsAOR_2018-04-02.zip}
+
+data file is not exits which generate at 03/24
+data file is not exits which generate at 04/02
+No diff
+Process Done
+
+Start Process>> CompanyId: 0C000015BU, File:NRA\Fundamental\FinancialStatements\Delta\Delta_FinancialStatementsRes.zip
+Both File Can't find {0C000015BU in z:\DEV\PT2.0-GEDF-20180324\NRA_Monthly_FinancialStatementsRestate_2018-2.zip} and {0C000015BU in z:\NRA\Fundamental\FinancialStatements\Delta\Delta_FinancialStatementsRestate_2018-04-02.zip}
+
+data file is not exits which generate at 03/24
+data file is not exits which generate at 04/02
+No diff
+Process Done
+
+Start Process>> CompanyId: 0C000015BU, File:NRA\Fundamental\OperationRatios\Delta\Delta_OperationRatio.zip
+Both File Can't find {0C000015BU in z:\DEV\PT2.0-GEDF-20180324\NRA_Monthly_OperationRatiosAOR_2018-2.zip} and {0C000015BU in z:\NRA\Fundamental\OperationRatios\Delta\Delta_OperationRatiosAOR_2018-04-02.zip}
+
+data file is not exits which generate at 03/24
+data file is not exits which generate at 04/02
+No diff
+Process Done
+
+Start Process>> CompanyId: 0C000015BU, File:NRA\Fundamental\OperationRatios\Delta\Delta_OperationRatiosRes.zip
+Both File Can't find {0C000015BU in z:\DEV\PT2.0-GEDF-20180324\NRA_Monthly_OperationRatiosRestate_2018-2.zip} and {0C000015BU in z:\NRA\Fundamental\OperationRatios\Delta\Delta_OperationRatiosRestate_2018-04-02.zip}
+
+data file is not exits which generate at 03/24
+data file is not exits which generate at 04/02
+No diff
+Process Done
+
+Start Process>> CompanyId: 0C000015CP, File:NRA\Fundamental\FinancialStatements\Delta\Delta_FinancialStatement.zip
+Have diff
+Process Done
+
+Start Process>> CompanyId: 0C000015CP, File:NRA\Fundamental\FinancialStatements\Delta\Delta_FinancialStatementsRes.zip
+Have diff
+Process Done
+
+Start Process>> CompanyId: 0C000015CP, File:NRA\Fundamental\OperationRatios\Delta\Delta_OperationRatio.zip
+Have diff
+Process Done
+
+Start Process>> CompanyId: 0C000015CP, File:NRA\Fundamental\OperationRatios\Delta\Delta_OperationRatiosRes.zip
+Have diff
+Process Done
+
+Start Process>> CompanyId: 0C000015J9, File:NRA\Fundamental\FinancialStatements\Delta\Delta_FinancialStatement.zip
+Have diff
+Process Done
+
+Start Process>> CompanyId: 0C000015J9, File:NRA\Fundamental\FinancialStatements\Delta\Delta_FinancialStatementsRes.zip
+Have diff
+Process Done
+
+Start Process>> CompanyId: 0C000015J9, File:NRA\Fundamental\OperationRatios\Delta\Delta_OperationRatio.zip
+Have diff
+Process Done
+
+Start Process>> CompanyId: 0C000015J9, File:NRA\Fundamental\OperationRatios\Delta\Delta_OperationRatiosRes.zip
+Have diff
+Process Done
+
+Start Process>> CompanyId: 0C000015WV, File:NRA\Fundamental\FinancialStatements\Delta\Delta_FinancialStatement.zip
+No diff
+Process Done
+
+Start Process>> CompanyId: 0C000015WV, File:NRA\Fundamental\FinancialStatements\Delta\Delta_FinancialStatementsRes.zip
+No diff
+Process Done
+
+Start Process>> CompanyId: 0C000015WV, File:NRA\Fundamental\OperationRatios\Delta\Delta_OperationRatio.zip
+Have diff
+Process Done
+
+Start Process>> CompanyId: 0C000015WV, File:NRA\Fundamental\OperationRatios\Delta\Delta_OperationRatiosRes.zip
+Have diff
+Process Done
+
+Start Process>> CompanyId: 0C00001622, File:NRA\Fundamental\FinancialStatements\Delta\Delta_FinancialStatement.zip
+Both File Can't find {0C00001622 in z:\DEV\PT2.0-GEDF-20180324\NRA_Monthly_FinancialStatementsAOR_2018-2.zip} and {0C00001622 in z:\NRA\Fundamental\FinancialStatements\Delta\Delta_FinancialStatementsAOR_2018-04-02.zip}
+
+data file is not exits which generate at 03/24
+data file is not exits which generate at 04/02
+No diff
+Process Done
+
+Start Process>> CompanyId: 0C00001622, File:NRA\Fundamental\FinancialStatements\Delta\Delta_FinancialStatementsRes.zip
+Both File Can't find {0C00001622 in z:\DEV\PT2.0-GEDF-20180324\NRA_Monthly_FinancialStatementsRestate_2018-2.zip} and {0C00001622 in z:\NRA\Fundamental\FinancialStatements\Delta\Delta_FinancialStatementsRestate_2018-04-02.zip}
+
+data file is not exits which generate at 03/24
+data file is not exits which generate at 04/02
+No diff
+Process Done
+
+Start Process>> CompanyId: 0C00001622, File:NRA\Fundamental\OperationRatios\Delta\Delta_OperationRatio.zip
+Both File Can't find {0C00001622 in z:\DEV\PT2.0-GEDF-20180324\NRA_Monthly_OperationRatiosAOR_2018-2.zip} and {0C00001622 in z:\NRA\Fundamental\OperationRatios\Delta\Delta_OperationRatiosAOR_2018-04-02.zip}
+
+data file is not exits which generate at 03/24
+data file is not exits which generate at 04/02
+No diff
+Process Done
+
+Start Process>> CompanyId: 0C00001622, File:NRA\Fundamental\OperationRatios\Delta\Delta_OperationRatiosRes.zip
+Both File Can't find {0C00001622 in z:\DEV\PT2.0-GEDF-20180324\NRA_Monthly_OperationRatiosRestate_2018-2.zip} and {0C00001622 in z:\NRA\Fundamental\OperationRatios\Delta\Delta_OperationRatiosRestate_2018-04-02.zip}
+
+data file is not exits which generate at 03/24
+data file is not exits which generate at 04/02
+No diff
+Process Done
+
+Start Process>> CompanyId: 0C000016G7, File:NRA\Fundamental\FinancialStatements\Delta\Delta_FinancialStatement.zip
+Have diff
+Process Done
+
+Start Process>> CompanyId: 0C000016G7, File:NRA\Fundamental\FinancialStatements\Delta\Delta_FinancialStatementsRes.zip
+Have diff
+Process Done
+
+Start Process>> CompanyId: 0C000016G7, File:NRA\Fundamental\OperationRatios\Delta\Delta_OperationRatio.zip
+Have diff
+Process Done
+
+Start Process>> CompanyId: 0C000016G7, File:NRA\Fundamental\OperationRatios\Delta\Delta_OperationRatiosRes.zip
+Have diff
+Process Done
+
+Start Process>> CompanyId: 0C00001HZS, File:NRA\Fundamental\FinancialStatements\Delta\Delta_FinancialStatement.zip
+No diff
+Process Done
+
+Start Process>> CompanyId: 0C00001HZS, File:NRA\Fundamental\FinancialStatements\Delta\Delta_FinancialStatementsRes.zip
+No diff
+Process Done
+
+Start Process>> CompanyId: 0C00001HZS, File:NRA\Fundamental\OperationRatios\Delta\Delta_OperationRatio.zip
+No diff
+Process Done
+
+Start Process>> CompanyId: 0C00001HZS, File:NRA\Fundamental\OperationRatios\Delta\Delta_OperationRatiosRes.zip
+No diff
+Process Done
+
+Start Process>> CompanyId: 0C00001JA6, File:NRA\Fundamental\FinancialStatements\Delta\Delta_FinancialStatement.zip
+Have diff
+Process Done
+
+Start Process>> CompanyId: 0C00001JA6, File:NRA\Fundamental\FinancialStatements\Delta\Delta_FinancialStatementsRes.zip
+Have diff
+Process Done
+
+Start Process>> CompanyId: 0C00001JA6, File:NRA\Fundamental\OperationRatios\Delta\Delta_OperationRatio.zip
+Have diff
+Process Done
+
+Start Process>> CompanyId: 0C00001JA6, File:NRA\Fundamental\OperationRatios\Delta\Delta_OperationRatiosRes.zip
+Have diff
+Process Done
+
+Start Process>> CompanyId: 0C00001MBL, File:NRA\Fundamental\FinancialStatements\Delta\Delta_FinancialStatement.zip
+No diff
+Process Done
+
+Start Process>> CompanyId: 0C00001MBL, File:NRA\Fundamental\FinancialStatements\Delta\Delta_FinancialStatementsRes.zip
+No diff
+Process Done
+
+Start Process>> CompanyId: 0C00001MBL, File:NRA\Fundamental\OperationRatios\Delta\Delta_OperationRatio.zip
+Have diff
+Process Done
+
+Start Process>> CompanyId: 0C00001MBL, File:NRA\Fundamental\OperationRatios\Delta\Delta_OperationRatiosRes.zip
+Have diff
+Process Done
+
+Start Process>> CompanyId: 0C00002BE2, File:NRA\Fundamental\FinancialStatements\Delta\Delta_FinancialStatement.zip
+Have diff
+Process Done
+
+Start Process>> CompanyId: 0C00002BE2, File:NRA\Fundamental\FinancialStatements\Delta\Delta_FinancialStatementsRes.zip
+Have diff
+Process Done
+
+Start Process>> CompanyId: 0C00002BE2, File:NRA\Fundamental\OperationRatios\Delta\Delta_OperationRatio.zip
+Have diff
+Process Done
+
+Start Process>> CompanyId: 0C00002BE2, File:NRA\Fundamental\OperationRatios\Delta\Delta_OperationRatiosRes.zip
+Have diff
+Process Done
+
+Start Process>> CompanyId: 0C00002BE6, File:NRA\Fundamental\FinancialStatements\Delta\Delta_FinancialStatement.zip
+No diff
+Process Done
+
+Start Process>> CompanyId: 0C00002BE6, File:NRA\Fundamental\FinancialStatements\Delta\Delta_FinancialStatementsRes.zip
+No diff
+Process Done
+
+Start Process>> CompanyId: 0C00002BE6, File:NRA\Fundamental\OperationRatios\Delta\Delta_OperationRatio.zip
+Have diff
+Process Done
+
+Start Process>> CompanyId: 0C00002BE6, File:NRA\Fundamental\OperationRatios\Delta\Delta_OperationRatiosRes.zip
+Have diff
+Process Done
+
+Start Process>> CompanyId: 0C00002BIK, File:NRA\Fundamental\FinancialStatements\Delta\Delta_FinancialStatement.zip
+No diff
+Process Done
+
+Start Process>> CompanyId: 0C00002BIK, File:NRA\Fundamental\FinancialStatements\Delta\Delta_FinancialStatementsRes.zip
+Have diff
+Process Done
+
+Start Process>> CompanyId: 0C00002BIK, File:NRA\Fundamental\OperationRatios\Delta\Delta_OperationRatio.zip
+Have diff
+Process Done
+
+Start Process>> CompanyId: 0C00002BIK, File:NRA\Fundamental\OperationRatios\Delta\Delta_OperationRatiosRes.zip
+Have diff
+Process Done
+
+Start Process>> CompanyId: 0C00002C85, File:NRA\Fundamental\FinancialStatements\Delta\Delta_FinancialStatement.zip
+No diff
+Process Done
+
+Start Process>> CompanyId: 0C00002C85, File:NRA\Fundamental\FinancialStatements\Delta\Delta_FinancialStatementsRes.zip
+No diff
+Process Done
+
+Start Process>> CompanyId: 0C00002C85, File:NRA\Fundamental\OperationRatios\Delta\Delta_OperationRatio.zip
+Have diff
+Process Done
+
+Start Process>> CompanyId: 0C00002C85, File:NRA\Fundamental\OperationRatios\Delta\Delta_OperationRatiosRes.zip
+Have diff
+Process Done
+
+Start Process>> CompanyId: 0C00002CCY, File:NRA\Fundamental\FinancialStatements\Delta\Delta_FinancialStatement.zip
+Have diff
+Process Done
+
+Start Process>> CompanyId: 0C00002CCY, File:NRA\Fundamental\FinancialStatements\Delta\Delta_FinancialStatementsRes.zip
+Have diff
+Process Done
+
+Start Process>> CompanyId: 0C00002CCY, File:NRA\Fundamental\OperationRatios\Delta\Delta_OperationRatio.zip
+Have diff
+Process Done
+
+Start Process>> CompanyId: 0C00002CCY, File:NRA\Fundamental\OperationRatios\Delta\Delta_OperationRatiosRes.zip
+Have diff
+Process Done
+
+Start Process>> CompanyId: 0C00002JWR, File:NRA\Fundamental\FinancialStatements\Delta\Delta_FinancialStatement.zip
+data file is not exits which generate at 04/02
+Have diff
+Process Done
+
+Start Process>> CompanyId: 0C00002JWR, File:NRA\Fundamental\FinancialStatements\Delta\Delta_FinancialStatementsRes.zip
+data file is not exits which generate at 04/02
+Have diff
+Process Done
+
+Start Process>> CompanyId: 0C00002JWR, File:NRA\Fundamental\OperationRatios\Delta\Delta_OperationRatio.zip
+data file is not exits which generate at 04/02
+Have diff
+Process Done
+
+Start Process>> CompanyId: 0C00002JWR, File:NRA\Fundamental\OperationRatios\Delta\Delta_OperationRatiosRes.zip
+data file is not exits which generate at 04/02
+Have diff
+Process Done
+
+Start Process>> CompanyId: 0C0000375N, File:NRA\Fundamental\FinancialStatements\Delta\Delta_FinancialStatement.zip
+Have diff
+Process Done
+
+Start Process>> CompanyId: 0C0000375N, File:NRA\Fundamental\FinancialStatements\Delta\Delta_FinancialStatementsRes.zip
+Have diff
+Process Done
+
+Start Process>> CompanyId: 0C0000375N, File:NRA\Fundamental\OperationRatios\Delta\Delta_OperationRatio.zip
+Have diff
+Process Done
+
+Start Process>> CompanyId: 0C0000375N, File:NRA\Fundamental\OperationRatios\Delta\Delta_OperationRatiosRes.zip
+Have diff
+Process Done
+
+Start Process>> CompanyId: 0C000037D8, File:NRA\Fundamental\FinancialStatements\Delta\Delta_FinancialStatement.zip
+No diff
+Process Done
+
+Start Process>> CompanyId: 0C000037D8, File:NRA\Fundamental\FinancialStatements\Delta\Delta_FinancialStatementsRes.zip
+No diff
+Process Done
+
+Start Process>> CompanyId: 0C000037D8, File:NRA\Fundamental\OperationRatios\Delta\Delta_OperationRatio.zip
+Have diff
+Process Done
+
+Start Process>> CompanyId: 0C000037D8, File:NRA\Fundamental\OperationRatios\Delta\Delta_OperationRatiosRes.zip
+Have diff
+Process Done
+
+Start Process>> CompanyId: 0C000037I7, File:NRA\Fundamental\FinancialStatements\Delta\Delta_FinancialStatement.zip
+No diff
+Process Done
+
+Start Process>> CompanyId: 0C000037I7, File:NRA\Fundamental\FinancialStatements\Delta\Delta_FinancialStatementsRes.zip
+No diff
+Process Done
+
+Start Process>> CompanyId: 0C000037I7, File:NRA\Fundamental\OperationRatios\Delta\Delta_OperationRatio.zip
+Have diff
+Process Done
+
+Start Process>> CompanyId: 0C000037I7, File:NRA\Fundamental\OperationRatios\Delta\Delta_OperationRatiosRes.zip
+Have diff
+Process Done
+
+Start Process>> CompanyId: 0C00003AMB, File:NRA\Fundamental\FinancialStatements\Delta\Delta_FinancialStatement.zip
+No diff
+Process Done
+
+Start Process>> CompanyId: 0C00003AMB, File:NRA\Fundamental\FinancialStatements\Delta\Delta_FinancialStatementsRes.zip
+No diff
+Process Done
+
+Start Process>> CompanyId: 0C00003AMB, File:NRA\Fundamental\OperationRatios\Delta\Delta_OperationRatio.zip
+Have diff
+Process Done
+
+Start Process>> CompanyId: 0C00003AMB, File:NRA\Fundamental\OperationRatios\Delta\Delta_OperationRatiosRes.zip
+Have diff
+Process Done
+
+Start Process>> CompanyId: 0C00003AMO, File:NRA\Fundamental\FinancialStatements\Delta\Delta_FinancialStatement.zip
+Have diff
+Process Done
+
+Start Process>> CompanyId: 0C00003AMO, File:NRA\Fundamental\FinancialStatements\Delta\Delta_FinancialStatementsRes.zip
+Have diff
+Process Done
+
+Start Process>> CompanyId: 0C00003AMO, File:NRA\Fundamental\OperationRatios\Delta\Delta_OperationRatio.zip
+Have diff
+Process Done
+
+Start Process>> CompanyId: 0C00003AMO, File:NRA\Fundamental\OperationRatios\Delta\Delta_OperationRatiosRes.zip
+Have diff
+Process Done
+
+Start Process>> CompanyId: 0C00003BIC, File:NRA\Fundamental\FinancialStatements\Delta\Delta_FinancialStatement.zip
+Both File Can't find {0C00003BIC in z:\DEV\PT2.0-GEDF-20180324\NRA_Monthly_FinancialStatementsAOR_2018-2.zip} and {0C00003BIC in z:\NRA\Fundamental\FinancialStatements\Delta\Delta_FinancialStatementsAOR_2018-04-02.zip}
+
+data file is not exits which generate at 03/24
+data file is not exits which generate at 04/02
+No diff
+Process Done
+
+Start Process>> CompanyId: 0C00003BIC, File:NRA\Fundamental\FinancialStatements\Delta\Delta_FinancialStatementsRes.zip
+Both File Can't find {0C00003BIC in z:\DEV\PT2.0-GEDF-20180324\NRA_Monthly_FinancialStatementsRestate_2018-2.zip} and {0C00003BIC in z:\NRA\Fundamental\FinancialStatements\Delta\Delta_FinancialStatementsRestate_2018-04-02.zip}
+
+data file is not exits which generate at 03/24
+data file is not exits which generate at 04/02
+No diff
+Process Done
+
+Start Process>> CompanyId: 0C00003BIC, File:NRA\Fundamental\OperationRatios\Delta\Delta_OperationRatio.zip
+Both File Can't find {0C00003BIC in z:\DEV\PT2.0-GEDF-20180324\NRA_Monthly_OperationRatiosAOR_2018-2.zip} and {0C00003BIC in z:\NRA\Fundamental\OperationRatios\Delta\Delta_OperationRatiosAOR_2018-04-02.zip}
+
+data file is not exits which generate at 03/24
+data file is not exits which generate at 04/02
+No diff
+Process Done
+
+Start Process>> CompanyId: 0C00003BIC, File:NRA\Fundamental\OperationRatios\Delta\Delta_OperationRatiosRes.zip
+Both File Can't find {0C00003BIC in z:\DEV\PT2.0-GEDF-20180324\NRA_Monthly_OperationRatiosRestate_2018-2.zip} and {0C00003BIC in z:\NRA\Fundamental\OperationRatios\Delta\Delta_OperationRatiosRestate_2018-04-02.zip}
+
+data file is not exits which generate at 03/24
+data file is not exits which generate at 04/02
+No diff
+Process Done
+
+Start Process>> CompanyId: 0C00003DI3, File:NRA\Fundamental\FinancialStatements\Delta\Delta_FinancialStatement.zip
+No diff
+Process Done
+
+Start Process>> CompanyId: 0C00003DI3, File:NRA\Fundamental\FinancialStatements\Delta\Delta_FinancialStatementsRes.zip
+No diff
+Process Done
+
+Start Process>> CompanyId: 0C00003DI3, File:NRA\Fundamental\OperationRatios\Delta\Delta_OperationRatio.zip
+Have diff
+Process Done
+
+Start Process>> CompanyId: 0C00003DI3, File:NRA\Fundamental\OperationRatios\Delta\Delta_OperationRatiosRes.zip
+Have diff
+Process Done
+
+Start Process>> CompanyId: 0C000048K5, File:NRA\Fundamental\FinancialStatements\Delta\Delta_FinancialStatement.zip
+Both File Can't find {0C000048K5 in z:\DEV\PT2.0-GEDF-20180324\NRA_Monthly_FinancialStatementsAOR_2018-2.zip} and {0C000048K5 in z:\NRA\Fundamental\FinancialStatements\Delta\Delta_FinancialStatementsAOR_2018-04-02.zip}
+
+data file is not exits which generate at 03/24
+data file is not exits which generate at 04/02
+No diff
+Process Done
+
+Start Process>> CompanyId: 0C000048K5, File:NRA\Fundamental\FinancialStatements\Delta\Delta_FinancialStatementsRes.zip
+Both File Can't find {0C000048K5 in z:\DEV\PT2.0-GEDF-20180324\NRA_Monthly_FinancialStatementsRestate_2018-2.zip} and {0C000048K5 in z:\NRA\Fundamental\FinancialStatements\Delta\Delta_FinancialStatementsRestate_2018-04-02.zip}
+
+data file is not exits which generate at 03/24
+data file is not exits which generate at 04/02
+No diff
+Process Done
+
+Start Process>> CompanyId: 0C000048K5, File:NRA\Fundamental\OperationRatios\Delta\Delta_OperationRatio.zip
+Both File Can't find {0C000048K5 in z:\DEV\PT2.0-GEDF-20180324\NRA_Monthly_OperationRatiosAOR_2018-2.zip} and {0C000048K5 in z:\NRA\Fundamental\OperationRatios\Delta\Delta_OperationRatiosAOR_2018-04-02.zip}
+
+data file is not exits which generate at 03/24
+data file is not exits which generate at 04/02
+No diff
+Process Done
+
+Start Process>> CompanyId: 0C000048K5, File:NRA\Fundamental\OperationRatios\Delta\Delta_OperationRatiosRes.zip
+Both File Can't find {0C000048K5 in z:\DEV\PT2.0-GEDF-20180324\NRA_Monthly_OperationRatiosRestate_2018-2.zip} and {0C000048K5 in z:\NRA\Fundamental\OperationRatios\Delta\Delta_OperationRatiosRestate_2018-04-02.zip}
+
+data file is not exits which generate at 03/24
+data file is not exits which generate at 04/02
+No diff
+Process Done
+
+Start Process>> CompanyId: 0C00004I9L, File:NRA\Fundamental\FinancialStatements\Delta\Delta_FinancialStatement.zip
+No diff
+Process Done
+
+Start Process>> CompanyId: 0C00004I9L, File:NRA\Fundamental\FinancialStatements\Delta\Delta_FinancialStatementsRes.zip
+No diff
+Process Done
+
+Start Process>> CompanyId: 0C00004I9L, File:NRA\Fundamental\OperationRatios\Delta\Delta_OperationRatio.zip
+Have diff
+Process Done
+
+Start Process>> CompanyId: 0C00004I9L, File:NRA\Fundamental\OperationRatios\Delta\Delta_OperationRatiosRes.zip
+Have diff
+Process Done
+
+Start Process>> CompanyId: 0C000051BO, File:NRA\Fundamental\FinancialStatements\Delta\Delta_FinancialStatement.zip
+No diff
+Process Done
+
+Start Process>> CompanyId: 0C000051BO, File:NRA\Fundamental\FinancialStatements\Delta\Delta_FinancialStatementsRes.zip
+No diff
+Process Done
+
+Start Process>> CompanyId: 0C000051BO, File:NRA\Fundamental\OperationRatios\Delta\Delta_OperationRatio.zip
+Have diff
+Process Done
+
+Start Process>> CompanyId: 0C000051BO, File:NRA\Fundamental\OperationRatios\Delta\Delta_OperationRatiosRes.zip
+Have diff
+Process Done
+
+Start Process>> CompanyId: 0C00006JXN, File:NRA\Fundamental\FinancialStatements\Delta\Delta_FinancialStatement.zip
+Have diff
+Process Done
+
+Start Process>> CompanyId: 0C00006JXN, File:NRA\Fundamental\FinancialStatements\Delta\Delta_FinancialStatementsRes.zip
+Have diff
+Process Done
+
+Start Process>> CompanyId: 0C00006JXN, File:NRA\Fundamental\OperationRatios\Delta\Delta_OperationRatio.zip
+Have diff
+Process Done
+
+Start Process>> CompanyId: 0C00006JXN, File:NRA\Fundamental\OperationRatios\Delta\Delta_OperationRatiosRes.zip
+Have diff
+Process Done
+
+Start Process>> CompanyId: 0C00008FOG, File:NRA\Fundamental\FinancialStatements\Delta\Delta_FinancialStatement.zip
+No diff
+Process Done
+
+Start Process>> CompanyId: 0C00008FOG, File:NRA\Fundamental\FinancialStatements\Delta\Delta_FinancialStatementsRes.zip
+No diff
+Process Done
+
+Start Process>> CompanyId: 0C00008FOG, File:NRA\Fundamental\OperationRatios\Delta\Delta_OperationRatio.zip
+Have diff
+Process Done
+
+Start Process>> CompanyId: 0C00008FOG, File:NRA\Fundamental\OperationRatios\Delta\Delta_OperationRatiosRes.zip
+Have diff
+Process Done
+
+Start Process>> CompanyId: 0C00008Q21, File:NRA\Fundamental\FinancialStatements\Delta\Delta_FinancialStatement.zip
+No diff
+Process Done
+
+Start Process>> CompanyId: 0C00008Q21, File:NRA\Fundamental\FinancialStatements\Delta\Delta_FinancialStatementsRes.zip
+Have diff
+Process Done
+
+Start Process>> CompanyId: 0C00008Q21, File:NRA\Fundamental\OperationRatios\Delta\Delta_OperationRatio.zip
+Have diff
+Process Done
+
+Start Process>> CompanyId: 0C00008Q21, File:NRA\Fundamental\OperationRatios\Delta\Delta_OperationRatiosRes.zip
+Have diff
+Process Done
+
+Start Process>> CompanyId: 0C00008T5M, File:NRA\Fundamental\FinancialStatements\Delta\Delta_FinancialStatement.zip
+No diff
+Process Done
+
+Start Process>> CompanyId: 0C00008T5M, File:NRA\Fundamental\FinancialStatements\Delta\Delta_FinancialStatementsRes.zip
+No diff
+Process Done
+
+Start Process>> CompanyId: 0C00008T5M, File:NRA\Fundamental\OperationRatios\Delta\Delta_OperationRatio.zip
+Have diff
+Process Done
+
+Start Process>> CompanyId: 0C00008T5M, File:NRA\Fundamental\OperationRatios\Delta\Delta_OperationRatiosRes.zip
+Have diff
+Process Done
+
+Start Process>> CompanyId: 0C00008WVR, File:NRA\Fundamental\FinancialStatements\Delta\Delta_FinancialStatement.zip
+No diff
+Process Done
+
+Start Process>> CompanyId: 0C00008WVR, File:NRA\Fundamental\FinancialStatements\Delta\Delta_FinancialStatementsRes.zip
+No diff
+Process Done
+
+Start Process>> CompanyId: 0C00008WVR, File:NRA\Fundamental\OperationRatios\Delta\Delta_OperationRatio.zip
+Have diff
+Process Done
+
+Start Process>> CompanyId: 0C00008WVR, File:NRA\Fundamental\OperationRatios\Delta\Delta_OperationRatiosRes.zip
+Have diff
+Process Done
+
+Start Process>> CompanyId: 0C000092DD, File:NRA\Fundamental\FinancialStatements\Delta\Delta_FinancialStatement.zip
+Have diff
+Process Done
+
+Start Process>> CompanyId: 0C000092DD, File:NRA\Fundamental\FinancialStatements\Delta\Delta_FinancialStatementsRes.zip
+Have diff
+Process Done
+
+Start Process>> CompanyId: 0C000092DD, File:NRA\Fundamental\OperationRatios\Delta\Delta_OperationRatio.zip
+Have diff
+Process Done
+
+Start Process>> CompanyId: 0C000092DD, File:NRA\Fundamental\OperationRatios\Delta\Delta_OperationRatiosRes.zip
+Have diff
+Process Done
+
+Start Process>> CompanyId: 0C00009VY9, File:NRA\Fundamental\FinancialStatements\Delta\Delta_FinancialStatement.zip
+Have diff
+Process Done
+
+Start Process>> CompanyId: 0C00009VY9, File:NRA\Fundamental\FinancialStatements\Delta\Delta_FinancialStatementsRes.zip
+Have diff
+Process Done
+
+Start Process>> CompanyId: 0C00009VY9, File:NRA\Fundamental\OperationRatios\Delta\Delta_OperationRatio.zip
+Have diff
+Process Done
+
+Start Process>> CompanyId: 0C00009VY9, File:NRA\Fundamental\OperationRatios\Delta\Delta_OperationRatiosRes.zip
+Have diff
+Process Done
+
+Start Process>> CompanyId: 0C0000AO6T, File:NRA\Fundamental\FinancialStatements\Delta\Delta_FinancialStatement.zip
+No diff
+Process Done
+
+Start Process>> CompanyId: 0C0000AO6T, File:NRA\Fundamental\FinancialStatements\Delta\Delta_FinancialStatementsRes.zip
+No diff
+Process Done
+
+Start Process>> CompanyId: 0C0000AO6T, File:NRA\Fundamental\OperationRatios\Delta\Delta_OperationRatio.zip
+Have diff
+Process Done
+
+Start Process>> CompanyId: 0C0000AO6T, File:NRA\Fundamental\OperationRatios\Delta\Delta_OperationRatiosRes.zip
+Have diff
+Process Done
+
+Start Process>> CompanyId: 0C0000B0JS, File:NRA\Fundamental\FinancialStatements\Delta\Delta_FinancialStatement.zip
+Have diff
+Process Done
+
+Start Process>> CompanyId: 0C0000B0JS, File:NRA\Fundamental\FinancialStatements\Delta\Delta_FinancialStatementsRes.zip
+Have diff
+Process Done
+
+Start Process>> CompanyId: 0C0000B0JS, File:NRA\Fundamental\OperationRatios\Delta\Delta_OperationRatio.zip
+Have diff
+Process Done
+
+Start Process>> CompanyId: 0C0000B0JS, File:NRA\Fundamental\OperationRatios\Delta\Delta_OperationRatiosRes.zip
+Have diff
+Process Done
+
+Start Process>> CompanyId: 0C00000P1V, File:ASP\Fundamental\FinancialStatements\Delta\Delta_FinancialStatement.zip
+Have diff
+Process Done
+
+Start Process>> CompanyId: 0C00000P1V, File:ASP\Fundamental\FinancialStatements\Delta\Delta_FinancialStatementsRes.zip
+Have diff
+Process Done
+
+Start Process>> CompanyId: 0C00000P1V, File:ASP\Fundamental\OperationRatios\Delta\Delta_OperationRatio.zip
+Have diff
+Process Done
+
+Start Process>> CompanyId: 0C00000P1V, File:ASP\Fundamental\OperationRatios\Delta\Delta_OperationRatiosRes.zip
+Have diff
+Process Done
+
+Start Process>> CompanyId: 0C00000WJP, File:ASP\Fundamental\FinancialStatements\Delta\Delta_FinancialStatement.zip
+Have diff
+Process Done
+
+Start Process>> CompanyId: 0C00000WJP, File:ASP\Fundamental\FinancialStatements\Delta\Delta_FinancialStatementsRes.zip
+Have diff
+Process Done
+
+Start Process>> CompanyId: 0C00000WJP, File:ASP\Fundamental\OperationRatios\Delta\Delta_OperationRatio.zip
+Have diff
+Process Done
+
+Start Process>> CompanyId: 0C00000WJP, File:ASP\Fundamental\OperationRatios\Delta\Delta_OperationRatiosRes.zip
+Have diff
+Process Done
+
+Start Process>> CompanyId: 0C00000X63, File:UKI\Fundamental\FinancialStatements\Delta\Delta_FinancialStatement.zip
+No diff
+Process Done
+
+Start Process>> CompanyId: 0C00000X63, File:UKI\Fundamental\FinancialStatements\Delta\Delta_FinancialStatementsRes.zip
+No diff
+Process Done
+
+Start Process>> CompanyId: 0C00000X63, File:UKI\Fundamental\OperationRatios\Delta\Delta_OperationRatio.zip
+Have diff
+Process Done
+
+Start Process>> CompanyId: 0C00000X63, File:UKI\Fundamental\OperationRatios\Delta\Delta_OperationRatiosRes.zip
+Have diff
+Process Done
+
+Start Process>> CompanyId: 0C00000X7Q, File:UKI\Fundamental\FinancialStatements\Delta\Delta_FinancialStatement.zip
+Have diff
+Process Done
+
+Start Process>> CompanyId: 0C00000X7Q, File:UKI\Fundamental\FinancialStatements\Delta\Delta_FinancialStatementsRes.zip
+Have diff
+Process Done
+
+Start Process>> CompanyId: 0C00000X7Q, File:UKI\Fundamental\OperationRatios\Delta\Delta_OperationRatio.zip
+Have diff
+Process Done
+
+Start Process>> CompanyId: 0C00000X7Q, File:UKI\Fundamental\OperationRatios\Delta\Delta_OperationRatiosRes.zip
+Have diff
+Process Done
+
+Start Process>> CompanyId: 0C00000XD4, File:EUR\Fundamental\FinancialStatements\Delta\Delta_FinancialStatement.zip
+Have diff
+Process Done
+
+Start Process>> CompanyId: 0C00000XD4, File:EUR\Fundamental\FinancialStatements\Delta\Delta_FinancialStatementsRes.zip
+Have diff
+Process Done
+
+Start Process>> CompanyId: 0C00000XD4, File:EUR\Fundamental\OperationRatios\Delta\Delta_OperationRatio.zip
+Have diff
+Process Done
+
+Start Process>> CompanyId: 0C00000XD4, File:EUR\Fundamental\OperationRatios\Delta\Delta_OperationRatiosRes.zip
+Have diff
+Process Done
+
+Start Process>> CompanyId: 0C00000XL5, File:UKI\Fundamental\FinancialStatements\Delta\Delta_FinancialStatement.zip
+No diff
+Process Done
+
+Start Process>> CompanyId: 0C00000XL5, File:UKI\Fundamental\FinancialStatements\Delta\Delta_FinancialStatementsRes.zip
+No diff
+Process Done
+
+Start Process>> CompanyId: 0C00000XL5, File:UKI\Fundamental\OperationRatios\Delta\Delta_OperationRatio.zip
+Have diff
+Process Done
+
+Start Process>> CompanyId: 0C00000XL5, File:UKI\Fundamental\OperationRatios\Delta\Delta_OperationRatiosRes.zip
+Have diff
+Process Done
+
+Start Process>> CompanyId: 0C00000XPX, File:UKI\Fundamental\FinancialStatements\Delta\Delta_FinancialStatement.zip
+No diff
+Process Done
+
+Start Process>> CompanyId: 0C00000XPX, File:UKI\Fundamental\FinancialStatements\Delta\Delta_FinancialStatementsRes.zip
+No diff
+Process Done
+
+Start Process>> CompanyId: 0C00000XPX, File:UKI\Fundamental\OperationRatios\Delta\Delta_OperationRatio.zip
+Have diff
+Process Done
+
+Start Process>> CompanyId: 0C00000XPX, File:UKI\Fundamental\OperationRatios\Delta\Delta_OperationRatiosRes.zip
+Have diff
+Process Done
+
+Start Process>> CompanyId: 0C00000ZZU, File:LTA\Fundamental\FinancialStatements\Delta\Delta_FinancialStatement.zip
+Have diff
+Process Done
+
+Start Process>> CompanyId: 0C00000ZZU, File:LTA\Fundamental\FinancialStatements\Delta\Delta_FinancialStatementsRes.zip
+Have diff
+Process Done
+
+Start Process>> CompanyId: 0C00000ZZU, File:LTA\Fundamental\OperationRatios\Delta\Delta_OperationRatio.zip
+Have diff
+Process Done
+
+Start Process>> CompanyId: 0C00000ZZU, File:LTA\Fundamental\OperationRatios\Delta\Delta_OperationRatiosRes.zip
+Have diff
+Process Done
+
+Start Process>> CompanyId: 0C000014A9, File:UKI\Fundamental\FinancialStatements\Delta\Delta_FinancialStatement.zip
+No diff
+Process Done
+
+Start Process>> CompanyId: 0C000014A9, File:UKI\Fundamental\FinancialStatements\Delta\Delta_FinancialStatementsRes.zip
+No diff
+Process Done
+
+Start Process>> CompanyId: 0C000014A9, File:UKI\Fundamental\OperationRatios\Delta\Delta_OperationRatio.zip
+No diff
+Process Done
+
+Start Process>> CompanyId: 0C000014A9, File:UKI\Fundamental\OperationRatios\Delta\Delta_OperationRatiosRes.zip
+No diff
+Process Done
+
+Start Process>> CompanyId: 0C0000156F, File:ASP\Fundamental\FinancialStatements\Delta\Delta_FinancialStatement.zip
+Have diff
+Process Done
+
+Start Process>> CompanyId: 0C0000156F, File:ASP\Fundamental\FinancialStatements\Delta\Delta_FinancialStatementsRes.zip
+Have diff
+Process Done
+
+Start Process>> CompanyId: 0C0000156F, File:ASP\Fundamental\OperationRatios\Delta\Delta_OperationRatio.zip
+Have diff
+Process Done
+
+Start Process>> CompanyId: 0C0000156F, File:ASP\Fundamental\OperationRatios\Delta\Delta_OperationRatiosRes.zip
+Have diff
+Process Done
+
+Start Process>> CompanyId: 0C0000158J, File:ASP\Fundamental\FinancialStatements\Delta\Delta_FinancialStatement.zip
+Have diff
+Process Done
+
+Start Process>> CompanyId: 0C0000158J, File:ASP\Fundamental\FinancialStatements\Delta\Delta_FinancialStatementsRes.zip
+Have diff
+Process Done
+
+Start Process>> CompanyId: 0C0000158J, File:ASP\Fundamental\OperationRatios\Delta\Delta_OperationRatio.zip
+Have diff
+Process Done
+
+Start Process>> CompanyId: 0C0000158J, File:ASP\Fundamental\OperationRatios\Delta\Delta_OperationRatiosRes.zip
+Have diff
+Process Done
+
+Start Process>> CompanyId: 0C0000158L, File:ASP\Fundamental\FinancialStatements\Delta\Delta_FinancialStatement.zip
+Have diff
+Process Done
+
+Start Process>> CompanyId: 0C0000158L, File:ASP\Fundamental\FinancialStatements\Delta\Delta_FinancialStatementsRes.zip
+Have diff
+Process Done
+
+Start Process>> CompanyId: 0C0000158L, File:ASP\Fundamental\OperationRatios\Delta\Delta_OperationRatio.zip
+Have diff
+Process Done
+
+Start Process>> CompanyId: 0C0000158L, File:ASP\Fundamental\OperationRatios\Delta\Delta_OperationRatiosRes.zip
+Have diff
+Process Done
+
+Start Process>> CompanyId: 0C000015CH, File:ASP\Fundamental\FinancialStatements\Delta\Delta_FinancialStatement.zip
+Have diff
+Process Done
+
+Start Process>> CompanyId: 0C000015CH, File:ASP\Fundamental\FinancialStatements\Delta\Delta_FinancialStatementsRes.zip
+Have diff
+Process Done
+
+Start Process>> CompanyId: 0C000015CH, File:ASP\Fundamental\OperationRatios\Delta\Delta_OperationRatio.zip
+Have diff
+Process Done
+
+Start Process>> CompanyId: 0C000015CH, File:ASP\Fundamental\OperationRatios\Delta\Delta_OperationRatiosRes.zip
+Have diff
+Process Done
+
+Start Process>> CompanyId: 0C000015CU, File:ASP\Fundamental\FinancialStatements\Delta\Delta_FinancialStatement.zip
+Have diff
+Process Done
+
+Start Process>> CompanyId: 0C000015CU, File:ASP\Fundamental\FinancialStatements\Delta\Delta_FinancialStatementsRes.zip
+Have diff
+Process Done
+
+Start Process>> CompanyId: 0C000015CU, File:ASP\Fundamental\OperationRatios\Delta\Delta_OperationRatio.zip
+Have diff
+Process Done
+
+Start Process>> CompanyId: 0C000015CU, File:ASP\Fundamental\OperationRatios\Delta\Delta_OperationRatiosRes.zip
+Have diff
+Process Done
+
+Start Process>> CompanyId: 0C000015CW, File:ASP\Fundamental\FinancialStatements\Delta\Delta_FinancialStatement.zip
+Have diff
+Process Done
+
+Start Process>> CompanyId: 0C000015CW, File:ASP\Fundamental\FinancialStatements\Delta\Delta_FinancialStatementsRes.zip
+Have diff
+Process Done
+
+Start Process>> CompanyId: 0C000015CW, File:ASP\Fundamental\OperationRatios\Delta\Delta_OperationRatio.zip
+Have diff
+Process Done
+
+Start Process>> CompanyId: 0C000015CW, File:ASP\Fundamental\OperationRatios\Delta\Delta_OperationRatiosRes.zip
+Have diff
+Process Done
+
+Start Process>> CompanyId: 0C000015IA, File:ASP\Fundamental\FinancialStatements\Delta\Delta_FinancialStatement.zip
+Have diff
+Process Done
+
+Start Process>> CompanyId: 0C000015IA, File:ASP\Fundamental\FinancialStatements\Delta\Delta_FinancialStatementsRes.zip
+Have diff
+Process Done
+
+Start Process>> CompanyId: 0C000015IA, File:ASP\Fundamental\OperationRatios\Delta\Delta_OperationRatio.zip
+Have diff
+Process Done
+
+Start Process>> CompanyId: 0C000015IA, File:ASP\Fundamental\OperationRatios\Delta\Delta_OperationRatiosRes.zip
+Have diff
+Process Done
+
+Start Process>> CompanyId: 0C000017FS, File:LTA\Fundamental\FinancialStatements\Delta\Delta_FinancialStatement.zip
+No diff
+Process Done
+
+Start Process>> CompanyId: 0C000017FS, File:LTA\Fundamental\FinancialStatements\Delta\Delta_FinancialStatementsRes.zip
+No diff
+Process Done
+
+Start Process>> CompanyId: 0C000017FS, File:LTA\Fundamental\OperationRatios\Delta\Delta_OperationRatio.zip
+Have diff
+Process Done
+
+Start Process>> CompanyId: 0C000017FS, File:LTA\Fundamental\OperationRatios\Delta\Delta_OperationRatiosRes.zip
+Have diff
+Process Done
+
+Start Process>> CompanyId: 0C00001NH1, File:ASP\Fundamental\FinancialStatements\Delta\Delta_FinancialStatement.zip
+No diff
+Process Done
+
+Start Process>> CompanyId: 0C00001NH1, File:ASP\Fundamental\FinancialStatements\Delta\Delta_FinancialStatementsRes.zip
+No diff
+Process Done
+
+Start Process>> CompanyId: 0C00001NH1, File:ASP\Fundamental\OperationRatios\Delta\Delta_OperationRatio.zip
+Have diff
+Process Done
+
+Start Process>> CompanyId: 0C00001NH1, File:ASP\Fundamental\OperationRatios\Delta\Delta_OperationRatiosRes.zip
+Have diff
+Process Done
+
+Start Process>> CompanyId: 0C00001QTL, File:IPM\Fundamental\FinancialStatements\Delta\Delta_FinancialStatement.zip
+Have diff
+Process Done
+
+Start Process>> CompanyId: 0C00001QTL, File:IPM\Fundamental\FinancialStatements\Delta\Delta_FinancialStatementsRes.zip
+Have diff
+Process Done
+
+Start Process>> CompanyId: 0C00001QTL, File:IPM\Fundamental\OperationRatios\Delta\Delta_OperationRatio.zip
+Have diff
+Process Done
+
+Start Process>> CompanyId: 0C00001QTL, File:IPM\Fundamental\OperationRatios\Delta\Delta_OperationRatiosRes.zip
+Have diff
+Process Done
+
+Start Process>> CompanyId: 0C00001UD3, File:ASP\Fundamental\FinancialStatements\Delta\Delta_FinancialStatement.zip
+No diff
+Process Done
+
+Start Process>> CompanyId: 0C00001UD3, File:ASP\Fundamental\FinancialStatements\Delta\Delta_FinancialStatementsRes.zip
+No diff
+Process Done
+
+Start Process>> CompanyId: 0C00001UD3, File:ASP\Fundamental\OperationRatios\Delta\Delta_OperationRatio.zip
+Have diff
+Process Done
+
+Start Process>> CompanyId: 0C00001UD3, File:ASP\Fundamental\OperationRatios\Delta\Delta_OperationRatiosRes.zip
+Have diff
+Process Done
+
+Start Process>> CompanyId: 0C000020Q5, File:IPM\Fundamental\FinancialStatements\Delta\Delta_FinancialStatement.zip
+No diff
+Process Done
+
+Start Process>> CompanyId: 0C000020Q5, File:IPM\Fundamental\FinancialStatements\Delta\Delta_FinancialStatementsRes.zip
+No diff
+Process Done
+
+Start Process>> CompanyId: 0C000020Q5, File:IPM\Fundamental\OperationRatios\Delta\Delta_OperationRatio.zip
+Have diff
+Process Done
+
+Start Process>> CompanyId: 0C000020Q5, File:IPM\Fundamental\OperationRatios\Delta\Delta_OperationRatiosRes.zip
+Have diff
+Process Done
+
+Start Process>> CompanyId: 0C00002BJ2, File:EUR\Fundamental\FinancialStatements\Delta\Delta_FinancialStatement.zip
+No diff
+Process Done
+
+Start Process>> CompanyId: 0C00002BJ2, File:EUR\Fundamental\FinancialStatements\Delta\Delta_FinancialStatementsRes.zip
+No diff
+Process Done
+
+Start Process>> CompanyId: 0C00002BJ2, File:EUR\Fundamental\OperationRatios\Delta\Delta_OperationRatio.zip
+Have diff
+Process Done
+
+Start Process>> CompanyId: 0C00002BJ2, File:EUR\Fundamental\OperationRatios\Delta\Delta_OperationRatiosRes.zip
+Have diff
+Process Done
+
+Start Process>> CompanyId: 0C00002CCE, File:ASP\Fundamental\FinancialStatements\Delta\Delta_FinancialStatement.zip
+No diff
+Process Done
+
+Start Process>> CompanyId: 0C00002CCE, File:ASP\Fundamental\FinancialStatements\Delta\Delta_FinancialStatementsRes.zip
+No diff
+Process Done
+
+Start Process>> CompanyId: 0C00002CCE, File:ASP\Fundamental\OperationRatios\Delta\Delta_OperationRatio.zip
+Have diff
+Process Done
+
+Start Process>> CompanyId: 0C00002CCE, File:ASP\Fundamental\OperationRatios\Delta\Delta_OperationRatiosRes.zip
+Have diff
+Process Done
+
+Start Process>> CompanyId: 0C00002CNG, File:ASP\Fundamental\FinancialStatements\Delta\Delta_FinancialStatement.zip
+No diff
+Process Done
+
+Start Process>> CompanyId: 0C00002CNG, File:ASP\Fundamental\FinancialStatements\Delta\Delta_FinancialStatementsRes.zip
+No diff
+Process Done
+
+Start Process>> CompanyId: 0C00002CNG, File:ASP\Fundamental\OperationRatios\Delta\Delta_OperationRatio.zip
+Have diff
+Process Done
+
+Start Process>> CompanyId: 0C00002CNG, File:ASP\Fundamental\OperationRatios\Delta\Delta_OperationRatiosRes.zip
+Have diff
+Process Done
+
+Start Process>> CompanyId: 0C00002D7F, File:ASP\Fundamental\FinancialStatements\Delta\Delta_FinancialStatement.zip
+No diff
+Process Done
+
+Start Process>> CompanyId: 0C00002D7F, File:ASP\Fundamental\FinancialStatements\Delta\Delta_FinancialStatementsRes.zip
+No diff
+Process Done
+
+Start Process>> CompanyId: 0C00002D7F, File:ASP\Fundamental\OperationRatios\Delta\Delta_OperationRatio.zip
+Have diff
+Process Done
+
+Start Process>> CompanyId: 0C00002D7F, File:ASP\Fundamental\OperationRatios\Delta\Delta_OperationRatiosRes.zip
+Have diff
+Process Done
+
+Start Process>> CompanyId: 0C00002DEC, File:ASP\Fundamental\FinancialStatements\Delta\Delta_FinancialStatement.zip
+Both File Can't find {0C00002DEC in z:\DEV\PT2.0-GEDF-20180324\ASP_Monthly_FinancialStatementsAOR_2018-2.zip} and {0C00002DEC in z:\ASP\Fundamental\FinancialStatements\Delta\Delta_FinancialStatementsAOR_2018-04-02.zip}
+
+data file is not exits which generate at 03/24
+data file is not exits which generate at 04/02
+No diff
+Process Done
+
+Start Process>> CompanyId: 0C00002DEC, File:ASP\Fundamental\FinancialStatements\Delta\Delta_FinancialStatementsRes.zip
+Both File Can't find {0C00002DEC in z:\DEV\PT2.0-GEDF-20180324\ASP_Monthly_FinancialStatementsRestate_2018-2.zip} and {0C00002DEC in z:\ASP\Fundamental\FinancialStatements\Delta\Delta_FinancialStatementsRestate_2018-04-02.zip}
+
+data file is not exits which generate at 03/24
+data file is not exits which generate at 04/02
+No diff
+Process Done
+
+Start Process>> CompanyId: 0C00002DEC, File:ASP\Fundamental\OperationRatios\Delta\Delta_OperationRatio.zip
+Both File Can't find {0C00002DEC in z:\DEV\PT2.0-GEDF-20180324\ASP_Monthly_OperationRatiosAOR_2018-2.zip} and {0C00002DEC in z:\ASP\Fundamental\OperationRatios\Delta\Delta_OperationRatiosAOR_2018-04-02.zip}
+
+data file is not exits which generate at 03/24
+data file is not exits which generate at 04/02
+No diff
+Process Done
+
+Start Process>> CompanyId: 0C00002DEC, File:ASP\Fundamental\OperationRatios\Delta\Delta_OperationRatiosRes.zip
+Both File Can't find {0C00002DEC in z:\DEV\PT2.0-GEDF-20180324\ASP_Monthly_OperationRatiosRestate_2018-2.zip} and {0C00002DEC in z:\ASP\Fundamental\OperationRatios\Delta\Delta_OperationRatiosRestate_2018-04-02.zip}
+
+data file is not exits which generate at 03/24
+data file is not exits which generate at 04/02
+No diff
+Process Done
+
+Start Process>> CompanyId: 0C000033MA, File:IPM\Fundamental\FinancialStatements\Delta\Delta_FinancialStatement.zip
+Have diff
+Process Done
+
+Start Process>> CompanyId: 0C000033MA, File:IPM\Fundamental\FinancialStatements\Delta\Delta_FinancialStatementsRes.zip
+Have diff
+Process Done
+
+Start Process>> CompanyId: 0C000033MA, File:IPM\Fundamental\OperationRatios\Delta\Delta_OperationRatio.zip
+Have diff
+Process Done
+
+Start Process>> CompanyId: 0C000033MA, File:IPM\Fundamental\OperationRatios\Delta\Delta_OperationRatiosRes.zip
+Have diff
+Process Done
+
+Start Process>> CompanyId: 0C000037D6, File:UKI\Fundamental\FinancialStatements\Delta\Delta_FinancialStatement.zip
+data file is not exits which generate at 04/02
+Have diff
+Process Done
+
+Start Process>> CompanyId: 0C000037D6, File:UKI\Fundamental\FinancialStatements\Delta\Delta_FinancialStatementsRes.zip
+data file is not exits which generate at 04/02
+Have diff
+Process Done
+
+Start Process>> CompanyId: 0C000037D6, File:UKI\Fundamental\OperationRatios\Delta\Delta_OperationRatio.zip
+data file is not exits which generate at 04/02
+Have diff
+Process Done
+
+Start Process>> CompanyId: 0C000037D6, File:UKI\Fundamental\OperationRatios\Delta\Delta_OperationRatiosRes.zip
+data file is not exits which generate at 04/02
+Have diff
+Process Done
+
+Start Process>> CompanyId: 0C000038M1, File:LTA\Fundamental\FinancialStatements\Delta\Delta_FinancialStatement.zip
+No diff
+Process Done
+
+Start Process>> CompanyId: 0C000038M1, File:LTA\Fundamental\FinancialStatements\Delta\Delta_FinancialStatementsRes.zip
+No diff
+Process Done
+
+Start Process>> CompanyId: 0C000038M1, File:LTA\Fundamental\OperationRatios\Delta\Delta_OperationRatio.zip
+Have diff
+Process Done
+
+Start Process>> CompanyId: 0C000038M1, File:LTA\Fundamental\OperationRatios\Delta\Delta_OperationRatiosRes.zip
+Have diff
+Process Done
+
+Start Process>> CompanyId: 0C00003APD, File:YYY\Fundamental\FinancialStatements\Delta\Delta_FinancialStatement.zip
+zip file not found: \\morningstar.com\shares\GeDataFeed\GeDataFeed\DEV\PT2.0-GEDF-20180324\YYY_Monthly_FinancialStatementsAOR_2018-2.zip
+zip file not found: \\morningstar.com\shares\GeDataFeed\GeDataFeed\YYY\Fundamental\FinancialStatements\Delta\Delta_FinancialStatementsAOR_2018-04-02.zip
+Both File Can't find {0C00003APD in z:\DEV\PT2.0-GEDF-20180324\YYY_Monthly_FinancialStatementsAOR_2018-2.zip} and {0C00003APD in z:\YYY\Fundamental\FinancialStatements\Delta\Delta_FinancialStatementsAOR_2018-04-02.zip}
+
+data file is not exits which generate at 03/24
+data file is not exits which generate at 04/02
+No diff
+Process Done
+
+Start Process>> CompanyId: 0C00003APD, File:YYY\Fundamental\FinancialStatements\Delta\Delta_FinancialStatementsRes.zip
+zip file not found: \\morningstar.com\shares\GeDataFeed\GeDataFeed\DEV\PT2.0-GEDF-20180324\YYY_Monthly_FinancialStatementsRestate_2018-2.zip
+zip file not found: \\morningstar.com\shares\GeDataFeed\GeDataFeed\YYY\Fundamental\FinancialStatements\Delta\Delta_FinancialStatementsRestate_2018-04-02.zip
+Both File Can't find {0C00003APD in z:\DEV\PT2.0-GEDF-20180324\YYY_Monthly_FinancialStatementsRestate_2018-2.zip} and {0C00003APD in z:\YYY\Fundamental\FinancialStatements\Delta\Delta_FinancialStatementsRestate_2018-04-02.zip}
+
+data file is not exits which generate at 03/24
+data file is not exits which generate at 04/02
+No diff
+Process Done
+
+Start Process>> CompanyId: 0C00003APD, File:YYY\Fundamental\OperationRatios\Delta\Delta_OperationRatio.zip
+zip file not found: \\morningstar.com\shares\GeDataFeed\GeDataFeed\DEV\PT2.0-GEDF-20180324\YYY_Monthly_OperationRatiosAOR_2018-2.zip
+zip file not found: \\morningstar.com\shares\GeDataFeed\GeDataFeed\YYY\Fundamental\OperationRatios\Delta\Delta_OperationRatiosAOR_2018-04-02.zip
+Both File Can't find {0C00003APD in z:\DEV\PT2.0-GEDF-20180324\YYY_Monthly_OperationRatiosAOR_2018-2.zip} and {0C00003APD in z:\YYY\Fundamental\OperationRatios\Delta\Delta_OperationRatiosAOR_2018-04-02.zip}
+
+data file is not exits which generate at 03/24
+data file is not exits which generate at 04/02
+No diff
+Process Done
+
+Start Process>> CompanyId: 0C00003APD, File:YYY\Fundamental\OperationRatios\Delta\Delta_OperationRatiosRes.zip
+zip file not found: \\morningstar.com\shares\GeDataFeed\GeDataFeed\DEV\PT2.0-GEDF-20180324\YYY_Monthly_OperationRatiosRestate_2018-2.zip
+zip file not found: \\morningstar.com\shares\GeDataFeed\GeDataFeed\YYY\Fundamental\OperationRatios\Delta\Delta_OperationRatiosRestate_2018-04-02.zip
+Both File Can't find {0C00003APD in z:\DEV\PT2.0-GEDF-20180324\YYY_Monthly_OperationRatiosRestate_2018-2.zip} and {0C00003APD in z:\YYY\Fundamental\OperationRatios\Delta\Delta_OperationRatiosRestate_2018-04-02.zip}
+
+data file is not exits which generate at 03/24
+data file is not exits which generate at 04/02
+No diff
+Process Done
+
+Start Process>> CompanyId: 0C00003BJ7, File:ASP\Fundamental\FinancialStatements\Delta\Delta_FinancialStatement.zip
+Have diff
+Process Done
+
+Start Process>> CompanyId: 0C00003BJ7, File:ASP\Fundamental\FinancialStatements\Delta\Delta_FinancialStatementsRes.zip
+Have diff
+Process Done
+
+Start Process>> CompanyId: 0C00003BJ7, File:ASP\Fundamental\OperationRatios\Delta\Delta_OperationRatio.zip
+Have diff
+Process Done
+
+Start Process>> CompanyId: 0C00003BJ7, File:ASP\Fundamental\OperationRatios\Delta\Delta_OperationRatiosRes.zip
+Have diff
+Process Done
+
+Start Process>> CompanyId: 0C00003C77, File:ASP\Fundamental\FinancialStatements\Delta\Delta_FinancialStatement.zip
+Have diff
+Process Done
+
+Start Process>> CompanyId: 0C00003C77, File:ASP\Fundamental\FinancialStatements\Delta\Delta_FinancialStatementsRes.zip
+Have diff
+Process Done
+
+Start Process>> CompanyId: 0C00003C77, File:ASP\Fundamental\OperationRatios\Delta\Delta_OperationRatio.zip
+Have diff
+Process Done
+
+Start Process>> CompanyId: 0C00003C77, File:ASP\Fundamental\OperationRatios\Delta\Delta_OperationRatiosRes.zip
+Have diff
+Process Done
+
+Start Process>> CompanyId: 0C00003CVJ, File:AFR\Fundamental\FinancialStatements\Delta\Delta_FinancialStatement.zip
+No diff
+Process Done
+
+Start Process>> CompanyId: 0C00003CVJ, File:AFR\Fundamental\FinancialStatements\Delta\Delta_FinancialStatementsRes.zip
+No diff
+Process Done
+
+Start Process>> CompanyId: 0C00003CVJ, File:AFR\Fundamental\OperationRatios\Delta\Delta_OperationRatio.zip
+Have diff
+Process Done
+
+Start Process>> CompanyId: 0C00003CVJ, File:AFR\Fundamental\OperationRatios\Delta\Delta_OperationRatiosRes.zip
+Have diff
+Process Done
+
+Start Process>> CompanyId: 0C00003DVA, File:IPM\Fundamental\FinancialStatements\Delta\Delta_FinancialStatement.zip
+No diff
+Process Done
+
+Start Process>> CompanyId: 0C00003DVA, File:IPM\Fundamental\FinancialStatements\Delta\Delta_FinancialStatementsRes.zip
+No diff
+Process Done
+
+Start Process>> CompanyId: 0C00003DVA, File:IPM\Fundamental\OperationRatios\Delta\Delta_OperationRatio.zip
+Have diff
+Process Done
+
+Start Process>> CompanyId: 0C00003DVA, File:IPM\Fundamental\OperationRatios\Delta\Delta_OperationRatiosRes.zip
+Have diff
+Process Done
+
+Start Process>> CompanyId: 0C00003EOH, File:EUR\Fundamental\FinancialStatements\Delta\Delta_FinancialStatement.zip
+No diff
+Process Done
+
+Start Process>> CompanyId: 0C00003EOH, File:EUR\Fundamental\FinancialStatements\Delta\Delta_FinancialStatementsRes.zip
+No diff
+Process Done
+
+Start Process>> CompanyId: 0C00003EOH, File:EUR\Fundamental\OperationRatios\Delta\Delta_OperationRatio.zip
+Have diff
+Process Done
+
+Start Process>> CompanyId: 0C00003EOH, File:EUR\Fundamental\OperationRatios\Delta\Delta_OperationRatiosRes.zip
+Have diff
+Process Done
+
+Start Process>> CompanyId: 0C00004DLV, File:ASP\Fundamental\FinancialStatements\Delta\Delta_FinancialStatement.zip
+Have diff
+Process Done
+
+Start Process>> CompanyId: 0C00004DLV, File:ASP\Fundamental\FinancialStatements\Delta\Delta_FinancialStatementsRes.zip
+Have diff
+Process Done
+
+Start Process>> CompanyId: 0C00004DLV, File:ASP\Fundamental\OperationRatios\Delta\Delta_OperationRatio.zip
+Have diff
+Process Done
+
+Start Process>> CompanyId: 0C00004DLV, File:ASP\Fundamental\OperationRatios\Delta\Delta_OperationRatiosRes.zip
+Have diff
+Process Done
+
+Start Process>> CompanyId: 0C00004IB2, File:IPM\Fundamental\FinancialStatements\Delta\Delta_FinancialStatement.zip
+No diff
+Process Done
+
+Start Process>> CompanyId: 0C00004IB2, File:IPM\Fundamental\FinancialStatements\Delta\Delta_FinancialStatementsRes.zip
+No diff
+Process Done
+
+Start Process>> CompanyId: 0C00004IB2, File:IPM\Fundamental\OperationRatios\Delta\Delta_OperationRatio.zip
+No diff
+Process Done
+
+Start Process>> CompanyId: 0C00004IB2, File:IPM\Fundamental\OperationRatios\Delta\Delta_OperationRatiosRes.zip
+No diff
+Process Done
+
+Start Process>> CompanyId: 0C000050ZV, File:AFR\Fundamental\FinancialStatements\Delta\Delta_FinancialStatement.zip
+No diff
+Process Done
+
+Start Process>> CompanyId: 0C000050ZV, File:AFR\Fundamental\FinancialStatements\Delta\Delta_FinancialStatementsRes.zip
+No diff
+Process Done
+
+Start Process>> CompanyId: 0C000050ZV, File:AFR\Fundamental\OperationRatios\Delta\Delta_OperationRatio.zip
+Have diff
+Process Done
+
+Start Process>> CompanyId: 0C000050ZV, File:AFR\Fundamental\OperationRatios\Delta\Delta_OperationRatiosRes.zip
+Have diff
+Process Done
+
+Start Process>> CompanyId: 0C0000693J, File:ASP\Fundamental\FinancialStatements\Delta\Delta_FinancialStatement.zip
+No diff
+Process Done
+
+Start Process>> CompanyId: 0C0000693J, File:ASP\Fundamental\FinancialStatements\Delta\Delta_FinancialStatementsRes.zip
+No diff
+Process Done
+
+Start Process>> CompanyId: 0C0000693J, File:ASP\Fundamental\OperationRatios\Delta\Delta_OperationRatio.zip
+Have diff
+Process Done
+
+Start Process>> CompanyId: 0C0000693J, File:ASP\Fundamental\OperationRatios\Delta\Delta_OperationRatiosRes.zip
+Have diff
+Process Done
+
+Start Process>> CompanyId: 0C00006CVF, File:ASP\Fundamental\FinancialStatements\Delta\Delta_FinancialStatement.zip
+Have diff
+Process Done
+
+Start Process>> CompanyId: 0C00006CVF, File:ASP\Fundamental\FinancialStatements\Delta\Delta_FinancialStatementsRes.zip
+Have diff
+Process Done
+
+Start Process>> CompanyId: 0C00006CVF, File:ASP\Fundamental\OperationRatios\Delta\Delta_OperationRatio.zip
+Have diff
+Process Done
+
+Start Process>> CompanyId: 0C00006CVF, File:ASP\Fundamental\OperationRatios\Delta\Delta_OperationRatiosRes.zip
+Have diff
+Process Done
+
+Start Process>> CompanyId: 0C00006DQ5, File:ASP\Fundamental\FinancialStatements\Delta\Delta_FinancialStatement.zip
+Have diff
+Process Done
+
+Start Process>> CompanyId: 0C00006DQ5, File:ASP\Fundamental\FinancialStatements\Delta\Delta_FinancialStatementsRes.zip
+Have diff
+Process Done
+
+Start Process>> CompanyId: 0C00006DQ5, File:ASP\Fundamental\OperationRatios\Delta\Delta_OperationRatio.zip
+Have diff
+Process Done
+
+Start Process>> CompanyId: 0C00006DQ5, File:ASP\Fundamental\OperationRatios\Delta\Delta_OperationRatiosRes.zip
+Have diff
+Process Done
+
+Start Process>> CompanyId: 0C00006HXD, File:ASP\Fundamental\FinancialStatements\Delta\Delta_FinancialStatement.zip
+Have diff
+Process Done
+
+Start Process>> CompanyId: 0C00006HXD, File:ASP\Fundamental\FinancialStatements\Delta\Delta_FinancialStatementsRes.zip
+Have diff
+Process Done
+
+Start Process>> CompanyId: 0C00006HXD, File:ASP\Fundamental\OperationRatios\Delta\Delta_OperationRatio.zip
+Have diff
+Process Done
+
+Start Process>> CompanyId: 0C00006HXD, File:ASP\Fundamental\OperationRatios\Delta\Delta_OperationRatiosRes.zip
+Have diff
+Process Done
+
+Start Process>> CompanyId: 0C00006INA, File:IPM\Fundamental\FinancialStatements\Delta\Delta_FinancialStatement.zip
+No diff
+Process Done
+
+Start Process>> CompanyId: 0C00006INA, File:IPM\Fundamental\FinancialStatements\Delta\Delta_FinancialStatementsRes.zip
+No diff
+Process Done
+
+Start Process>> CompanyId: 0C00006INA, File:IPM\Fundamental\OperationRatios\Delta\Delta_OperationRatio.zip
+Have diff
+Process Done
+
+Start Process>> CompanyId: 0C00006INA, File:IPM\Fundamental\OperationRatios\Delta\Delta_OperationRatiosRes.zip
+Have diff
+Process Done
+
+Start Process>> CompanyId: 0C00006IPL, File:ASP\Fundamental\FinancialStatements\Delta\Delta_FinancialStatement.zip
+No diff
+Process Done
+
+Start Process>> CompanyId: 0C00006IPL, File:ASP\Fundamental\FinancialStatements\Delta\Delta_FinancialStatementsRes.zip
+No diff
+Process Done
+
+Start Process>> CompanyId: 0C00006IPL, File:ASP\Fundamental\OperationRatios\Delta\Delta_OperationRatio.zip
+Have diff
+Process Done
+
+Start Process>> CompanyId: 0C00006IPL, File:ASP\Fundamental\OperationRatios\Delta\Delta_OperationRatiosRes.zip
+Have diff
+Process Done
+
+Start Process>> CompanyId: 0C00006IS9, File:ASP\Fundamental\FinancialStatements\Delta\Delta_FinancialStatement.zip
+Have diff
+Process Done
+
+Start Process>> CompanyId: 0C00006IS9, File:ASP\Fundamental\FinancialStatements\Delta\Delta_FinancialStatementsRes.zip
+Have diff
+Process Done
+
+Start Process>> CompanyId: 0C00006IS9, File:ASP\Fundamental\OperationRatios\Delta\Delta_OperationRatio.zip
+Have diff
+Process Done
+
+Start Process>> CompanyId: 0C00006IS9, File:ASP\Fundamental\OperationRatios\Delta\Delta_OperationRatiosRes.zip
+Have diff
+Process Done
+
+Start Process>> CompanyId: 0C00008HNN, File:ASP\Fundamental\FinancialStatements\Delta\Delta_FinancialStatement.zip
+Have diff
+Process Done
+
+Start Process>> CompanyId: 0C00008HNN, File:ASP\Fundamental\FinancialStatements\Delta\Delta_FinancialStatementsRes.zip
+Have diff
+Process Done
+
+Start Process>> CompanyId: 0C00008HNN, File:ASP\Fundamental\OperationRatios\Delta\Delta_OperationRatio.zip
+Have diff
+Process Done
+
+Start Process>> CompanyId: 0C00008HNN, File:ASP\Fundamental\OperationRatios\Delta\Delta_OperationRatiosRes.zip
+Have diff
+Process Done
+
+Start Process>> CompanyId: 0C00008I7X, File:ASP\Fundamental\FinancialStatements\Delta\Delta_FinancialStatement.zip
+Have diff
+Process Done
+
+Start Process>> CompanyId: 0C00008I7X, File:ASP\Fundamental\FinancialStatements\Delta\Delta_FinancialStatementsRes.zip
+Have diff
+Process Done
+
+Start Process>> CompanyId: 0C00008I7X, File:ASP\Fundamental\OperationRatios\Delta\Delta_OperationRatio.zip
+Have diff
+Process Done
+
+Start Process>> CompanyId: 0C00008I7X, File:ASP\Fundamental\OperationRatios\Delta\Delta_OperationRatiosRes.zip
+Have diff
+Process Done
+
+Start Process>> CompanyId: 0C00008OCJ, File:LTA\Fundamental\FinancialStatements\Delta\Delta_FinancialStatement.zip
+No diff
+Process Done
+
+Start Process>> CompanyId: 0C00008OCJ, File:LTA\Fundamental\FinancialStatements\Delta\Delta_FinancialStatementsRes.zip
+No diff
+Process Done
+
+Start Process>> CompanyId: 0C00008OCJ, File:LTA\Fundamental\OperationRatios\Delta\Delta_OperationRatio.zip
+Have diff
+Process Done
+
+Start Process>> CompanyId: 0C00008OCJ, File:LTA\Fundamental\OperationRatios\Delta\Delta_OperationRatiosRes.zip
+Have diff
+Process Done
+
+Start Process>> CompanyId: 0C000095JG, File:AFR\Fundamental\FinancialStatements\Delta\Delta_FinancialStatement.zip
+No diff
+Process Done
+
+Start Process>> CompanyId: 0C000095JG, File:AFR\Fundamental\FinancialStatements\Delta\Delta_FinancialStatementsRes.zip
+No diff
+Process Done
+
+Start Process>> CompanyId: 0C000095JG, File:AFR\Fundamental\OperationRatios\Delta\Delta_OperationRatio.zip
+No diff
+Process Done
+
+Start Process>> CompanyId: 0C000095JG, File:AFR\Fundamental\OperationRatios\Delta\Delta_OperationRatiosRes.zip
+No diff
+Process Done
+
+Start Process>> CompanyId: 0C000095TL, File:AFR\Fundamental\FinancialStatements\Delta\Delta_FinancialStatement.zip
+No diff
+Process Done
+
+Start Process>> CompanyId: 0C000095TL, File:AFR\Fundamental\FinancialStatements\Delta\Delta_FinancialStatementsRes.zip
+No diff
+Process Done
+
+Start Process>> CompanyId: 0C000095TL, File:AFR\Fundamental\OperationRatios\Delta\Delta_OperationRatio.zip
+Have diff
+Process Done
+
+Start Process>> CompanyId: 0C000095TL, File:AFR\Fundamental\OperationRatios\Delta\Delta_OperationRatiosRes.zip
+Have diff
+Process Done
+
+Start Process>> CompanyId: 0C00009DAW, File:IPM\Fundamental\FinancialStatements\Delta\Delta_FinancialStatement.zip
+No diff
+Process Done
+
+Start Process>> CompanyId: 0C00009DAW, File:IPM\Fundamental\FinancialStatements\Delta\Delta_FinancialStatementsRes.zip
+No diff
+Process Done
+
+Start Process>> CompanyId: 0C00009DAW, File:IPM\Fundamental\OperationRatios\Delta\Delta_OperationRatio.zip
+Have diff
+Process Done
+
+Start Process>> CompanyId: 0C00009DAW, File:IPM\Fundamental\OperationRatios\Delta\Delta_OperationRatiosRes.zip
+Have diff
+Process Done
+
+Start Process>> CompanyId: 0C0000A6T2, File:LTA\Fundamental\FinancialStatements\Delta\Delta_FinancialStatement.zip
+No diff
+Process Done
+
+Start Process>> CompanyId: 0C0000A6T2, File:LTA\Fundamental\FinancialStatements\Delta\Delta_FinancialStatementsRes.zip
+No diff
+Process Done
+
+Start Process>> CompanyId: 0C0000A6T2, File:LTA\Fundamental\OperationRatios\Delta\Delta_OperationRatio.zip
+No diff
+Process Done
+
+Start Process>> CompanyId: 0C0000A6T2, File:LTA\Fundamental\OperationRatios\Delta\Delta_OperationRatiosRes.zip
+No diff
+Process Done
+
+Start Process>> CompanyId: 0C0000A7PW, File:UKI\Fundamental\FinancialStatements\Delta\Delta_FinancialStatement.zip
+Have diff
+Process Done
+
+Start Process>> CompanyId: 0C0000A7PW, File:UKI\Fundamental\FinancialStatements\Delta\Delta_FinancialStatementsRes.zip
+Have diff
+Process Done
+
+Start Process>> CompanyId: 0C0000A7PW, File:UKI\Fundamental\OperationRatios\Delta\Delta_OperationRatio.zip
+Have diff
+Process Done
+
+Start Process>> CompanyId: 0C0000A7PW, File:UKI\Fundamental\OperationRatios\Delta\Delta_OperationRatiosRes.zip
+Have diff
+Process Done
+
+Start Process>> CompanyId: 0C0000AJ2H, File:EUR\Fundamental\FinancialStatements\Delta\Delta_FinancialStatement.zip
+No diff
+Process Done
+
+Start Process>> CompanyId: 0C0000AJ2H, File:EUR\Fundamental\FinancialStatements\Delta\Delta_FinancialStatementsRes.zip
+No diff
+Process Done
+
+Start Process>> CompanyId: 0C0000AJ2H, File:EUR\Fundamental\OperationRatios\Delta\Delta_OperationRatio.zip
+No diff
+Process Done
+
+Start Process>> CompanyId: 0C0000AJ2H, File:EUR\Fundamental\OperationRatios\Delta\Delta_OperationRatiosRes.zip
+No diff
+Process Done
+
+Start Process>> CompanyId: 0C0000AJJU, File:EUR\Fundamental\FinancialStatements\Delta\Delta_FinancialStatement.zip
+No diff
+Process Done
+
+Start Process>> CompanyId: 0C0000AJJU, File:EUR\Fundamental\FinancialStatements\Delta\Delta_FinancialStatementsRes.zip
+No diff
+Process Done
+
+Start Process>> CompanyId: 0C0000AJJU, File:EUR\Fundamental\OperationRatios\Delta\Delta_OperationRatio.zip
+Have diff
+Process Done
+
+Start Process>> CompanyId: 0C0000AJJU, File:EUR\Fundamental\OperationRatios\Delta\Delta_OperationRatiosRes.zip
+Have diff
+Process Done
+
+Start Process>> CompanyId: 0C0000ANFG, File:UKI\Fundamental\FinancialStatements\Delta\Delta_FinancialStatement.zip
+No diff
+Process Done
+
+Start Process>> CompanyId: 0C0000ANFG, File:UKI\Fundamental\FinancialStatements\Delta\Delta_FinancialStatementsRes.zip
+No diff
+Process Done
+
+Start Process>> CompanyId: 0C0000ANFG, File:UKI\Fundamental\OperationRatios\Delta\Delta_OperationRatio.zip
+Have diff
+Process Done
+
+Start Process>> CompanyId: 0C0000ANFG, File:UKI\Fundamental\OperationRatios\Delta\Delta_OperationRatiosRes.zip
+Have diff
+Process Done
+
+Start Process>> CompanyId: 0C0000ANIQ, File:UKI\Fundamental\FinancialStatements\Delta\Delta_FinancialStatement.zip
+No diff
+Process Done
+
+Start Process>> CompanyId: 0C0000ANIQ, File:UKI\Fundamental\FinancialStatements\Delta\Delta_FinancialStatementsRes.zip
+No diff
+Process Done
+
+Start Process>> CompanyId: 0C0000ANIQ, File:UKI\Fundamental\OperationRatios\Delta\Delta_OperationRatio.zip
+Have diff
+Process Done
+
+Start Process>> CompanyId: 0C0000ANIQ, File:UKI\Fundamental\OperationRatios\Delta\Delta_OperationRatiosRes.zip
+Have diff
+Process Done
+
+Start Process>> CompanyId: 0C0000B0J0, File:EUR\Fundamental\FinancialStatements\Delta\Delta_FinancialStatement.zip
+No diff
+Process Done
+
+Start Process>> CompanyId: 0C0000B0J0, File:EUR\Fundamental\FinancialStatements\Delta\Delta_FinancialStatementsRes.zip
+No diff
+Process Done
+
+Start Process>> CompanyId: 0C0000B0J0, File:EUR\Fundamental\OperationRatios\Delta\Delta_OperationRatio.zip
+No diff
+Process Done
+
+Start Process>> CompanyId: 0C0000B0J0, File:EUR\Fundamental\OperationRatios\Delta\Delta_OperationRatiosRes.zip
+No diff
+Process Done
+
+Start Process>> CompanyId: 0C0000B47P, File:UKI\Fundamental\FinancialStatements\Delta\Delta_FinancialStatement.zip
+No diff
+Process Done
+
+Start Process>> CompanyId: 0C0000B47P, File:UKI\Fundamental\FinancialStatements\Delta\Delta_FinancialStatementsRes.zip
+No diff
+Process Done
+
+Start Process>> CompanyId: 0C0000B47P, File:UKI\Fundamental\OperationRatios\Delta\Delta_OperationRatio.zip
+Have diff
+Process Done
+
+Start Process>> CompanyId: 0C0000B47P, File:UKI\Fundamental\OperationRatios\Delta\Delta_OperationRatiosRes.zip
+Have diff
+Process Done
+
+Start Process>> CompanyId: 0C0000BCYA, File:EUR\Fundamental\FinancialStatements\Delta\Delta_FinancialStatement.zip
+No diff
+Process Done
+
+Start Process>> CompanyId: 0C0000BCYA, File:EUR\Fundamental\FinancialStatements\Delta\Delta_FinancialStatementsRes.zip
+No diff
+Process Done
+
+Start Process>> CompanyId: 0C0000BCYA, File:EUR\Fundamental\OperationRatios\Delta\Delta_OperationRatio.zip
+No diff
+Process Done
+
+Start Process>> CompanyId: 0C0000BCYA, File:EUR\Fundamental\OperationRatios\Delta\Delta_OperationRatiosRes.zip
+No diff
+Process Done
+
