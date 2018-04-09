@@ -3,9 +3,10 @@
 
 class PriceDetail(object):
 
-    __slots__ = ('_endDate', '_closePrice', '_openPrice', '_highPrice', '_lowPrice', '_volume')
+    __slots__ = ('_shareClassId', '_endDate', '_closePrice', '_openPrice', '_highPrice', '_lowPrice', '_volume')
 
-    def __init__(self, endDate, closePrice, openPrice, highPrice, lowPrice, volume):
+    def __init__(self, shareClassId = None, endDate = None, closePrice = None, openPrice = None, highPrice = None, lowPrice = None, volume = None):
+        self._shareClassId = shareClassId
         self._endDate = endDate
         self._closePrice = closePrice
         self._openPrice = openPrice
@@ -14,8 +15,16 @@ class PriceDetail(object):
         self._volume = volume
 
     @property
+    def ShareClassId(self):
+        return str(self._endDate)
+
+    @ShareClassId.setter
+    def ShareClassId(self, shareClassId):
+        self._shareClassId = shareClassId
+
+    @property
     def EndDate(self):
-        return self._endDate
+        return str(self._endDate)
 
     @EndDate.setter
     def EndDate(self, endDate):
@@ -23,7 +32,7 @@ class PriceDetail(object):
 
     @property
     def ClosePrice(self):
-        return self._closePrice
+        return str(self._closePrice)
 
     @ClosePrice.setter
     def ClosePrice(self, closePrice):
@@ -31,7 +40,7 @@ class PriceDetail(object):
 
     @property
     def HighPrice(self):
-        return self._highPrice
+        return str(self._highPrice)
 
     @HighPrice.setter
     def HighPrice(self, highPrice):
@@ -39,7 +48,7 @@ class PriceDetail(object):
 
     @property
     def LowPrice(self):
-        return self._lowPrice
+        return str(self._lowPrice)
 
     @LowPrice.setter
     def LowPrice(self, lowPrice):
@@ -47,7 +56,7 @@ class PriceDetail(object):
 
     @property
     def Volume(self):
-        return self._volume
+        return str(self._volume)
 
     @Volume.setter
     def Volume(self, volume):
@@ -55,8 +64,11 @@ class PriceDetail(object):
 
     @property
     def OpenPrice(self):
-        return self._openPrice
+        return str(self._openPrice)
 
     @OpenPrice.setter
     def OpenPrice(self, openPrice):
         self._openPrice = openPrice
+
+    def __str__(self) -> str:
+       return "%s, %s, %s, %s, %s, %s, %s\n" % (self._shareClassId, self._endDate, self._closePrice, self._openPrice, self._highPrice, self._lowPrice, self._volume)
