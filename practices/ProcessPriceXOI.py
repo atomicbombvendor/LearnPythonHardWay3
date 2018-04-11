@@ -1,13 +1,15 @@
 # coding=utf-8
 # 登陆PriceXOI并获取一条信息
 import gzip
+import os
 import urllib
 from http import cookiejar
 from io import BytesIO
-
 from urllib import request
+
+import sys
 from lxml import etree
-import sys, getopt
+
 from PriceDetail import PriceDetail
 
 cooke_file = "resource/pricexoicookie.dat"
@@ -23,11 +25,13 @@ headers = {
             'Upgrade-Insecure-Requests': '1',
             'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.132 Safari/537.36'
         }
-result_file ="resource/price_details.dat"
+result_file = "result/price_details.dat"
+
+
 def login():
     login_url = "http://price.xoi.morningstar.com/DataPlatform/Login.aspx"
     login_userName = "GlobalEquityData@morningstar.com"
-    login_password ="GXy1q88E"
+    login_password = "GXy1q88E"
 
     password_mgr = urllib.request.HTTPPasswordMgrWithDefaultRealm()
     password_mgr.add_password(None, login_url, login_userName, login_password)
@@ -39,7 +43,8 @@ def login():
     status = response.getcode()
     if 200 == status:
         print("Login Successful")
-        cookie.save(cooke_file, ignore_expires=True, ignore_discard=True)
+        cookie.save(cooke_file, ignore_expires=False, ignore_discard=False)
+
 
 def get_content(shareClassId=shareClassId):
     result = ""
@@ -47,9 +52,9 @@ def get_content(shareClassId=shareClassId):
         url = "http://price.xoi.morningstar.com/DataPlatform/DataOutput.aspx?" \
               "Package=HistoricalData" \
               "&ContentType=MarketPrice&IdType=PerformanceId&Id=" \
-              + shareClassId +"&Dates=2018&SplitAdjusted=1"
-        cookie = cookiejar.MozillaCookieJar()
-        cookie.load(cooke_file, ignore_discard=True, ignore_expires=True)
+              + shareClassId + "&Dates=2018&SplitAdjusted=1"
+        cookie = genereate_cookie()
+        print("开始请求页面>>>%s\r\n" % (url))
         request = urllib.request.Request(url, None, headers)
         opener = urllib.request.build_opener(urllib.request.HTTPCookieProcessor(cookie))
         response = opener.open(request)
@@ -60,27 +65,37 @@ def get_content(shareClassId=shareClassId):
             resource = f.read().decode('utf-8')
             status = response.getcode()
             if status == 200:
-                print(u"获取页面请求成功, url->\n%s" % url)
+                print(u"获取页面请求成功")
             else:
-                print(u"获取页面请求失败, url->\n%s" % url)
+                print(u"获取页面请求失败")
             result = resource
         except IOError as e:
             if e.strerror.find('gzipped') > 0:
                 resource = content.decode('utf-8')  # 不是gzip的压缩方式
                 status = response.getcode()
                 if status == 200:
-                    print(u"获取页面请求成功, url->\n%s" % url)
+                    print(u"获取页面请求成功")
                 else:
-                    print(u"获取页面请求失败, url->\n%s" % url)
+                    print(u"获取页面请求失败")
                 result = resource
         finally:
             return result
     except urllib.request.HTTPError as e:
-        print(u'The server couldn\'t fulfill the request')
-        print(u'Error code: ', e.reason)
+        print(u'找不到页面, Error: ', e.reason)
     except urllib.request.URLError as e:
         print(u'We failed to reach a server.')
         print(u'Reason: ', e.reason)
+
+
+def genereate_cookie():
+    cookie = cookiejar.MozillaCookieJar()
+    if (not os.path.exists(cooke_file)) or (not cookie.load(cooke_file, ignore_discard=False, ignore_expires=False)):
+            login()
+            cookie.load(cooke_file, ignore_discard=False, ignore_expires=False)
+    else:
+        cookie.load(cooke_file, ignore_discard=False, ignore_expires=False)
+    return cookie
+
 
 def parse_content(content):
     tree = etree.XML(content.encode('utf-8'))
@@ -107,17 +122,23 @@ def parse_content(content):
         result += detail.__str__()
     write_content(result_file, result)
 
+
 def write_content(file, content):
+    folder = os.path.dirname(file)
+    if folder and not os.path.exists(folder):
+        os.makedirs(folder)
+    os.makedirs(os.path.dirname(file))
     with open(file, "w+") as f:
         f.write(content)
-    print("Write content Done")
+    print("Write content Done. path: " + file)
 
 
-opts, args = getopt.getopt(sys.argv[1:], 'hi:o:')
 sid = sys.argv[1]
-print("sid=" + sid)
-login()
+print("输入的ShareClassId= " + sid)
 parse_content(get_content(sid))
-# 如何用脚本的参数形式把ShareClassId传入
+
+# sid = '0P00000003'
+# parse_content(get_content(sid))
+
 
 

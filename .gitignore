@@ -18,3 +18,7 @@ build
 testGit.html
 testGit2.html
 /vcs.xml
+venv/*
+*.dat
+*/*.dat
+*/*/*.dat
