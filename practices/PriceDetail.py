@@ -70,5 +70,5 @@ class PriceDetail(object):
     def OpenPrice(self, openPrice):
         self._openPrice = openPrice
 
-    def __str__(self) -> str:
+    def __str__(self):
        return "%s, %s, %s, %s, %s, %s, %s\n" % (self._shareClassId, self._endDate, self._closePrice, self._openPrice, self._highPrice, self._lowPrice, self._volume)

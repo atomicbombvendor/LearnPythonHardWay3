@@ -1,3 +1,4 @@
+# coding=utf-8
 # 登陆PriceXOI并获取一条信息
 import gzip
 import urllib
@@ -6,7 +7,7 @@ from io import BytesIO
 
 from urllib import request
 from lxml import etree
-
+import sys, getopt
 from PriceDetail import PriceDetail
 
 cooke_file = "resource/pricexoicookie.dat"
@@ -40,7 +41,7 @@ def login():
         print("Login Successful")
         cookie.save(cooke_file, ignore_expires=True, ignore_discard=True)
 
-def get_content():
+def get_content(shareClassId=shareClassId):
     result = ""
     try:
         url = "http://price.xoi.morningstar.com/DataPlatform/DataOutput.aspx?" \
@@ -111,8 +112,12 @@ def write_content(file, content):
         f.write(content)
     print("Write content Done")
 
+
+opts, args = getopt.getopt(sys.argv[1:], 'hi:o:')
+sid = sys.argv[1]
+print("sid=" + sid)
 login()
-parse_content(get_content())
+parse_content(get_content(sid))
 # 如何用脚本的参数形式把ShareClassId传入
 
 
