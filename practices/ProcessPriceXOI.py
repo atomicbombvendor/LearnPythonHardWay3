@@ -10,10 +10,7 @@ from urllib import request
 import sys
 from lxml import etree
 
-from PriceDetail import PriceDetail
-
-cooke_file = "resource/pricexoicookie.dat"
-shareClassId = "0P00000003"
+cooke_file = "data/test/pricexoicookie.dat"
 headers = {
             'Accept': 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
             'Accept-Encoding': 'gzip, deflate',
@@ -25,7 +22,8 @@ headers = {
             'Upgrade-Insecure-Requests': '1',
             'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.132 Safari/537.36'
         }
-result_file = "result/price_details.dat"
+shareClassId = None
+result_file = "data/test/@ShareId_XOI.dat"
 
 
 def login():
@@ -46,8 +44,10 @@ def login():
         cookie.save(cooke_file, ignore_expires=False, ignore_discard=False)
 
 
-def get_content(shareClassId=shareClassId):
+def get_content(sid):
     result = ""
+    global shareClassId
+    shareClassId = sid
     try:
         url = "http://price.xoi.morningstar.com/DataPlatform/DataOutput.aspx?" \
               "Package=HistoricalData" \
@@ -88,6 +88,7 @@ def get_content(shareClassId=shareClassId):
 
 
 def genereate_cookie():
+    create_folder(cooke_file)
     cookie = cookiejar.MozillaCookieJar()
     if (not os.path.exists(cooke_file)) or (not cookie.load(cooke_file, ignore_discard=False, ignore_expires=False)):
             login()
@@ -120,22 +121,98 @@ def parse_content(content):
             if "Volume" in children.tag:
                 detail._volume = children.text
         result += detail.__str__()
-    write_content(result_file, result)
+    write_content(result_file.replace("@ShareId", shareClassId), result)
 
 
 def write_content(file, content):
-    folder = os.path.dirname(file)
-    if folder and not os.path.exists(folder):
-        os.makedirs(folder)
-    os.makedirs(os.path.dirname(file))
+    create_folder(file)
     with open(file, "w+") as f:
         f.write(content)
     print("Write content Done. path: " + file)
 
 
-sid = sys.argv[1]
-print("输入的ShareClassId= " + sid)
-parse_content(get_content(sid))
+def create_folder(path):
+    folder = os.path.dirname(path)
+    if folder and not os.path.exists(folder):
+        os.makedirs(folder)
+
+class PriceDetail(object):
+
+    __slots__ = ('_shareClassId', '_endDate', '_closePrice', '_openPrice', '_highPrice', '_lowPrice', '_volume')
+
+    def __init__(self, shareClassId = None, endDate = None, closePrice = None, openPrice = None, highPrice = None, lowPrice = None, volume = None):
+        self._shareClassId = shareClassId
+        self._endDate = endDate
+        self._closePrice = closePrice
+        self._openPrice = openPrice
+        self._highPrice = highPrice
+        self._lowPrice = lowPrice
+        self._volume = volume
+
+    @property
+    def ShareClassId(self):
+        return str(self._endDate)
+
+    @ShareClassId.setter
+    def ShareClassId(self, shareClassId):
+        self._shareClassId = shareClassId
+
+    @property
+    def EndDate(self):
+        return str(self._endDate)
+
+    @EndDate.setter
+    def EndDate(self, endDate):
+        self._endDate = endDate
+
+    @property
+    def ClosePrice(self):
+        return str(self._closePrice)
+
+    @ClosePrice.setter
+    def ClosePrice(self, closePrice):
+        self._closePrice = closePrice
+
+    @property
+    def HighPrice(self):
+        return str(self._highPrice)
+
+    @HighPrice.setter
+    def HighPrice(self, highPrice):
+        self._openPrice = highPrice
+
+    @property
+    def LowPrice(self):
+        return str(self._lowPrice)
+
+    @LowPrice.setter
+    def LowPrice(self, lowPrice):
+        self._endDate = lowPrice
+
+    @property
+    def Volume(self):
+        return str(self._volume)
+
+    @Volume.setter
+    def Volume(self, volume):
+        self._volume = volume
+
+    @property
+    def OpenPrice(self):
+        return str(self._openPrice)
+
+    @OpenPrice.setter
+    def OpenPrice(self, openPrice):
+        self._openPrice = openPrice
+
+    def __str__(self):
+       return "%s, %s, %s, %s, %s, %s, %s\n" % (self._shareClassId, self._endDate, self._closePrice, self._openPrice, self._highPrice, self._lowPrice, self._volume)
+
+sids = sys.argv[1:]
+print(sids)
+for sid in sids:
+    print("输入的ShareClassId= " + sid)
+    parse_content(get_content(sid))
 
 # sid = '0P00000003'
 # parse_content(get_content(sid))

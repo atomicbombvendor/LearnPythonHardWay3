@@ -31,7 +31,7 @@ def query_data(shareClassId):
         CreateTime = row[8].strftime('%Y%m%d')
     print('共查找出', cursor.rowcount, '条数据')
 
-    file = "result/" + operationid + "/" + UpdateTime + ".dat"
+    file = "data/test/" + operationid + "/" + UpdateTime + ".dat"
     if file:
         data = "%s, %s, %s, %s, %s, %s, %s, %s, %s" \
             % (operationid, datacategoryid, idtype, productionFrom, status, MiscNotes, Notes, UpdateTime, CreateTime)
@@ -42,15 +42,21 @@ def query_data(shareClassId):
     write_content(file, data)
 
 
-def write_content(file, data):
-    folder = os.path.dirname(file)
+def write_content(file, content):
+    create_folder(file)
+    with open(file, "w+") as f:
+        f.write(content)
+    print("Write content Done. path: " + file)
+
+
+def create_folder(path):
+    folder = os.path.dirname(path)
     if folder and not os.path.exists(folder):
         os.makedirs(folder)
-    with open(file, "w") as f:
-        f.write(data)
 
 
-shareClassId = sys.argv[1]
-query_data(shareClassId)
+sids = sys.argv[1:]
+for sid in sids:
+    query_data(sid)
 
 # query_data("0P000002RH")
