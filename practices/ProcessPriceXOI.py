@@ -1,5 +1,3 @@
-# coding=utf-8
-# 登陆PriceXOI并获取一条信息
 import gzip
 import os
 import urllib
@@ -54,34 +52,34 @@ def get_content(sid):
               "&ContentType=MarketPrice&IdType=PerformanceId&Id=" \
               + shareClassId + "&Dates=2018&SplitAdjusted=1"
         cookie = genereate_cookie()
-        print("开始请求页面>>>%s\r\n" % (url))
+        print("start request URL>>>%s\r\n" % (url))
         request = urllib.request.Request(url, None, headers)
         opener = urllib.request.build_opener(urllib.request.HTTPCookieProcessor(cookie))
         response = opener.open(request)
         content = response.read()
         try:
-            buff = BytesIO(content)  # 把content转为文件对象, Gzip解压
+            buff = BytesIO(content)
             f = gzip.GzipFile(fileobj=buff)
             resource = f.read().decode('utf-8')
             status = response.getcode()
             if status == 200:
-                print(u"获取页面请求成功")
+                print(u"Request page successful")
             else:
-                print(u"获取页面请求失败")
+                print(u"Request failed")
             result = resource
         except IOError as e:
             if e.strerror.find('gzipped') > 0:
-                resource = content.decode('utf-8')  # 不是gzip的压缩方式
+                resource = content.decode('utf-8')
                 status = response.getcode()
                 if status == 200:
-                    print(u"获取页面请求成功")
+                    print(u"Get page successful")
                 else:
-                    print(u"获取页面请求失败")
+                    print(u"Get page failed")
                 result = resource
         finally:
             return result
     except urllib.request.HTTPError as e:
-        print(u'找不到页面, Error: ', e.reason)
+        print(u'Cant find Page, Error: ', e.reason)
     except urllib.request.URLError as e:
         print(u'We failed to reach a server.')
         print(u'Reason: ', e.reason)
@@ -208,14 +206,15 @@ class PriceDetail(object):
     def __str__(self):
        return "%s, %s, %s, %s, %s, %s, %s\n" % (self._shareClassId, self._endDate, self._closePrice, self._openPrice, self._highPrice, self._lowPrice, self._volume)
 
-sids = sys.argv[1:]
-print(sids)
-for sid in sids:
-    print("输入的ShareClassId= " + sid)
-    parse_content(get_content(sid))
+# sids = sys.argv[1:]
+# print(sids)
+# for sid in sids:
+#     print("ShareClassId= " + sid)
+#     parse_content(get_content(sid))
 
-# sid = '0P00000003'
-# parse_content(get_content(sid))
+sid = '0P00000003'
+
+parse_content(get_content(sid))
 
 
 
